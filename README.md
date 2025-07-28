@@ -1,28 +1,30 @@
-<!-- HEADER WITH WAVE STYLE -->
+
+<!-- 💎 MODERN GRADIENT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hey,%20I'm%20N%20R%20Bhogyaan%20👨‍💻&fontSize=36&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20N%20R%20Bhogyaan%20👨‍💻&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20|%20MERN%20Specialist&descAlignY=60&animation=fadeIn" />
 </p>
 
-<h3 align="center">💼 Web Application Developer | 🖥 MERN Stack Engineer | 🎓 MCA Graduate</h3>
+<h3 align="center">💼 Web Application Developer &nbsp; | &nbsp; 🛠 MERN Stack Engineer &nbsp; | &nbsp; 🎓 MCA Graduate</h3>
 
 <p align="center">
-  <a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bhogyaannr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Bhogyaan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://nrbhogyaan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bhogyaannr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Bhogyaan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://nrbhogyaan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **N R Bhogyaan**, a passionate **Web Application Developer** focused on crafting fast, responsive, and scalable web interfaces using the **MERN stack**. I'm detail-driven, UI-obsessed, and always exploring new technologies to sharpen my edge.
+I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scalable, full-stack web solutions using the **MERN stack**. My work reflects an obsession with clean UI, responsive design, and thoughtful UX.
 
-- 🎓 Completed **MCA** from KLN College of Engineering  
-- 💼 Currently developing a **B2B eCommerce Web App** at **Success Life Mantra**  
-- 🔧 Daily work includes full-stack development using React, Node.js, and MongoDB  
-- 🌍 I design with mobile-first in mind and prioritize performance, UX, and clean code  
-- 🧠 Fun Fact: I treat every pixel like a design opportunity
+- ✅ **MCA Graduate** from KLN College of Engineering  
+- 💼 Currently working at **Success Life Mantra**  
+- 🚀 Building a **B2B eCommerce Web App** as a **Web Developer**  
+- 💻 Daily tech stack: React, Node.js, MongoDB, Tailwind, JWT  
+- 🎯 Focused on clean code, modular architecture & mobile-first design  
+- 🧠 Fun fact: I treat front-end development as both **design** and **engineering**
 
 ---
 
@@ -89,5 +91,5 @@ Hi! I'm **N R Bhogyaan**, a passionate **Web Application Developer** focused on 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
