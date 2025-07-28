@@ -13,6 +13,10 @@
   <a href="https://nrbhogyaan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+amazing+web+applications;Let's+connect+and+collaborate" alt="Typing Animation" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
