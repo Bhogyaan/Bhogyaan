@@ -1,16 +1,16 @@
+# 🌟 Modern GitHub Profile
 
-<!-- 💎 MODERN GRADIENT HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20N%20R%20Bhogyaan%20👨‍💻&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20|%20MERN%20Specialist&descAlignY=60&animation=fadeIn" />
 </p>
 
-<h3 align="center">💼 Web Application Developer &nbsp; | &nbsp; 🛠 MERN Stack Engineer &nbsp; | &nbsp; 🎓 MCA Graduate</h3>
+<h3 align="center">💼 Web Application Developer | 🛠 MERN Stack Engineer | 🎓 MCA Graduate</h3>
 
 <p align="center">
-  <a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/bhogyaannr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Bhogyaan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://nrbhogyaan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/bhogyaannr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Bhogyaan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://nrbhogyaan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -19,11 +19,11 @@
 
 I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scalable, full-stack web solutions using the **MERN stack**. My work reflects an obsession with clean UI, responsive design, and thoughtful UX.
 
-- ✅ **MCA Graduate** from KLN College of Engineering  
-- 💼 Currently working at **Success Life Mantra**  
-- 🚀 Building a **B2B eCommerce Web App** as a **Web Developer**  
-- 💻 Daily tech stack: React, Node.js, MongoDB, Tailwind, JWT  
-- 🎯 Focused on clean code, modular architecture & mobile-first design  
+- ✅ **MCA Graduate** from KLN College of Engineering
+- 💼 Currently working at **Success Life Mantra**
+- 🚀 Building a **B2B eCommerce Web App** as a **Web Developer**
+- 💻 Daily tech stack: React, Node.js, MongoDB, Tailwind, JWT
+- 🎯 Focused on clean code, modular architecture & mobile-first design
 - 🧠 Fun fact: I treat front-end development as both **design** and **engineering**
 
 ---
@@ -33,29 +33,29 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
 <details>
 <summary><b>🛒 B2B eCommerce Web Application (Work)</b></summary>
 
-**Role**: Web Application Developer  
-**Stack**: React.js, Node.js, MongoDB, Express.js, Tailwind CSS  
-📌 Currently in development at **Success Life Mantra**  
-✅ Building core modules like user dashboards, inventory, and order systems  
-📱 Fully responsive & built for scale  
+**Role**: Web Application Developer
+**Stack**: React.js, Node.js, MongoDB, Express.js, Tailwind CSS
+📌 Currently in development at **Success Life Mantra**
+✅ Building core modules like user dashboards, inventory, and order systems
+📱 Fully responsive & built for scale
 </details>
 
 <details>
 <summary><b>📝 Real-Time Blog Platform</b></summary>
 
-**Stack**: React.js, Node.js, MongoDB, WebSockets  
-🔐 JWT Auth & Comment Live Updates  
-🧪 Performance tested to handle 500+ users  
-🎨 Built with Tailwind for adaptive design  
+**Stack**: React.js, Node.js, MongoDB, WebSockets
+🔐 JWT Auth & Comment Live Updates
+🧪 Performance tested to handle 500+ users
+🎨 Built with Tailwind for adaptive design
 </details>
 
 <details>
 <summary><b>🎯 Quiz Management System</b></summary>
 
-**Stack**: PHP, MySQL, Bootstrap  
-🕒 Timer-based quizzes with auto-evaluation  
-📊 97% grading accuracy in user testing  
-📱 Responsive UI across 90% of devices  
+**Stack**: PHP, MySQL, Bootstrap
+🕒 Timer-based quizzes with auto-evaluation
+📊 97% grading accuracy in user testing
+📱 Responsive UI across 90% of devices
 </details>
 
 ---
@@ -64,7 +64,10 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
 
 | Frontend | Backend | Database | Tools |
 |---------|---------|----------|-------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
+| ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) | ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) |
+| ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) | | | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) | | | |
 
 ---
 
@@ -79,9 +82,9 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
 
 ## 📫 Contact Me
 
-- ✉️ Email: [bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com)  
-- 🌍 Portfolio: [nrbhogyaan.vercel.app](https://nrbhogyaan.vercel.app)  
-- 🔗 LinkedIn: [linkedin.com/in/bhogyaannr](https://www.linkedin.com/in/bhogyaannr/)  
+- ✉️ Email: [bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com)
+- 🌍 Portfolio: [nrbhogyaan.vercel.app](https://nrbhogyaan.vercel.app)
+- 🔗 LinkedIn: [linkedin.com/in/bhogyaannr](https://www.linkedin.com/in/bhogyaannr/)
 - 💻 GitHub: [github.com/Bhogyaan](https://github.com/Bhogyaan)
 
 ---
