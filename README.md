@@ -86,7 +86,7 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
     width="48%" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Bhogyaan&repo=b2b&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Bhogyaan&repo=B2B_Ecommerce&theme=radical&hide_border=true" 
     alt="Pinned Repo - B2B eCommerce" 
     width="48%" 
   />
