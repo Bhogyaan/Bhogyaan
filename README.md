@@ -73,7 +73,7 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
     width="48%" 
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogyaan&theme=radical&hide_border=true&count_private=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogyaan&repo=b2b&theme=radical&hide_border=true&count_private=true" 
     alt="GitHub Streak" 
     width="48%" 
   />
