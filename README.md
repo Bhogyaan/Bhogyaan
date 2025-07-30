@@ -81,7 +81,7 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhogyaan&repo=your-repo-name&theme=radical" alt="Pinned Repo" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhogyaan&repo=b2b&theme=radical" alt="Pinned Repo" width="48%" />
 </p>
 
 ---
