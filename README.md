@@ -75,22 +75,25 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogyaan&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogyaan&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhogyaan&repo=your-repo-name&theme=radical" alt="Pinned Repo" width="48%" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- ✉️ Email: [bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com)
-- 🌍 Portfolio: [nrbhogyaan.vercel.app](https://nrbhogyaan.vercel.app)
-- 🔗 LinkedIn: [linkedin.com/in/bhogyaannr](https://www.linkedin.com/in/bhogyaannr/)
-- 💻 GitHub: [github.com/Bhogyaan](https://github.com/Bhogyaan)
+| Method | Link |
+| - | - |
+| ✉️ Email | [bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com) |
+| 🌍 Portfolio | [nrbhogyaan.vercel.app](https://nrbhogyaan.vercel.app) |
+| 🔗 LinkedIn | [linkedin.com/in/bhogyaannr](https://www.linkedin.com/in/bhogyaannr/) |
+| 💻 GitHub | [github.com/Bhogyaan](https://github.com/Bhogyaan) |
 
 ---
 
