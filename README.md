@@ -99,7 +99,7 @@ I'm **N R Bhogyaan**, a passionate **Web Application Developer** who builds scal
 | Method | Link |
 | ------ | ---- |
 | ✉️ Email | [bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com) |
-| 🌍 Portfolio | [nrbhogyaan.vercel.app](https://nrbhogyaan.vercel.app) |
+| 🌍 Portfolio | [bhogyaan.vercel.app](https://bhogyaan.vercel.app) |
 | 🔗 LinkedIn | [linkedin.com/in/bhogyaannr](https://www.linkedin.com/in/bhogyaannr/) |
 | 💻 GitHub | [github.com/Bhogyaan](https://github.com/Bhogyaan) |
 
