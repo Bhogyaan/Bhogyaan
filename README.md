@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=N%20R%20Bhogyaan%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer%20|%20Web%20Application%20Engineer&descAlignY=60" />
 </p>
 
-<h3 align="center">Crafting Scalable & High-Performance Web Applications</h3>
+<h3 align="center">Crafting Scalable, Modern & High-Performance Web Applications</h3>
 
 <!-- SOCIAL LINKS -->
 <p align="center">
@@ -15,48 +15,70 @@
 
 ---
 
-## 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
-I'm **N R Bhogyaan**, a **Web Application Developer** specializing in scalable and maintainable solutions using the **MERN Stack**.
+I’m **N R Bhogyaan**, a passionate **MERN Stack Developer** focused on building clean, scalable, user-centered web applications.
 
 - 🎓 MCA Graduate — KLN College of Engineering  
-- 💼 Web Application Developer @ **Success Life Mantra**  
-- 🚀 Currently building a **B2B eCommerce Platform**  
-- 🌐 Strong focus on UI/UX + high-performance backend  
-- 🔥 Passion: Turning complex ideas into clean, intuitive interfaces  
+- 💼 Web Developer @ **Success Life Mantra**  
+- 🛒 Building large-scale **B2B Web Applications**  
+- 🔐 Experience with JWT Auth, API Security, and role-based systems  
+- 🎨 Treat UI/UX as a blend of creativity + engineering  
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-### 🛒 **B2B eCommerce Platform — Ongoing**
-**Role:** MERN Developer  
+### 🧠 **CareerPro — AI Job Accelerator Platform**
+**Role:** Full-Stack Developer  
+**Stack:** React.js, Node.js, MongoDB, Express.js, Tailwind CSS, JWT  
+
+CareerPro enables job seekers to **land their dream job 10X faster** using AI-powered tools — resume building, LinkedIn visibility, interview practice, and job tracking.
+
+#### 🌟 Key Features  
+- 📄 AI-generated **Resumes, Cover Letters & Video Scripts**  
+- 🔗 AI-powered **LinkedIn Posts, Articles & Capstone Projects**  
+- 🎤 AI Mock Interviews with instant feedback  
+- 📊 Dashboard to track job applications, HR calls & interview rounds  
+- 🧭 Eliminates job search confusion for freshers & professionals  
+- ⚙️ Built as a scalable, production-ready web platform  
+
+---
+
+### 🛒 **B2B eCommerce Platform (Work Project)**
+**Role:** MERN Stack Developer  
 **Tech:** React, Node.js, MongoDB, Tailwind  
-- Role-based dashboards  
-- Inventory + Order Management  
-- Optimized API layer for scalability  
+
+- Inventory & order management  
+- Vendor dashboard with role-based access  
+- Optimized API layer for large product datasets  
+- Fully responsive UI  
 
 ---
 
 ### 📝 **Real-Time Blog Platform**
-**Tech:** React, Node.js, MongoDB, WebSockets  
-- Live commenting  
-- JWT Auth  
+**Tech:** React, Node.js, WebSockets, MongoDB**
+
+- Live comment updates  
+- JWT authentication  
 - Handles 500+ concurrent users  
+- Adaptive UI using Tailwind  
 
 ---
 
 ### 🎯 **Quiz Management System**
-**Tech:** PHP, MySQL, Bootstrap  
-- Timer-based quizzes  
-- 97% accuracy in automated evaluation  
+**Tech:** PHP, MySQL, Bootstrap**
+
+- Timer-based quiz interface  
+- Auto evaluation with 97% accuracy  
+- Mobile-first UI  
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠 Tech Stack
 
 ### **Frontend**
-React • Vue.js • Tailwind • Bootstrap  
+React • Vue.js • TailwindCSS • Bootstrap  
 
 ### **Backend**
 Node.js • Express.js  
@@ -69,7 +91,7 @@ Git • VS Code • Figma
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
@@ -82,7 +104,7 @@ Git • VS Code • Figma
 
 ---
 
-## 📬 **Connect With Me**
+## 📬 Contact Me
 
 | Platform | Link |
 |---------|------|
