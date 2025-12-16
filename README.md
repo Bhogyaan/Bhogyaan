@@ -1,5 +1,5 @@
 <!-- HEADER SECTION -->
-<p align="center">
+<p align="center mb-3">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=N%20R%20Bhogyaan%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer%20|%20Web%20Application%20Engineer&descAlignY=60" />
 </p>
 
