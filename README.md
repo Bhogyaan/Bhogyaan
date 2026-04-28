@@ -1,82 +1,88 @@
 <!-- HEADER -->
-<h1 align="center">N R Bhogyaan</h1>
-<p align="center">Full Stack Developer | Building Clean & Scalable Web Applications</p>
+<h1 align="center">Hi 👋, I'm N R Bhogyaan</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Building Modern Web Experiences</h3>
 
 <p align="center">
-  <a href="mailto:bhogyaannr@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/bhogyaannr">LinkedIn</a> •
-  <a href="https://github.com/Bhogyaan">GitHub</a> •
-  <a href="https://bhogyaan.vercel.app/">Portfolio</a>
+  <a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bhogyaannr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Bhogyaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://bhogyaan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a Full Stack Developer focused on creating modern, responsive, and scalable web applications.
-
-- MCA Graduate  
-- Strong in MERN Stack Development  
-- Experience in authentication, APIs, dashboards, and admin systems  
-- Interested in UI/UX and performance optimization  
-- Passionate about solving real-world problems through code  
+- 💻 Full Stack Developer focused on scalable web applications  
+- ⚛️ Strong experience in React.js, Node.js, Express.js, MongoDB  
+- 🎯 Passionate about clean UI, performance, and user experience  
+- 🔐 Built secure authentication & dashboard systems  
+- 🚀 Always learning and building better products  
 
 ---
 
-## Skills
+## 🛠️ Tech Stack
 
-**Frontend**  
-React.js • JavaScript • HTML • CSS • Tailwind CSS • Bootstrap
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+</p>
 
-**Backend**  
-Node.js • Express.js
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-**Database**  
-MongoDB • MySQL
-
-**Tools**  
-Git • GitHub • VS Code • Figma
-
----
-
-## Projects
-
-### CareerPro
-AI-powered job platform with resume tools, interview practice, and job tracking dashboard.
-
-**Tech:** React.js, Node.js, MongoDB, Express.js
-
----
-
-### Blog Platform
-Real-time blogging platform with authentication and live comments.
-
-**Tech:** React.js, Node.js, MongoDB
-
----
-
-### Quiz Management System
-Online quiz system with timer, auto evaluation, and responsive design.
-
-**Tech:** PHP, MySQL
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&hide_border=true" width="45%" />
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-- Email: bhogyaannr@gmail.com  
-- Portfolio: https://bhogyaan.vercel.app  
-- LinkedIn: https://linkedin.com/in/bhogyaannr  
-- GitHub: https://github.com/Bhogyaan
+### 🔹 CareerPro
+AI-powered job platform with resume tools, interview preparation, and tracking dashboard.
+
+**Stack:** React.js • Node.js • MongoDB • Express.js
+
+### 🔹 Real-Time Blog Platform
+Modern blogging system with JWT auth and live comments.
+
+**Stack:** React.js • Node.js • MongoDB
+
+### 🔹 Quiz Management System
+Responsive online quiz platform with timer and auto evaluation.
+
+**Stack:** PHP • MySQL
 
 ---
-<p align="center">Thanks for visiting my profile</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogyaan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:bhogyaannr@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/bhogyaannr">💼 LinkedIn</a> •
+  <a href="https://github.com/Bhogyaan">💻 GitHub</a> •
+  <a href="https://bhogyaan.vercel.app/">🌐 Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile ⭐</i>
+</p>
