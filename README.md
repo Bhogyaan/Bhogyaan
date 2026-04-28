@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm N R Bhogyaan</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building Modern Web Experiences</h3>
+<h3 align="center">Associate Software Engineer | Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
   <a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -13,11 +13,25 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer focused on scalable web applications  
-- ⚛️ Strong experience in React.js, Node.js, Express.js, MongoDB  
-- 🎯 Passionate about clean UI, performance, and user experience  
-- 🔐 Built secure authentication & dashboard systems  
-- 🚀 Always learning and building better products  
+- 💻 Currently working as an **Associate Software Engineer**  
+- ⚛️ Focused on **Frontend Development**, responsive UI, and user experience  
+- 🚀 Experienced in Full Stack development using MERN technologies  
+- 📋 Skilled in project coordination, task scheduling, and workflow management  
+- 🎯 Passionate about building scalable and modern digital products  
+
+---
+
+## 💼 Professional Experience
+
+### Associate Software Engineer
+
+- Developing and maintaining modern web applications  
+- Building responsive frontend interfaces using React.js and Tailwind CSS  
+- Improving UI/UX for better customer engagement and usability  
+- Collaborating with backend teams for smooth API integration  
+- Managing daily tasks, sprint planning, and development timelines  
+- Coordinating project progress with team members and stakeholders  
+- Ensuring on-time delivery with quality-focused development practices  
 
 ---
 
@@ -43,17 +57,17 @@
 ## 🚀 Featured Projects
 
 ### 🔹 CareerPro
-AI-powered job platform with resume tools, interview preparation, and tracking dashboard.
+AI-powered platform for resumes, interview preparation, and job tracking.
 
 **Stack:** React.js • Node.js • MongoDB • Express.js
 
 ### 🔹 Real-Time Blog Platform
-Modern blogging system with JWT auth and live comments.
+JWT authentication with live comments and responsive UI.
 
 **Stack:** React.js • Node.js • MongoDB
 
 ### 🔹 Quiz Management System
-Responsive online quiz platform with timer and auto evaluation.
+Timer-based quiz system with auto evaluation.
 
 **Stack:** PHP • MySQL
 
@@ -84,5 +98,5 @@ Responsive online quiz platform with timer and auto evaluation.
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile ⭐</i>
+  <i>Open to opportunities, collaborations, and impactful projects 🚀</i>
 </p>
