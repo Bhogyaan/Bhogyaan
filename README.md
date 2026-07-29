@@ -218,12 +218,17 @@ Productivity-focused browser extension built for daily dev workflows.
 
 ### 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=00F5D4&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+<!-- cache_seconds is important: it stops the public instance from re-querying
+     the GitHub API on every single page load, which is the #1 cause of the
+     "broken image" / rate-limit problem. -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=00F5D4&text_color=C9D1D9&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Bhogyaan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=FFD166&currStreakLabel=00F5D4"/>
+<!-- FIXED: the old herokuapp.com streak-stats domain is permanently dead
+     (Heroku killed free dynos in 2022). This is the current maintained host. -->
+<img width="90%" src="https://streak-stats.demolab.com?user=Bhogyaan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=FFD166&currStreakLabel=00F5D4"/>
 
 <br/>
 
@@ -231,7 +236,7 @@ Productivity-focused browser extension built for daily dev workflows.
 
 <br/><br/>
 
-<img width="75%" src="https://github-profile-trophy.vercel.app/?username=Bhogyaan&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+<img width="75%" src="https://github-profile-trophy.vercel.app/?username=Bhogyaan&theme=darkhub&column=4&margin-w=10&margin-h=10"/>
 
 </div>
 
