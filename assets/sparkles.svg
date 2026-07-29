@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40">
+  <circle cx="50" cy="20" r="2" fill="#58A6FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="12" r="1.5" fill="#00F5D4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="280" cy="28" r="2" fill="#7C3AED"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <circle cx="420" cy="15" r="1.5" fill="#FFD166"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+  <circle cx="550" cy="25" r="2" fill="#58A6FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="680" cy="10" r="1.5" fill="#00F5D4"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.9s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="800" cy="22" r="2" fill="#7C3AED"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="0.1s" repeatCount="indefinite"/></circle>
+  <circle cx="880" cy="18" r="1.5" fill="#FF6B6B"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.1s" begin="0.5s" repeatCount="indefinite"/></circle>
+</svg>

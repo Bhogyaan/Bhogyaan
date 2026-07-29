@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <rect width="800" height="60" rx="10" fill="#161B22" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="30" r="6" fill="#FF6B6B"/>
+  <circle cx="44" cy="30" r="6" fill="#FFD166"/>
+  <circle cx="64" cy="30" r="6" fill="#3FB950"/>
+  <text x="90" y="35" font-family="Fira Code,monospace" font-size="14" fill="#8B949E">bhogyaan@dev ~ %</text>
+  <text x="250" y="35" font-family="Fira Code,monospace" font-size="14" fill="#00F5D4">whoami</text>
+</svg>

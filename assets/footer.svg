@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#fg)"/>
+  <text x="600" y="45" text-anchor="middle" font-family="system-ui,sans-serif" font-size="15" fill="#8B949E">Thanks for visiting! Let&#39;s build something great.</text>
+  <text x="600" y="70" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#58A6FF">N R Bhogyaan · Frontend Software Engineer · Madurai, India</text>
+</svg>

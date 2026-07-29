@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#g)"/>
+  <text x="600" y="90" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="42" font-weight="700" fill="#58A6FF">N R BHOGYAAN</text>
+  <text x="600" y="130" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="16" fill="#8B949E">Frontend Software Engineer · React / Next.js / TypeScript / MERN</text>
+  <rect x="400" y="155" width="400" height="3" rx="2" fill="url(#neon)"/>
+</svg>

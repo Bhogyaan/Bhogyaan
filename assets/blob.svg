@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="blobg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#blobg)">
+    <animate attributeName="d"
+      values="M60,20 Q90,30 95,60 Q90,90 60,100 Q30,90 25,60 Q30,30 60,20;
+              M60,25 Q95,35 100,60 Q85,95 60,95 Q25,85 20,60 Q35,25 60,25;
+              M60,20 Q90,30 95,60 Q90,90 60,100 Q30,90 25,60 Q30,30 60,20"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
