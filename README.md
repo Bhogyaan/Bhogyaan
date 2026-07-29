@@ -246,7 +246,7 @@ Productivity-focused browser extension built for daily dev workflows.
 
 <img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-<sub>Generated automatically via GitHub Actions — see <code>snake.yml</code> workflow below.</sub>
+
 
 </div>
 
