@@ -42,7 +42,7 @@
 
 <!-- Animated wave divider -->
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
@@ -115,7 +115,7 @@
 
 <!-- Wave -->
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
@@ -207,7 +207,7 @@ bhogyaan@dev:~$ status
 <br/>
 
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
@@ -277,7 +277,7 @@ bhogyaan@dev:~$ status
 <br/>
 
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
@@ -334,7 +334,7 @@ bhogyaan@dev:~$ status
 <br/>
 
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
@@ -430,7 +430,7 @@ bhogyaan@dev:~$ status
 <br/>
 
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
@@ -471,7 +471,7 @@ bhogyaan@dev:~$ status
 <br/>
 
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
@@ -503,7 +503,7 @@ bhogyaan@dev:~$ status
 <br/>
 
 <div align="center">
-  <img width="100%" src="./assets/wave-divider.svg" alt="wave"/>
+  <img width="100%" src="./assets/divider.svg" alt="wave"/>
 </div>
 
 <br/>
