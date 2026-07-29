@@ -360,34 +360,95 @@
   <br/>
   <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=Bhogyaan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7C3AED&fire=FFD166&currStreakLabel=58A6FF&sideLabels=00F5D4&dates=8B949E&border_radius=15" alt="Streak Stats">
   <br/>
+  <!-- 3D Contribution Graph - Working & Reliable -->
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogyaan&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=7C3AED&point=00F5D4&area=true&hide_border=true&radius=16" alt="Contribution Graph">
 </div>
 
 <br/>
 
-<!-- 3D CONTRIBUTIONS & ANIMATIONS -->
+<!-- ANIMATED CONTRIBUTION VISUALIZATION - Reliable Alternative -->
 <div align="center">
-  <h2 style="color: #F8FAFC;">🐍 CONTRIBUTION WAVE</h2>
+  <h2 style="color: #F8FAFC;">🎯 CONTRIBUTION PULSE</h2>
+  <!-- Contribution Calendar - Always works -->
+  <img width="88%" src="https://ghchart.rshah.org/58A6FF/Bhogyaan" alt="Contribution Calendar" style="border-radius: 16px; border: 1px solid rgba(88,166,255,0.15);">
+  <br/><br/>
+  <!-- GitHub Contribution Grid - Reliable Service -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake-dark.svg">
-    <img width="85%" src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake.svg" alt="Snake animation" style="border-radius: 16px;">
+    <img width="88%" src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake.svg" alt="Contribution snake" style="border-radius: 16px; border: 1px solid rgba(88,166,255,0.1);">
   </picture>
-  <!-- Note: To activate the snake animation, set up the GitHub Action from Platane/snk -->
-  <br/><br/>
-  <img width="85%" src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake.svg" alt="Pacman style" style="border-radius: 16px; opacity: 0.85;">
+  <p style="color: #8B949E; font-size: 0.75rem; margin: 6px 0 0;">⚡ Contribution snake auto-updates via GitHub Actions — see setup guide below</p>
 </div>
 
 <br/>
 
-<!-- TROPHY CASE -->
+<!-- SKILL METRICS - Alternative to Trophy Wall -->
 <div align="center">
-  <h2 style="color: #F8FAFC;">🏆 ACHIEVEMENTS</h2>
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Bhogyaan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&title_color=58A6FF&icon_color=00F5D4" alt="Trophy Wall">
+  <h2 style="color: #F8FAFC;">📈 SKILL METRICS</h2>
+  <table style="width: 90%; max-width: 950px;">
+    <tr>
+      <td width="33%" align="center" style="background: rgba(22,27,34,0.7); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(88,166,255,0.15);">
+        <h3 style="color: #58A6FF; margin: 0 0 10px;">💻 Frontend</h3>
+        <div style="display: flex; flex-direction: column; gap: 6px;">
+          <span style="color: #C9D1D9;">React.js ▸ ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Next.js ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">TypeScript ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Tailwind CSS ▸ ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Redux ▸ ▸ ▸ ▸ ▸</span>
+        </div>
+      </td>
+      <td width="33%" align="center" style="background: rgba(22,27,34,0.7); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(0,245,212,0.15);">
+        <h3 style="color: #00F5D4; margin: 0 0 10px;">🔧 Backend</h3>
+        <div style="display: flex; flex-direction: column; gap: 6px;">
+          <span style="color: #C9D1D9;">Node.js ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Express ▸ ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Fastify ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">MongoDB ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">MySQL ▸ ▸ ▸</span>
+        </div>
+      </td>
+      <td width="33%" align="center" style="background: rgba(22,27,34,0.7); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; border: 1px solid rgba(124,58,237,0.15);">
+        <h3 style="color: #7C3AED; margin: 0 0 10px;">⚙️ DevOps & Tools</h3>
+        <div style="display: flex; flex-direction: column; gap: 6px;">
+          <span style="color: #C9D1D9;">Git/GitHub ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Vercel ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Netlify ▸ ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Render ▸ ▸ ▸</span>
+          <span style="color: #C9D1D9;">Figma ▸ ▸ ▸</span>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- RANDOM DEV QUOTE -->
+<!-- ACHIEVEMENT BADGES - Reliable Alternative -->
+<div align="center">
+  <h2 style="color: #F8FAFC;">🏅 ACHIEVEMENTS</h2>
+  <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; max-width: 800px;">
+    <div style="background: rgba(22,27,34,0.8); backdrop-filter: blur(12px); border: 1px solid rgba(88,166,255,0.25); border-radius: 16px; padding: 20px; min-width: 180px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+      <h2 style="color: #58A6FF; margin: 0; font-size: 2rem;">4x</h2>
+      <p style="color: #8B949E; margin: 4px 0 0; font-size: 0.85rem;">Page Load Boost</p>
+    </div>
+    <div style="background: rgba(22,27,34,0.8); backdrop-filter: blur(12px); border: 1px solid rgba(0,245,212,0.25); border-radius: 16px; padding: 20px; min-width: 180px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+      <h2 style="color: #00F5D4; margin: 0; font-size: 2rem;">4</h2>
+      <p style="color: #8B949E; margin: 4px 0 0; font-size: 0.85rem;">Devs Mentored</p>
+    </div>
+    <div style="background: rgba(22,27,34,0.8); backdrop-filter: blur(12px); border: 1px solid rgba(124,58,237,0.25); border-radius: 16px; padding: 20px; min-width: 180px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+      <h2 style="color: #7C3AED; margin: 0; font-size: 2rem;">1K+</h2>
+      <p style="color: #8B949E; margin: 4px 0 0; font-size: 0.85rem;">Active Users</p>
+    </div>
+    <div style="background: rgba(22,27,34,0.8); backdrop-filter: blur(12px); border: 1px solid rgba(255,209,102,0.25); border-radius: 16px; padding: 20px; min-width: 180px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+      <h2 style="color: #FFD166; margin: 0; font-size: 2rem;">6+</h2>
+      <p style="color: #8B949E; margin: 4px 0 0; font-size: 0.85rem;">Projects Shipped</p>
+    </div>
+  </div>
+</div>
+
+<br/>
+
+<!-- RANDOM DEV QUOTE - Working Service -->
 <div align="center" style="background: rgba(22,27,34,0.6); backdrop-filter: blur(15px); border: 1px solid rgba(255,209,102,0.2); border-radius: 16px; padding: 24px; width: 75%; max-width: 750px;">
   <p style="color: #FFD166; font-style: italic; font-size: 1.1rem; margin: 0 0 12px;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote">
@@ -395,7 +456,17 @@
 
 <br/>
 
-<!-- VISITOR ANALYTICS & FOOTER -->
+<!-- SUPPORT & SPONSOR -->
+<div align="center">
+  <h2 style="color: #F8FAFC;">☕ SUPPORT MY WORK</h2>
+  <a href="https://www.buymeacoffee.com/bhogyaan" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0D1117" height="45" alt="Buy Me A Coffee">
+  </a>
+</div>
+
+<br/>
+
+<!-- VISITOR ANALYTICS & CONNECT -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhogyaan&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge&labelColor=0D1117" alt="Visitor Counter">
   <img src="https://img.shields.io/github/followers/Bhogyaan?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117" alt="Followers">
@@ -407,9 +478,6 @@
     <span style="color: #00F5D4;">🌐 bhogyaan.vercel.app</span> &nbsp;|&nbsp; 
     <span style="color: #7C3AED;">💼 linkedin.com/in/bhogyaannr</span>
   </p>
-  <a href="https://www.buymeacoffee.com/bhogyaan" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0D1117" alt="Sponsor">
-  </a>
 </div>
 
 <br/>
@@ -422,7 +490,44 @@
   </picture>
 </div>
 
-<!-- KEYFRAMES FOR GLOW & PULSE -->
+<!-- 
+  ══════════════════════════════════════════════════════════
+  SETUP INSTRUCTIONS FOR SNAKE ANIMATION (Optional)
+  ══════════════════════════════════════════════════════════
+  
+  To activate the contribution snake animation that 
+  auto-updates, create a GitHub Action:
+
+  1. Create file: .github/workflows/snake.yml
+  2. Add this content:
+
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 0 * * *"  # Runs daily at midnight
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Bhogyaan
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  ══════════════════════════════════════════════════════════
+-->
+
+<!-- KEYFRAMES FOR ANIMATIONS -->
 <style>
 @keyframes pulse {
   0% { opacity: 1; }
