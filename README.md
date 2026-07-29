@@ -13,10 +13,7 @@
   <img width="100%" src="./assets/hero-animated.svg" alt="Animated Hero — N R Bhogyaan"/>
 </div>
 
-<!-- Fallback capsule header if local SVG not yet pushed -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,70:1a1f2e,100:0D1117&height=200&section=header&text=N%20R%20BHOGYAAN&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Software%20Engineer%20%E2%80%A2%20React%20%2F%20Next.js%20%2F%20TypeScript%20%2F%20MERN&descAlignY=62&descSize=16&descColor=8B949E" alt="Capsule Header"/>
-</div>
+
 
 <!-- ════════════════════════════════════════════════════════════
      TYPING ANIMATION — rotating neon taglines
