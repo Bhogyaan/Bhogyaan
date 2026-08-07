@@ -549,10 +549,4 @@ bhogyaan@dev:~$ status
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20great.&fontSize=15&fontColor=8B949E&animation=fadeIn&fontAlignY=65&desc=N%20R%20Bhogyaan%20%E2%80%A2%20Frontend%20Software%20Engineer%20%E2%80%A2%20Madurai%2C%20India&descSize=12&descColor=58A6FF&descAlignY=82" alt="Footer Capsule"/>
 </div>
 
-<!--
-  SETUP
-  1. Repo name must be Bhogyaan/Bhogyaan (public)
-  2. Push README.md + assets/ + .github/workflows/
-  3. Actions → run Snake + Pacman once
-  4. Update project Live/Code links + social usernames
--->
+
