@@ -1,109 +1,522 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
-<title id="title">Bhogyaan NR — Animated Developer Profile</title>
-<desc id="desc">Animated developer profile scene with a hanging ID card, terminal, skills, experience, projects and links.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172033"/></linearGradient>
-  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eef2f7"/></linearGradient>
-  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".28"/></filter>
-  <style>
-    .title{font:700 34px Arial,sans-serif;fill:#fff}.sub{font:500 16px Arial,sans-serif;fill:#aebbd0}
-    .label{font:700 13px Arial,sans-serif;fill:#93a4bd;letter-spacing:1.4px}.body{font:500 15px Arial,sans-serif;fill:#dbe5f3}
-    .mono{font:600 14px "Courier New",monospace;fill:#cfe8ff}.dark{font:700 18px Arial,sans-serif;fill:#162033}
-    .small{font:500 12px Arial,sans-serif;fill:#52627a}
-  </style>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Bhogyaan NR Animated Developer Profile">
+  <defs>
+    <!-- Background gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="50%" stop-color="#0E1628"/>
+      <stop offset="100%" stop-color="#121B2B"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1A2438"/>
+      <stop offset="100%" stop-color="#141C2E"/>
+    </linearGradient>
+    <linearGradient id="accentBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <linearGradient id="perfBefore" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="perfAfter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="idCardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="monitorScreen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
 
-<rect width="1200" height="780" rx="28" fill="url(#bg)"/>
-<circle cx="1020" cy="90" r="170" fill="#2b7fff" opacity=".08"/>
-<circle cx="120" cy="690" r="210" fill="#7c5cff" opacity=".07"/>
+    <!-- Filters -->
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <filter id="subtleGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="chipShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
 
-<!-- decorative particles -->
-<g fill="#8fb8ff" opacity=".55">
- <circle cx="70" cy="80" r="3"><animate attributeName="cy" values="80;55;80" dur="4s" repeatCount="indefinite"/></circle>
- <circle cx="1110" cy="210" r="3"><animate attributeName="cy" values="210;180;210" dur="3.5s" repeatCount="indefinite"/></circle>
- <circle cx="1010" cy="690" r="3"><animate attributeName="cy" values="690;660;690" dur="4.2s" repeatCount="indefinite"/></circle>
-</g>
+    <!-- Clip paths -->
+    <clipPath id="terminalClip">
+      <rect x="0" y="0" width="320" height="210" rx="8"/>
+    </clipPath>
+    <clipPath id="idCardClip">
+      <rect x="0" y="0" width="220" height="300" rx="14"/>
+    </clipPath>
+  </defs>
 
-<!-- header -->
-<text x="60" y="68" class="label">FRONTEND SOFTWARE ENGINEER • 1+ YEAR EXPERIENCE</text>
-<text x="60" y="112" class="title">Bhogyaan NR</text>
-<text x="60" y="142" class="sub">React.js • Next.js • Redux • MERN • Performance • UI Engineering</text>
+  <!-- ========== BACKGROUND ========== -->
+  <g id="background">
+    <rect width="1200" height="800" fill="url(#bgGrad)"/>
+    <!-- Subtle grid -->
+    <g opacity="0.06" stroke="#AEBBD0" stroke-width="0.6">
+      <path d="M0 80 H1200 M0 160 H1200 M0 240 H1200 M0 320 H1200 M0 400 H1200 M0 480 H1200 M0 560 H1200 M0 640 H1200 M0 720 H1200"/>
+      <path d="M80 0 V800 M160 0 V800 M240 0 V800 M320 0 V800 M400 0 V800 M480 0 V800 M560 0 V800 M640 0 V800 M720 0 V800 M800 0 V800 M880 0 V800 M960 0 V800 M1040 0 V800 M1120 0 V800"/>
+    </g>
+    <!-- Soft glows -->
+    <circle cx="200" cy="150" r="180" fill="url(#glowBlue)" opacity="0.5"/>
+    <circle cx="980" cy="500" r="200" fill="url(#glowPurple)" opacity="0.4"/>
+    <circle cx="600" cy="700" r="150" fill="url(#glowBlue)" opacity="0.25"/>
+  </g>
 
-<!-- hanging ID card -->
-<g filter="url(#shadow)">
- <path d="M230 0 C230 70 245 92 300 112" fill="none" stroke="#b7c3d5" stroke-width="3"/>
- <path d="M360 0 C360 70 345 92 300 112" fill="none" stroke="#b7c3d5" stroke-width="3"/>
- <circle cx="300" cy="112" r="8" fill="#dbe5f3"/>
- <g transform="rotate(-2 300 270)">
-  <rect x="150" y="112" width="300" height="330" rx="22" fill="url(#card)"/>
-  <rect x="150" y="112" width="300" height="70" rx="22" fill="#14213d"/>
-  <rect x="150" y="160" width="300" height="22" fill="#14213d"/>
-  <circle cx="300" cy="228" r="48" fill="#d9e2ee"/>
-  <text x="300" y="236" text-anchor="middle" class="dark">BN</text>
-  <text x="300" y="300" text-anchor="middle" class="dark">BHOGYAAN NR</text>
-  <text x="300" y="323" text-anchor="middle" class="small">Associate Software Engineer</text>
-  <text x="300" y="351" text-anchor="middle" class="small">Madurai, Tamil Nadu</text>
-  <text x="300" y="384" text-anchor="middle" class="small">React • Next • MERN</text>
-  <rect x="205" y="403" width="190" height="2" rx="1" fill="#d6deea"/>
-  <text x="300" y="426" text-anchor="middle" class="small">github.com/Bhogyaan</text>
- </g>
- <animateTransform attributeName="transform" type="rotate" values="-1 300 112;1 300 112;-1 300 112" dur="5s" repeatCount="indefinite"/>
-</g>
+  <!-- ========== FLOATING PARTICLES ========== -->
+  <g id="particles" opacity="0.55">
+    <circle cx="120" cy="90" r="1.5" fill="#3B82F6">
+      <animate attributeName="cy" values="90;70;90" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="340" cy="200" r="1.2" fill="#7C5CFF">
+      <animate attributeName="cy" values="200;175;200" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="120" r="1.8" fill="#22C55E">
+      <animate attributeName="cy" values="120;95;120" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="280" r="1.3" fill="#3B82F6">
+      <animate attributeName="cy" values="280;255;280" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="180" r="1.5" fill="#F59E0B">
+      <animate attributeName="cy" values="180;155;180" dur="6.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="480" cy="60" r="1.1" fill="#AEBBD0">
+      <animate attributeName="cy" values="60;40;60" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="320" r="1.4" fill="#7C5CFF">
+      <animate attributeName="cy" values="320;295;320" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="450" r="1.2" fill="#3B82F6">
+      <animate attributeName="cy" values="450;425;450" dur="8.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="870" cy="420" r="1.6" fill="#22C55E">
+      <animate attributeName="cy" values="420;400;420" dur="6.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="550" r="1.3" fill="#AEBBD0">
+      <animate attributeName="cy" values="550;525;550" dur="7.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-<!-- terminal -->
-<g filter="url(#shadow)">
- <rect x="500" y="185" width="620" height="270" rx="18" fill="#0a0f18" stroke="#29364a"/>
- <circle cx="528" cy="211" r="6" fill="#e4e9f0"/><circle cx="548" cy="211" r="6" fill="#e4e9f0"/><circle cx="568" cy="211" r="6" fill="#e4e9f0"/>
- <text x="520" y="250" class="mono">$ whoami</text>
- <text x="520" y="278" class="mono">bhogyaan — frontend_engineer</text>
- <text x="520" y="315" class="mono">$ stack --current</text>
- <text x="520" y="343" class="mono">React.js  Next.js  Redux  Node.js</text>
- <text x="520" y="370" class="mono">Express  MongoDB  Tailwind  GSAP</text>
- <text x="520" y="407" class="mono">$ performance --result</text>
- <text x="520" y="435" class="mono">page_load: up_to_4x_faster ✓</text>
- <rect x="520" y="449" width="10" height="3" fill="#cfe8ff">
-  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
- </rect>
-</g>
+  <!-- ========== HANGING ID CARD ========== -->
+  <g id="id-card">
+    <!-- Strings -->
+    <line x1="560" y1="0" x2="555" y2="48" stroke="#4B5563" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="640" y1="0" x2="645" y2="48" stroke="#4B5563" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Connector -->
+    <rect x="548" y="44" width="104" height="10" rx="3" fill="#334155"/>
+    <circle cx="560" cy="49" r="3" fill="#64748B"/>
+    <circle cx="640" cy="49" r="3" fill="#64748B"/>
 
-<!-- skills strip -->
-<g filter="url(#shadow)">
- <rect x="500" y="480" width="620" height="94" rx="18" fill="#121b2b" stroke="#29364a"/>
- <text x="525" y="510" class="label">TECHNICAL SKILLS</text>
- <text x="525" y="538" class="body">HTML • CSS • JavaScript • React • Next • Redux • Node</text>
- <text x="525" y="562" class="body">Express • Fastify • MongoDB • MySQL • Vercel • Render • Git</text>
-</g>
+    <!-- Card group with swing -->
+    <g filter="url(#cardShadow)">
+      <animateTransform attributeName="transform" type="rotate"
+        values="-2.2 600 49; 2.2 600 49; -2.2 600 49"
+        dur="6.5s" repeatCount="indefinite"
+        calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+        keyTimes="0; 0.5; 1"/>
+      <!-- Card body -->
+      <rect x="490" y="54" width="220" height="300" rx="14" fill="url(#idCardGrad)" stroke="#334155" stroke-width="1.5"/>
+      <!-- Top accent bar -->
+      <rect x="490" y="54" width="220" height="6" rx="3" fill="url(#accentBlue)"/>
+      <!-- Avatar circle -->
+      <circle cx="600" cy="115" r="36" fill="#1E3A5F" stroke="#3B82F6" stroke-width="2"/>
+      <text x="600" y="122" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#93C5FD">BN</text>
+      <!-- Name -->
+      <text x="600" y="175" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Bhogyaan NR</text>
+      <!-- Role -->
+      <text x="600" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7C5CFF">Associate Software Engineer</text>
+      <!-- Divider -->
+      <line x1="515" y1="215" x2="685" y2="215" stroke="#334155" stroke-width="1"/>
+      <!-- Details -->
+      <text x="520" y="240" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#AEBBD0">Location</text>
+      <text x="520" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#FFFFFF">Madurai, Tamil Nadu</text>
+      <text x="520" y="282" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#AEBBD0">Experience</text>
+      <text x="520" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#FFFFFF">1+ Year</text>
+      <text x="520" y="324" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#AEBBD0">Primary</text>
+      <text x="520" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3B82F6">React.js</text>
+      <!-- Stack chips on card -->
+      <rect x="515" y="355" width="52" height="20" rx="4" fill="#1E3A5F"/>
+      <text x="541" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#93C5FD">MERN</text>
+      <rect x="573" y="355" width="58" height="20" rx="4" fill="#1E3A5F"/>
+      <text x="602" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#93C5FD">Next.js</text>
+      <rect x="637" y="355" width="52" height="20" rx="4" fill="#1E3A5F"/>
+      <text x="663" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#93C5FD">Redux</text>
+    </g>
+  </g>
 
-<!-- experience/project cards -->
-<g filter="url(#shadow)">
- <rect x="60" y="485" width="390" height="115" rx="18" fill="#121b2b" stroke="#29364a"/>
- <text x="84" y="515" class="label">EXPERIENCE</text>
- <text x="84" y="542" class="body">Success Life Mantra</text>
- <text x="84" y="566" class="small" fill="#aebbd0">Jul 2025 – Present • Madurai, TN</text>
- <text x="84" y="589" class="small" fill="#aebbd0">Mentors 4 interns/developers • core modules • APIs</text>
-</g>
+  <!-- ========== DEVELOPER WORKSPACE ========== -->
+  <g id="workspace" transform="translate(40, 380)">
+    <!-- Desk -->
+    <rect x="0" y="200" width="380" height="14" rx="3" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <rect x="20" y="214" width="12" height="40" fill="#1E293B"/>
+    <rect x="348" y="214" width="12" height="40" fill="#1E293B"/>
 
-<g filter="url(#shadow)">
- <rect x="60" y="620" width="1060" height="105" rx="18" fill="#121b2b" stroke="#29364a"/>
- <text x="84" y="651" class="label">FEATURED PROJECTS</text>
- <text x="84" y="681" class="body">Childcare CMS  •  Resume Builder  •  Real-Time Blog</text>
- <text x="84" y="707" class="small" fill="#aebbd0">React.js • Node.js • Express • MongoDB • JWT • WebSockets</text>
-</g>
+    <!-- Monitor -->
+    <rect x="90" y="40" width="200" height="130" rx="6" fill="#0F172A" stroke="#475569" stroke-width="3"/>
+    <rect x="98" y="48" width="184" height="108" rx="3" fill="url(#monitorScreen)"/>
+    <!-- Code lines on monitor -->
+    <g font-family="monospace" font-size="8" fill="#64748B">
+      <text x="108" y="68" fill="#7C5CFF">const</text>
+      <text x="138" y="68" fill="#93C5FD">App</text>
+      <text x="160" y="68" fill="#AEBBD0">= () =&gt; {</text>
+      <text x="118" y="82" fill="#22C55E">return</text>
+      <text x="155" y="82" fill="#F59E0B">&lt;Dashboard /&gt;</text>
+      <text x="108" y="96" fill="#AEBBD0">}</text>
+      <text x="108" y="114" fill="#64748B">// optimized</text>
+      <text x="108" y="128" fill="#3B82F6">export default App</text>
+    </g>
+    <!-- Monitor stand -->
+    <rect x="175" y="170" width="30" height="18" fill="#334155"/>
+    <rect x="155" y="188" width="70" height="8" rx="2" fill="#475569"/>
 
-<!-- floating tech chips -->
-<g font-family="Arial" font-weight="700" font-size="13" text-anchor="middle">
- <g transform="translate(1040 115)">
-  <rect x="-34" y="-16" width="68" height="32" rx="16" fill="#17263e" stroke="#3b82f6"/>
-  <text y="5" fill="#dbeafe">REACT</text>
-  <animateTransform attributeName="transform" type="translate" values="1040 115;1040 108;1040 115" dur="3s" repeatCount="indefinite"/>
- </g>
- <g transform="translate(960 145)">
-  <rect x="-38" y="-16" width="76" height="32" rx="16" fill="#17263e" stroke="#7c5cff"/>
-  <text y="5" fill="#e4ddff">NEXT.JS</text>
-  <animateTransform attributeName="transform" type="translate" values="960 145;960 153;960 145" dur="3.7s" repeatCount="indefinite"/>
- </g>
-</g>
+    <!-- Laptop -->
+    <g transform="translate(20, 145)">
+      <rect x="0" y="0" width="90" height="55" rx="4" fill="#1E293B" stroke="#475569" stroke-width="1.5"/>
+      <rect x="5" y="5" width="80" height="40" rx="2" fill="#0F172A"/>
+      <rect x="-5" y="55" width="100" height="6" rx="2" fill="#334155"/>
+      <!-- Laptop screen content -->
+      <rect x="10" y="10" width="35" height="4" rx="1" fill="#3B82F6" opacity="0.7"/>
+      <rect x="10" y="18" width="55" height="3" rx="1" fill="#334155"/>
+      <rect x="10" y="25" width="45" height="3" rx="1" fill="#334155"/>
+      <rect x="10" y="32" width="50" height="3" rx="1" fill="#334155"/>
+    </g>
 
-<!-- links -->
-<text x="500" y="610" class="small" fill="#9fb7d5">github.com/Bhogyaan  •  linkedin.com/in/bhogyaannr  •  bhogyaan.vercel.app</text>
+    <!-- Keyboard -->
+    <rect x="130" y="185" width="120" height="18" rx="3" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <g fill="#334155">
+      <rect x="138" y="189" width="8" height="5" rx="1"/>
+      <rect x="149" y="189" width="8" height="5" rx="1"/>
+      <rect x="160" y="189" width="8" height="5" rx="1"/>
+      <rect x="171" y="189" width="8" height="5" rx="1"/>
+      <rect x="182" y="189" width="8" height="5" rx="1"/>
+      <rect x="193" y="189" width="20" height="5" rx="1"/>
+      <rect x="216" y="189" width="8" height="5" rx="1"/>
+      <rect x="227" y="189" width="8" height="5" rx="1"/>
+    </g>
+
+    <!-- Coffee cup -->
+    <g transform="translate(300, 165)">
+      <rect x="0" y="10" width="28" height="32" rx="3" fill="#1E293B" stroke="#475569" stroke-width="1.5"/>
+      <path d="M28 18 Q38 18 38 28 Q38 38 28 38" fill="none" stroke="#475569" stroke-width="2"/>
+      <ellipse cx="14" cy="10" rx="14" ry="4" fill="#334155"/>
+      <ellipse cx="14" cy="12" rx="10" ry="2.5" fill="#78350F" opacity="0.8"/>
+      <!-- Steam -->
+      <path d="M8 4 Q10 0 8 -4" fill="none" stroke="#64748B" stroke-width="1.2" opacity="0.5">
+        <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M16 3 Q18 -1 16 -5" fill="none" stroke="#64748B" stroke-width="1.2" opacity="0.4">
+        <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3.5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <!-- ========== ANIMATED TERMINAL ========== -->
+  <g id="terminal" transform="translate(40, 60)" filter="url(#softShadow)">
+    <rect width="340" height="250" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+    <!-- Title bar -->
+    <rect width="340" height="28" rx="10" fill="#1E293B"/>
+    <rect y="18" width="340" height="10" fill="#1E293B"/>
+    <circle cx="16" cy="14" r="5" fill="#EF4444"/>
+    <circle cx="34" cy="14" r="5" fill="#F59E0B"/>
+    <circle cx="52" cy="14" r="5" fill="#22C55E"/>
+    <text x="170" y="18" text-anchor="middle" font-family="monospace" font-size="11" fill="#AEBBD0">bhogyaan@developer:~</text>
+
+    <!-- Terminal content -->
+    <g font-family="monospace" font-size="12" clip-path="url(#terminalClip)">
+      <!-- Line 1 -->
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.5s" fill="freeze"/>
+        <text x="16" y="50" fill="#22C55E">$</text>
+        <text x="30" y="50" fill="#E2E8F0">whoami</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
+        <text x="16" y="70" fill="#93C5FD">Bhogyaan NR</text>
+      </g>
+      <!-- Line 2 -->
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2s" fill="freeze"/>
+        <text x="16" y="95" fill="#22C55E">$</text>
+        <text x="30" y="95" fill="#E2E8F0">role</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.6s" fill="freeze"/>
+        <text x="16" y="115" fill="#93C5FD">Frontend Software Engineer</text>
+      </g>
+      <!-- Line 3 -->
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.4s" fill="freeze"/>
+        <text x="16" y="140" fill="#22C55E">$</text>
+        <text x="30" y="140" fill="#E2E8F0">stack</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4s" fill="freeze"/>
+        <text x="16" y="160" fill="#F59E0B">React.js · Next.js · Redux</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.5s" fill="freeze"/>
+        <text x="16" y="178" fill="#F59E0B">Node.js · Express · MongoDB</text>
+      </g>
+      <!-- Line 4 -->
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.3s" fill="freeze"/>
+        <text x="16" y="203" fill="#22C55E">$</text>
+        <text x="30" y="203" fill="#E2E8F0">performance</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.9s" fill="freeze"/>
+        <text x="16" y="223" fill="#22C55E">page_load: 4x faster ✓</text>
+      </g>
+      <!-- Blinking cursor -->
+      <rect x="16" y="238" width="8" height="14" fill="#22C55E">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- ========== TECHNOLOGY CHIPS ========== -->
+  <g id="technologies">
+    <!-- React.js -->
+    <g filter="url(#chipShadow)" transform="translate(420, 70)">
+      <animateTransform attributeName="transform" type="translate" values="420,70; 420,62; 420,70" dur="5s" repeatCount="indefinite"/>
+      <rect width="78" height="28" rx="14" fill="#172033" stroke="#3B82F6" stroke-width="1"/>
+      <circle cx="16" cy="14" r="7" fill="#61DAFB" opacity="0.9"/>
+      <text x="48" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">React.js</text>
+    </g>
+    <!-- Next.js -->
+    <g filter="url(#chipShadow)" transform="translate(510, 55)">
+      <animateTransform attributeName="transform" type="translate" values="510,55; 510,48; 510,55" dur="6.2s" repeatCount="indefinite"/>
+      <rect width="72" height="28" rx="14" fill="#172033" stroke="#64748B" stroke-width="1"/>
+      <text x="36" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">Next.js</text>
+    </g>
+    <!-- Redux -->
+    <g filter="url(#chipShadow)" transform="translate(420, 110)">
+      <animateTransform attributeName="transform" type="translate" values="420,110; 420,103; 420,110" dur="5.5s" repeatCount="indefinite"/>
+      <rect width="68" height="28" rx="14" fill="#172033" stroke="#7C5CFF" stroke-width="1"/>
+      <text x="34" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">Redux</text>
+    </g>
+    <!-- JavaScript -->
+    <g filter="url(#chipShadow)" transform="translate(500, 95)">
+      <animateTransform attributeName="transform" type="translate" values="500,95; 500,88; 500,95" dur="7s" repeatCount="indefinite"/>
+      <rect width="86" height="28" rx="14" fill="#172033" stroke="#F59E0B" stroke-width="1"/>
+      <text x="43" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">JavaScript</text>
+    </g>
+    <!-- Node.js -->
+    <g filter="url(#chipShadow)" transform="translate(760, 70)">
+      <animateTransform attributeName="transform" type="translate" values="760,70; 760,63; 760,70" dur="5.8s" repeatCount="indefinite"/>
+      <rect width="72" height="28" rx="14" fill="#172033" stroke="#22C55E" stroke-width="1"/>
+      <text x="36" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">Node.js</text>
+    </g>
+    <!-- Express -->
+    <g filter="url(#chipShadow)" transform="translate(845, 55)">
+      <animateTransform attributeName="transform" type="translate" values="845,55; 845,48; 845,55" dur="6.5s" repeatCount="indefinite"/>
+      <rect width="72" height="28" rx="14" fill="#172033" stroke="#AEBBD0" stroke-width="1"/>
+      <text x="36" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">Express</text>
+    </g>
+    <!-- MongoDB -->
+    <g filter="url(#chipShadow)" transform="translate(760, 110)">
+      <animateTransform attributeName="transform" type="translate" values="760,110; 760,102; 760,110" dur="5.2s" repeatCount="indefinite"/>
+      <rect width="80" height="28" rx="14" fill="#172033" stroke="#22C55E" stroke-width="1"/>
+      <text x="40" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">MongoDB</text>
+    </g>
+    <!-- Tailwind -->
+    <g filter="url(#chipShadow)" transform="translate(850, 95)">
+      <animateTransform attributeName="transform" type="translate" values="850,95; 850,88; 850,95" dur="6.8s" repeatCount="indefinite"/>
+      <rect width="90" height="28" rx="14" fill="#172033" stroke="#06B6D4" stroke-width="1"/>
+      <text x="45" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">Tailwind CSS</text>
+    </g>
+    <!-- Git -->
+    <g filter="url(#chipShadow)" transform="translate(950, 70)">
+      <animateTransform attributeName="transform" type="translate" values="950,70; 950,63; 950,70" dur="5.5s" repeatCount="indefinite"/>
+      <rect width="52" height="28" rx="14" fill="#172033" stroke="#F97316" stroke-width="1"/>
+      <text x="26" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">Git</text>
+    </g>
+    <!-- Vercel -->
+    <g filter="url(#chipShadow)" transform="translate(1010, 55)">
+      <animateTransform attributeName="transform" type="translate" values="1010,55; 1010,48; 1010,55" dur="7.2s" repeatCount="indefinite"/>
+      <rect width="62" height="28" rx="14" fill="#172033" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.4"/>
+      <text x="31" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">Vercel</text>
+    </g>
+    <!-- GSAP -->
+    <g filter="url(#chipShadow)" transform="translate(950, 110)">
+      <animateTransform attributeName="transform" type="translate" values="950,110; 950,103; 950,110" dur="6s" repeatCount="indefinite"/>
+      <rect width="58" height="28" rx="14" fill="#172033" stroke="#88CE02" stroke-width="1"/>
+      <text x="29" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">GSAP</text>
+    </g>
+    <!-- MySQL -->
+    <g filter="url(#chipShadow)" transform="translate(1020, 100)">
+      <animateTransform attributeName="transform" type="translate" values="1020,100; 1020,93; 1020,100" dur="5.7s" repeatCount="indefinite"/>
+      <rect width="62" height="28" rx="14" fill="#172033" stroke="#3B82F6" stroke-width="1"/>
+      <text x="31" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E2E8F0">MySQL</text>
+    </g>
+  </g>
+
+  <!-- ========== PERFORMANCE GRAPH ========== -->
+  <g id="performance" transform="translate(780, 160)" filter="url(#softShadow)">
+    <rect width="380" height="150" rx="10" fill="#121B2B" stroke="#1E293B" stroke-width="1.5"/>
+    <text x="20" y="28" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">FRONTEND PERFORMANCE</text>
+    <text x="360" y="28" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#22C55E">Up to 4× faster</text>
+
+    <!-- Before bar -->
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">Before</text>
+    <rect x="80" y="46" width="0" height="16" rx="3" fill="url(#perfBefore)">
+      <animate attributeName="width" values="0;260" dur="2s" begin="1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    </rect>
+
+    <!-- After bar -->
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">After</text>
+    <rect x="80" y="78" width="0" height="16" rx="3" fill="url(#perfAfter)">
+      <animate attributeName="width" values="0;65" dur="1.5s" begin="1.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    </rect>
+
+    <!-- Note -->
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Optimized Redux state + component refactor</text>
+    <text x="20" y="140" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Success Life Mantra · Live production impact</text>
+  </g>
+
+  <!-- ========== EXPERIENCE CARD ========== -->
+  <g id="experience" transform="translate(780, 330)" filter="url(#softShadow)">
+    <rect width="380" height="155" rx="10" fill="#121B2B" stroke="#1E293B" stroke-width="1.5"/>
+    <text x="20" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#7C5CFF">EXPERIENCE</text>
+    <text x="20" y="50" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Success Life Mantra</text>
+    <text x="20" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#3B82F6">Associate Software Engineer</text>
+    <text x="20" y="90" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#AEBBD0">Madurai, TN  ·  Jul 2025 – Present</text>
+
+    <!-- Indicators -->
+    <g transform="translate(20, 108)">
+      <rect width="105" height="32" rx="6" fill="#172033"/>
+      <text x="52" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#22C55E">4</text>
+      <text x="52" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#AEBBD0">devs mentored</text>
+      <!-- pulse -->
+      <circle cx="12" cy="10" r="3" fill="#22C55E" opacity="0.8">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(135, 108)">
+      <rect width="110" height="32" rx="6" fill="#172033"/>
+      <text x="55" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#3B82F6">1000+</text>
+      <text x="55" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#AEBBD0">users supported</text>
+    </g>
+    <g transform="translate(255, 108)">
+      <rect width="105" height="32" rx="6" fill="#172033"/>
+      <text x="52" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#F59E0B">4×</text>
+      <text x="52" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#AEBBD0">page-load boost</text>
+    </g>
+  </g>
+
+  <!-- ========== PROJECTS ========== -->
+  <g id="projects" transform="translate(40, 660)">
+    <!-- Project 01 -->
+    <g filter="url(#softShadow)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0,12; 0,0" dur="0.8s" begin="0.5s" fill="freeze"/>
+      <rect width="360" height="115" rx="10" fill="#121B2B" stroke="#1E293B" stroke-width="1.5"/>
+      <text x="16" y="24" font-family="Arial, sans-serif" font-size="10" fill="#7C5CFF" font-weight="700">PROJECT 01</text>
+      <text x="16" y="44" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Childcare Business Website + CMS</text>
+      <text x="16" y="64" font-family="Arial, sans-serif" font-size="10" fill="#AEBBD0">React.js · Node.js · Express · MongoDB</text>
+      <text x="16" y="84" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Custom CMS for non-technical staff to manage</text>
+      <text x="16" y="98" font-family="Arial, sans-serif" font-size="10" fill="#64748B">content, assets, sections &amp; events.</text>
+    </g>
+    <!-- Project 02 -->
+    <g transform="translate(380, 0)" filter="url(#softShadow)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="380,12; 380,0" dur="0.8s" begin="1s" fill="freeze"/>
+      <rect width="360" height="115" rx="10" fill="#121B2B" stroke="#1E293B" stroke-width="1.5"/>
+      <text x="16" y="24" font-family="Arial, sans-serif" font-size="10" fill="#3B82F6" font-weight="700">PROJECT 02</text>
+      <text x="16" y="44" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Resume Builder with Live Editor</text>
+      <text x="16" y="64" font-family="Arial, sans-serif" font-size="10" fill="#AEBBD0">React.js · JavaScript · Tailwind CSS</text>
+      <text x="16" y="84" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Interactive builder with real-time preview</text>
+      <text x="16" y="98" font-family="Arial, sans-serif" font-size="10" fill="#64748B">and component-driven editable sections.</text>
+    </g>
+    <!-- Project 03 -->
+    <g transform="translate(760, 0)" filter="url(#softShadow)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="760,12; 760,0" dur="0.8s" begin="1.5s" fill="freeze"/>
+      <rect width="360" height="115" rx="10" fill="#121B2B" stroke="#1E293B" stroke-width="1.5"/>
+      <text x="16" y="24" font-family="Arial, sans-serif" font-size="10" fill="#22C55E" font-weight="700">PROJECT 03</text>
+      <text x="16" y="44" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Real-Time Blog Web Application</text>
+      <text x="16" y="64" font-family="Arial, sans-serif" font-size="10" fill="#AEBBD0">MERN · JWT · WebSockets</text>
+      <text x="16" y="84" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Full-stack blogging with auth, real-time</text>
+      <text x="16" y="98" font-family="Arial, sans-serif" font-size="10" fill="#64748B">updates &amp; interactive content creation.</text>
+    </g>
+  </g>
+
+  <!-- ========== EDUCATION ========== -->
+  <g id="education" transform="translate(440, 380)" filter="url(#softShadow)">
+    <rect width="300" height="160" rx="10" fill="#121B2B" stroke="#1E293B" stroke-width="1.5"/>
+    <text x="16" y="24" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#F59E0B">EDUCATION</text>
+    <!-- MCA -->
+    <text x="16" y="50" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">MCA</text>
+    <text x="16" y="66" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">K.L.N College of Engineering</text>
+    <text x="16" y="80" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Sivaganga  ·  CGPA 8.3  ·  2025</text>
+    <!-- Divider -->
+    <line x1="16" y1="95" x2="284" y2="95" stroke="#1E293B" stroke-width="1"/>
+    <!-- B.Sc -->
+    <text x="16" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">B.Sc Computer Science</text>
+    <text x="16" y="134" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">KLN Arts and Science College</text>
+    <text x="16" y="148" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Sivaganga  ·  CGPA 7.9  ·  2022</text>
+  </g>
+
+  <!-- ========== PROFESSIONAL SUMMARY ========== -->
+  <g id="summary" transform="translate(440, 555)" filter="url(#softShadow)">
+    <rect width="300" height="90" rx="10" fill="#121B2B" stroke="#1E293B" stroke-width="1.5"/>
+    <text x="16" y="22" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#3B82F6">SUMMARY</text>
+    <text x="16" y="42" font-family="Arial, sans-serif" font-size="10" fill="#AEBBD0">Frontend Engineer · 1+ yr · React / Next / Redux</text>
+    <text x="16" y="58" font-family="Arial, sans-serif" font-size="10" fill="#AEBBD0">4× page-load improvement · Mentors 4 developers</text>
+    <text x="16" y="74" font-family="Arial, sans-serif" font-size="10" fill="#AEBBD0">Reusable UI · MERN · Production-ready apps</text>
+  </g>
+
+  <!-- ========== CONTACT / SOCIAL ========== -->
+  <g id="socials" transform="translate(40, 320)">
+    <!-- Email -->
+    <g>
+      <rect width="28" height="28" rx="6" fill="#172033" stroke="#334155" stroke-width="1"/>
+      <path d="M7 10 L14 16 L21 10" fill="none" stroke="#3B82F6" stroke-width="1.5" stroke-linecap="round"/>
+      <rect x="7" y="10" width="14" height="10" rx="1.5" fill="none" stroke="#3B82F6" stroke-width="1.5"/>
+    </g>
+    <text x="36" y="18" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">nrbhogyaan@gmail.com</text>
+    <!-- LinkedIn -->
+    <g transform="translate(0, 36)">
+      <rect width="28" height="28" rx="6" fill="#172033" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="19" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#3B82F6">in</text>
+    </g>
+    <text x="36" y="54" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">linkedin.com/in/bhogyaannr</text>
+    <!-- GitHub -->
+    <g transform="translate(0, 72)">
+      <rect width="28" height="28" rx="6" fill="#172033" stroke="#334155" stroke-width="1"/>
+      <circle cx="14" cy="14" r="7" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+      <path d="M10 18 Q14 22 18 18" fill="none" stroke="#E2E8F0" stroke-width="1.2"/>
+    </g>
+    <text x="36" y="90" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">github.com/Bhogyaan</text>
+    <!-- Portfolio -->
+    <g transform="translate(0, 108)">
+      <rect width="28" height="28" rx="6" fill="#172033" stroke="#334155" stroke-width="1"/>
+      <rect x="8" y="9" width="12" height="10" rx="1.5" fill="none" stroke="#7C5CFF" stroke-width="1.5"/>
+      <line x1="8" y1="12" x2="20" y2="12" stroke="#7C5CFF" stroke-width="1"/>
+    </g>
+    <text x="36" y="126" font-family="Arial, sans-serif" font-size="11" fill="#AEBBD0">bhogyaan.vercel.app</text>
+  </g>
+
+  <!-- Subtle decorative line -->
+  <line x1="40" y1="645" x2="1160" y2="645" stroke="#1E293B" stroke-width="1" opacity="0.8"/>
 </svg>
