@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./animated-profile.svg" alt="Bhogyaan NR Animated Developer Profile" width="100%">
+  <img src="./bhogyaan-profile.svg" alt="Bhogyaan NR Animated Developer Profile" width="100%">
 </p>
 
 ---
