@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+<title id="title">Bhogyaan NR — Animated Developer Profile</title>
+<desc id="desc">Animated developer profile scene with a hanging ID card, terminal, skills, experience, projects and links.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172033"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eef2f7"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".28"/></filter>
+  <style>
+    .title{font:700 34px Arial,sans-serif;fill:#fff}.sub{font:500 16px Arial,sans-serif;fill:#aebbd0}
+    .label{font:700 13px Arial,sans-serif;fill:#93a4bd;letter-spacing:1.4px}.body{font:500 15px Arial,sans-serif;fill:#dbe5f3}
+    .mono{font:600 14px "Courier New",monospace;fill:#cfe8ff}.dark{font:700 18px Arial,sans-serif;fill:#162033}
+    .small{font:500 12px Arial,sans-serif;fill:#52627a}
+  </style>
+</defs>
+
+<rect width="1200" height="780" rx="28" fill="url(#bg)"/>
+<circle cx="1020" cy="90" r="170" fill="#2b7fff" opacity=".08"/>
+<circle cx="120" cy="690" r="210" fill="#7c5cff" opacity=".07"/>
+
+<!-- decorative particles -->
+<g fill="#8fb8ff" opacity=".55">
+ <circle cx="70" cy="80" r="3"><animate attributeName="cy" values="80;55;80" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="1110" cy="210" r="3"><animate attributeName="cy" values="210;180;210" dur="3.5s" repeatCount="indefinite"/></circle>
+ <circle cx="1010" cy="690" r="3"><animate attributeName="cy" values="690;660;690" dur="4.2s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- header -->
+<text x="60" y="68" class="label">FRONTEND SOFTWARE ENGINEER • 1+ YEAR EXPERIENCE</text>
+<text x="60" y="112" class="title">Bhogyaan NR</text>
+<text x="60" y="142" class="sub">React.js • Next.js • Redux • MERN • Performance • UI Engineering</text>
+
+<!-- hanging ID card -->
+<g filter="url(#shadow)">
+ <path d="M230 0 C230 70 245 92 300 112" fill="none" stroke="#b7c3d5" stroke-width="3"/>
+ <path d="M360 0 C360 70 345 92 300 112" fill="none" stroke="#b7c3d5" stroke-width="3"/>
+ <circle cx="300" cy="112" r="8" fill="#dbe5f3"/>
+ <g transform="rotate(-2 300 270)">
+  <rect x="150" y="112" width="300" height="330" rx="22" fill="url(#card)"/>
+  <rect x="150" y="112" width="300" height="70" rx="22" fill="#14213d"/>
+  <rect x="150" y="160" width="300" height="22" fill="#14213d"/>
+  <circle cx="300" cy="228" r="48" fill="#d9e2ee"/>
+  <text x="300" y="236" text-anchor="middle" class="dark">BN</text>
+  <text x="300" y="300" text-anchor="middle" class="dark">BHOGYAAN NR</text>
+  <text x="300" y="323" text-anchor="middle" class="small">Associate Software Engineer</text>
+  <text x="300" y="351" text-anchor="middle" class="small">Madurai, Tamil Nadu</text>
+  <text x="300" y="384" text-anchor="middle" class="small">React • Next • MERN</text>
+  <rect x="205" y="403" width="190" height="2" rx="1" fill="#d6deea"/>
+  <text x="300" y="426" text-anchor="middle" class="small">github.com/Bhogyaan</text>
+ </g>
+ <animateTransform attributeName="transform" type="rotate" values="-1 300 112;1 300 112;-1 300 112" dur="5s" repeatCount="indefinite"/>
+</g>
+
+<!-- terminal -->
+<g filter="url(#shadow)">
+ <rect x="500" y="185" width="620" height="270" rx="18" fill="#0a0f18" stroke="#29364a"/>
+ <circle cx="528" cy="211" r="6" fill="#e4e9f0"/><circle cx="548" cy="211" r="6" fill="#e4e9f0"/><circle cx="568" cy="211" r="6" fill="#e4e9f0"/>
+ <text x="520" y="250" class="mono">$ whoami</text>
+ <text x="520" y="278" class="mono">bhogyaan — frontend_engineer</text>
+ <text x="520" y="315" class="mono">$ stack --current</text>
+ <text x="520" y="343" class="mono">React.js  Next.js  Redux  Node.js</text>
+ <text x="520" y="370" class="mono">Express  MongoDB  Tailwind  GSAP</text>
+ <text x="520" y="407" class="mono">$ performance --result</text>
+ <text x="520" y="435" class="mono">page_load: up_to_4x_faster ✓</text>
+ <rect x="520" y="449" width="10" height="3" fill="#cfe8ff">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+ </rect>
+</g>
+
+<!-- skills strip -->
+<g filter="url(#shadow)">
+ <rect x="500" y="480" width="620" height="94" rx="18" fill="#121b2b" stroke="#29364a"/>
+ <text x="525" y="510" class="label">TECHNICAL SKILLS</text>
+ <text x="525" y="538" class="body">HTML • CSS • JavaScript • React • Next • Redux • Node</text>
+ <text x="525" y="562" class="body">Express • Fastify • MongoDB • MySQL • Vercel • Render • Git</text>
+</g>
+
+<!-- experience/project cards -->
+<g filter="url(#shadow)">
+ <rect x="60" y="485" width="390" height="115" rx="18" fill="#121b2b" stroke="#29364a"/>
+ <text x="84" y="515" class="label">EXPERIENCE</text>
+ <text x="84" y="542" class="body">Success Life Mantra</text>
+ <text x="84" y="566" class="small" fill="#aebbd0">Jul 2025 – Present • Madurai, TN</text>
+ <text x="84" y="589" class="small" fill="#aebbd0">Mentors 4 interns/developers • core modules • APIs</text>
+</g>
+
+<g filter="url(#shadow)">
+ <rect x="60" y="620" width="1060" height="105" rx="18" fill="#121b2b" stroke="#29364a"/>
+ <text x="84" y="651" class="label">FEATURED PROJECTS</text>
+ <text x="84" y="681" class="body">Childcare CMS  •  Resume Builder  •  Real-Time Blog</text>
+ <text x="84" y="707" class="small" fill="#aebbd0">React.js • Node.js • Express • MongoDB • JWT • WebSockets</text>
+</g>
+
+<!-- floating tech chips -->
+<g font-family="Arial" font-weight="700" font-size="13" text-anchor="middle">
+ <g transform="translate(1040 115)">
+  <rect x="-34" y="-16" width="68" height="32" rx="16" fill="#17263e" stroke="#3b82f6"/>
+  <text y="5" fill="#dbeafe">REACT</text>
+  <animateTransform attributeName="transform" type="translate" values="1040 115;1040 108;1040 115" dur="3s" repeatCount="indefinite"/>
+ </g>
+ <g transform="translate(960 145)">
+  <rect x="-38" y="-16" width="76" height="32" rx="16" fill="#17263e" stroke="#7c5cff"/>
+  <text y="5" fill="#e4ddff">NEXT.JS</text>
+  <animateTransform attributeName="transform" type="translate" values="960 145;960 153;960 145" dur="3.7s" repeatCount="indefinite"/>
+ </g>
+</g>
+
+<!-- links -->
+<text x="500" y="610" class="small" fill="#9fb7d5">github.com/Bhogyaan  •  linkedin.com/in/bhogyaannr  •  bhogyaan.vercel.app</text>
+</svg>
