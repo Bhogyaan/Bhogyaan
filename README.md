@@ -1,15 +1,10 @@
 <!--
 ╭──────────────────────────────────────────────────────────────────────────────╮
 │ N R BHOGYAAN                                                                  │
-│ Frontend Engineer · UI/UX · Motion · Performance                              │
-│                                                                              │
-│ Design-first interfaces. Production-ready engineering.                       │
+│ Frontend Software Engineer                                                    │
+│ React.js · Next.js · Redux · MERN · CI/CD                                     │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     HERO
-     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -18,7 +13,7 @@
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=45&lines=Frontend+Software+Engineer+%E2%80%94+React+%7C+Next.js;Designing+Interfaces+That+Feel+Alive+%E2%9C%A8;Performance+%2B+Motion+%2B+Usability;Turning+Ideas+Into+Production+Experiences+%F0%9F%9A%80"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=45&lines=Frontend+Software+Engineer+%E2%80%94+React+%7C+Next.js;Building+Scalable+Web+Applications;Performance+%2B+Reusable+UI+%2B+CI%2FCD;MERN+%7C+REST+APIs+%7C+GitHub+Actions"
 alt="Frontend engineering taglines"
 />
 
@@ -52,365 +47,160 @@ alt="Frontend engineering taglines"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     POSITIONING
-     ═══════════════════════════════════════════════════════════════════════════ -->
+👨‍💻 About Me
+
+Frontend Software Engineer with 1+ year of experience building scalable, high-performance web applications using React.js, Next.js, Redux, and the MERN stack.
+
+⚡ Improved application load time by up to 4×
+
+👥 Mentor and guide a team of 4 interns/developers
+
+📈 Worked on applications supporting up to 1,000 users
+
+🔄 Build and maintain CI/CD workflows with GitHub Actions
+
+🧩 Create reusable UI components and shared frontend utilities
+
+🌐 Experienced with REST APIs, JWT authentication, and browser extension development
+
+🛠️ Working backend knowledge with Node.js, Express.js, and MongoDB
+
+💼 Experience
+
+Associate Software Engineer — Success Life Mantra
+
+Madurai, Tamil Nadu · Jul 2025 – Present
+
+React.js Next.js Redux REST APIs Node.js MongoDB GitHub Actions
+
+Mentor and guide a team of 4 interns/developers, reviewing code and resolving bugs to maintain code quality and release stability.
+
+Improved application load time by up to 4× by optimizing Redux state management and refactoring components, supporting a growing base of up to 1,000 users.
+
+Built core product modules including user management, authentication, authorization, dashboards, and workflow automation.
+
+Built responsive, cross-browser-compatible UI with GSAP animations.
+
+Developed and published a Chrome browser extension from scratch, including build and store submission/approval.
+
+Set up CI/CD pipelines using GitHub Actions for automated testing and deployment.
+
+Created a reusable UI component library and shared frontend utilities, reducing duplicate code and speeding up feature delivery.
+
+Deployed and maintained applications across Vercel, Netlify, and Render.
+
+🧰 Technical Skills
 
 <div align="center">
 
-## `BUILD` → `DESIGN` → `SHIP`
+Frontend
 
-**Frontend Software Engineer** focused on creating interfaces that are
-**fast, intuitive, responsive, accessible, and visually memorable.**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" alt="Frontend technologies"/>
 
-I enjoy working where **engineering meets UI/UX** — turning product ideas into polished
-experiences with thoughtful interactions, reusable components, and performance in mind.
+Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies"/>
+
+DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=github,git,vercel,netlify,docker,postman" alt="Development and deployment tools"/>
+
+Other
+
+REST APIs JWT Authentication Chrome Extensions GSAP
 
 </div>
 
-<br/>
+🎓 Education
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     QUICK SIGNALS
-     ═══════════════════════════════════════════════════════════════════════════ -->
+Degree
 
-<table width="100%">
-<tr>
+Institution
 
-<td align="center" width="25%">
+Year
 
-### ⚡ 4×
+CGPA
 
-**Page-load improvement**
+MCA — Computer Applications
 
-</td>
+K.L.N College of Engineering, Sivaganga
 
-<td align="center" width="25%">
+2025
 
-### 👥 4
+8.3
 
-**Developers mentored**
+B.Sc Computer Science
 
-</td>
+KLN Arts and Science College, Sivaganga
 
-<td align="center" width="25%">
+2022
 
-### 📦 1K+
+7.9
 
-**Active users supported**
+🚀 Projects
 
-</td>
+1. Childcare Business Website with Custom CMS
 
-<td align="center" width="25%">
+React.js Node.js Express MongoDB
 
-### 🎨 UI
+Developed a complete business website for a childcare service with a custom CMS.
 
-**Motion & interaction focused**
+Enabled non-technical staff to independently update images, text, and page sections.
 
-</td>
+Added an events module for adding, editing, and publishing upcoming events directly to the live site.
 
-</tr>
-</table>
+2. Resume Builder with Live Editor
 
-<br/>
+React.js JavaScript Tailwind CSS
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     CURRENTLY
-     ═══════════════════════════════════════════════════════════════════════════ -->
+Built an interactive resume builder with a live, real-time preview editor.
 
-<div align="center">
+Content and formatting changes update instantly as users type.
 
-<img src="./assets/gradient-bar.svg" width="320" alt="gradient accent"/>
+Designed a component-driven architecture for editable resume sections, making the application easier to extend with new templates and layouts.
 
-### ✦ CURRENTLY BUILDING
+3. Real-Time Blog Web Application
 
-`Production Applications`   `Reusable UI`   `Better Performance`   `Micro-interactions`
+MERN Stack JWT WebSocket
 
-### ✦ CURRENTLY EXPLORING
+Built a full-stack blogging platform using React, Node.js, Express, and MongoDB.
 
-`Next.js`   `AWS`   `System Design`   `GSAP`   `Three.js`   `Advanced TypeScript`
+Implemented JWT authentication and WebSocket-based live updates.
 
-</div>
+New posts and interactions appear instantly without requiring a page refresh.
 
-<br/>
+Designed an interactive content-creation UI for faster and more intuitive publishing.
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     EXPERIENCE
-     ═══════════════════════════════════════════════════════════════════════════ -->
+🔄 CI/CD
 
-## 💼 Experience
+I have hands-on experience setting up GitHub Actions workflows for:
 
-<table width="100%">
-<tr>
-<td width="80">
+Automated testing
 
-**2025**
-**→**
+Automated deployment
 
-</td>
+Pre-production issue detection
 
-<td>
+Reducing manual release effort
 
-### Associate Software Engineer
+GitHub Actions Vercel Netlify Render
 
-**Success Life Mantra**
-
-`React` `Next.js` `TypeScript` `Redux` `Node.js` `MongoDB`
-
-* Improved production page-load performance by **up to 4×** through Redux optimization and component refactoring.
-* Mentor and guide a team of **4 interns/developers**, including code reviews and bug resolution.
-* Delivered core modules including **user management, authentication, authorization, dashboards, and workflows** supporting up to **1,000+ users**.
-* Work across frontend engineering, UI implementation, performance optimization, and interactive experiences.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎓 Education
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### MCA — Computer Applications
-
-**KLN College of Engineering**
-
-`2023 — 2025`
-
-**CGPA: 8.3**
-
-Full-stack & system design foundations.
-
-</td>
-
-<td width="50%">
-
-### B.Sc. — Computer Science
-
-**KLN Arts & Science College**
-
-`2019 — 2022`
-
-**CGPA: 7.9**
-
-Algorithms, data structures & core CS.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     DESIGN / ENGINEERING PHILOSOPHY
-     ═══════════════════════════════════════════════════════════════════════════ -->
+📊 GitHub Activity
 
 <div align="center">
-
-## 🎯 My Frontend Philosophy
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-### 01 · EXPERIENCE
-
-**Design with purpose**
-
-Interfaces should feel clear before
-they feel impressive.
-
-</td>
-
-<td width="33%" align="center">
-
-### 02 · ENGINEERING
-
-**Build with structure**
-
-Reusable components, maintainable
-architecture & clean state management.
-
-</td>
-
-<td width="33%" align="center">
-
-### 03 · MOTION
-
-**Animate with intention**
-
-Motion should communicate hierarchy,
-feedback and interaction—not distraction.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     TECH STACK
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🧰 Toolkit
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass" alt="Frontend technologies"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,redis" alt="Backend and database technologies"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,git,github,postman" alt="Cloud and development tools"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=figma,jest,threejs,blender" alt="Design and creative technologies"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     PROJECTS
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 Selected Work
-
-*Projects where engineering, product thinking and interface design meet.*
-
-</div>
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ✦ CareerPro AI
-
-**AI-assisted career & resume platform**
-
-Live editing and one-click export focused on creating a smoother career-tool workflow.
-
-`React` `Node.js` `MongoDB` `OpenAI`
-
-<br/>
-
-<a href="https://github.com/Bhogyaan">
-<img src="https://img.shields.io/badge/VIEW%20CODE-%23161B22?style=flat-square&logo=github&logoColor=white" alt="View code"/>
-</a>
-
-<a href="https://bhogyaan.vercel.app">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Live project"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ ETradeHub
-
-**Full-stack trading / e-commerce platform**
-
-Authentication, inventory workflows and application state built around a MERN architecture.
-
-`MERN` `JWT` `REST` `Redux`
-
-<br/>
-
-<a href="https://github.com/Bhogyaan">
-<img src="https://img.shields.io/badge/VIEW%20CODE-%23161B22?style=flat-square&logo=github&logoColor=white" alt="View code"/>
-</a>
-
-<a href="https://bhogyaan.vercel.app">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Live project"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ✦ Chrome Extension
-
-**Developer productivity workflow**
-
-A Manifest V3 extension built around everyday developer workflows and browser capabilities.
-
-`JavaScript` `Chrome APIs` `Manifest V3`
-
-<br/>
-
-<a href="https://github.com/Bhogyaan">
-<img src="https://img.shields.io/badge/VIEW%20CODE-%23161B22?style=flat-square&logo=github&logoColor=white" alt="View code"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ Portfolio Experience
-
-**Personal portfolio & interaction playground**
-
-A space for showcasing projects, experimenting with modern motion, and designing contact experiences.
-
-`Next.js` `Tailwind` `Framer Motion`
-
-<br/>
-
-<a href="https://github.com/Bhogyaan">
-<img src="https://img.shields.io/badge/VIEW%20CODE-%23161B22?style=flat-square&logo=github&logoColor=white" alt="View code"/>
-</a>
-
-<a href="https://bhogyaan.vercel.app">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-00F5D4?style=flat-square&logo=vercel&logoColor=black" alt="Visit portfolio"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     GITHUB ACTIVITY
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ◌ GitHub Activity
 
 <img
-  src="./profile/stats.svg"
-  height="170"
-  alt="GitHub statistics"
+src="./profile/stats.svg"
+height="170"
+alt="GitHub statistics"
 />
 
-&nbsp;&nbsp;
+  
 
 <img
-  src="./profile/top-langs.svg"
-  height="170"
-  alt="Top programming languages"
+src="./profile/top-langs.svg"
+height="170"
+alt="Top programming languages"
 />
 
 <br/><br/>
@@ -425,13 +215,9 @@ alt="GitHub contribution streak"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE
-     ═══════════════════════════════════════════════════════════════════════════ -->
+🐍 Contribution Trail
 
 <div align="center">
-
-## 🐍 Contribution Trail
 
 <img
 src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake-dark.svg"
@@ -439,52 +225,62 @@ width="90%"
 alt="GitHub contribution snake"
 />
 
+<br/>
+
 <sub>Automatically generated from GitHub contributions.</sub>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     CONTACT / CTA
-     ═══════════════════════════════════════════════════════════════════════════ -->
+📜 Certifications & Workshops
+
+Web Development — Udemy
+
+React.js Workshop
+
+Power BI Workshop
+
+MERN Stack Workshop
+
+🌐 Languages
+
+English
+
+Tamil
+
+Saurashtra
+
+🤝 Soft Skills
+
+Communication · Team Collaboration · Problem-Solving · Adaptability
+
+📫 Let's Connect
 
 <div align="center">
 
-<img src="./assets/gradient-bar.svg" width="260" alt="gradient accent"/>
-
-## Let's build something memorable.
-
-Whether it's a **production interface, design system, interactive experience,
-performance-focused frontend, or creative web experiment** — let's talk.
-
-<br/>
-
 <a href="https://bhogyaan.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-%2358A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-%2358A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio"/>
 </a>
 
 <a href="mailto:bhogyaannr@gmail.com">
-<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-**N R Bhogyaan** · Frontend Software Engineer
+N R Bhogyaan · Frontend Software Engineer
+
 Madurai, Tamil Nadu, India
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     FOOTER
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="./assets/footer-animated.svg" alt="Animated footer"/>
 
-<sub>Crafted with code, curiosity & a little bit of motion ✦</sub>
+<sub>Built with code, curiosity & continuous learning ✦</sub>
 
 </div>
