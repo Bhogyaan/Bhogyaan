@@ -400,17 +400,17 @@ A space for showcasing projects, experimenting with modern motion, and designing
 ## ◌ GitHub Activity
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=00F5D4&text_color=C9D1D9&ring_color=7C3AED&cache_seconds=86400"
-height="170"
-alt="GitHub statistics"
+  src="./profile/stats.svg"
+  height="170"
+  alt="GitHub statistics"
 />
 
-  
+&nbsp;&nbsp;
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400"
-height="170"
-alt="Top programming languages"
+  src="./profile/top-langs.svg"
+  height="170"
+  alt="Top programming languages"
 />
 
 <br/><br/>
