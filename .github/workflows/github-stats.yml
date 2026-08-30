@@ -1,0 +1,59 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: |
+            username=${{ github.repository_owner }}
+            show_icons=true
+            theme=github_dark
+            hide_border=true
+            include_all_commits=true
+            count_private=true
+            bg_color=0D1117
+            title_color=58A6FF
+            icon_color=00F5D4
+            text_color=C9D1D9
+            ring_color=7C3AED
+          path: profile/stats.svg
+
+      - name: Generate Top Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: |
+            username=${{ github.repository_owner }}
+            layout=compact
+            theme=github_dark
+            hide_border=true
+            bg_color=0D1117
+            title_color=58A6FF
+            text_color=C9D1D9
+            langs_count=8
+          path: profile/top-langs.svg
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git commit -m "Update GitHub stats" || exit 0
+
+          git push
