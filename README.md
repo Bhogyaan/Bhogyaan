@@ -1,10 +1,3 @@
-<!--
-╭──────────────────────────────────────────────────────────────────────────────╮
-│  bhogyaan-dev / README.md                                                     │
-│  A profile, structured like the repository it describes.                     │
-╰──────────────────────────────────────────────────────────────────────────────╯
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:141B2D,100:0B0E14&height=190&section=header&text=N%20R%20BHOGYAAN&fontSize=46&fontColor=F2B872&fontAlignY=42&animation=fadeIn&desc=Frontend%20Software%20Engineer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20Redux%20%C2%B7%20MERN&descAlignY=63&descSize=16&descColor=5EE6C7" width="100%" alt="header"/>
@@ -29,80 +22,39 @@
 
 <br/>
 
-```
-bhogyaan-dev/
-├── about.md
-├── experience/
-│   └── success-life-mantra.log
-├── skills.json
-├── projects/
-│   ├── childcare-cms.jsx
-│   ├── resume-builder.jsx
-│   └── realtime-blog.jsx
-├── stats/
-│   ├── github.svg
-│   └── streak.svg
-└── contact.sh
-```
+## About Me
+
+Frontend Software Engineer with 1+ year of experience building scalable, high-performance web applications using **React.js, Next.js, Redux,** and the **MERN stack**.
+
+- ⚡ Improved application load time by **up to 4×**
+- 👥 Mentor and guide a team of **4 interns/developers**
+- 📈 Worked on applications supporting up to **1,000 users**
+- 🔄 Build and maintain **CI/CD workflows** with GitHub Actions
+- 🧩 Create reusable UI components and shared frontend utilities
+- 🌐 Experienced with REST APIs, JWT authentication, and browser extension development
+- 🛠️ Working backend knowledge with Node.js, Express.js, and MongoDB
 
 <br/>
 
-### `$ cat about.md`
-
-```jsonc
-{
-  "role": "Frontend Software Engineer",
-  "experience": "1+ year",
-  "stack": ["React.js", "Next.js", "Redux", "MERN"],
-  "currently": [
-    "mentoring 4 interns/developers — code review, bug triage, release stability",
-    "shipped a 4x load-time improvement via Redux state + component refactors",
-    "supporting a growing base of ~1,000 users",
-    "maintaining CI/CD pipelines on GitHub Actions",
-    "publishing a reusable UI component library + shared frontend utilities",
-    "shipped a Chrome extension end-to-end — build → store submission → approval"
-  ],
-  "alsoComfortableWith": ["Node.js", "Express.js", "MongoDB", "JWT", "REST APIs"]
-}
-```
-
-<br/>
-
-### `$ cat experience/success-life-mantra.log`
-
-<table>
-<tr>
-<td width="70%" valign="top">
+## Experience
 
 **Associate Software Engineer** · Success Life Mantra
 `Madurai, Tamil Nadu · Jul 2025 — Present`
+
+<img src="https://img.shields.io/badge/React.js-0B0E14?style=flat-square&logo=react&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/Next.js-0B0E14?style=flat-square&logo=nextdotjs&logoColor=E6E1D3"/> <img src="https://img.shields.io/badge/Redux-0B0E14?style=flat-square&logo=redux&logoColor=F2637D"/> <img src="https://img.shields.io/badge/REST_APIs-0B0E14?style=flat-square&logoColor=F2B872"/> <img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs&logoColor=7C9EF2"/> <img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/GitHub_Actions-0B0E14?style=flat-square&logo=githubactions&logoColor=F2B872"/>
 
 - Mentor and guide a team of **4 interns/developers**, reviewing code and resolving bugs to keep quality and release stability high.
 - Improved application load time by **up to 4×**, by optimizing Redux state management and refactoring components — for a base scaling toward **1,000 users**.
 - Built core product modules: user management, authentication, authorization, dashboards, and workflow automation.
 - Built responsive, cross-browser UI with **GSAP** animations.
-- Designed, built, and shipped a **Chrome browser extension** from scratch — including store submission and approval.
+- Designed, built, and shipped a **Chrome browser extension** from scratch — including build, store submission, and approval.
 - Set up **CI/CD pipelines with GitHub Actions** for automated testing and deployment.
 - Created a **reusable UI component library** and shared frontend utilities, cutting duplicate code and speeding up delivery.
 - Deployed and maintained apps across **Vercel, Netlify, and Render**.
 
-</td>
-<td width="30%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/React.js-0B0E14?style=flat-square&logo=react&logoColor=5EE6C7"/><br/>
-<img src="https://img.shields.io/badge/Next.js-0B0E14?style=flat-square&logo=nextdotjs&logoColor=E6E1D3"/><br/>
-<img src="https://img.shields.io/badge/Redux-0B0E14?style=flat-square&logo=redux&logoColor=F2637D"/><br/>
-<img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs&logoColor=7C9EF2"/><br/>
-<img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb&logoColor=5EE6C7"/><br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0B0E14?style=flat-square&logo=githubactions&logoColor=F2B872"/>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-### `$ cat skills.json`
+## Technical Skills
 
 <div align="center">
 
@@ -112,61 +64,64 @@ bhogyaan-dev/
 
 <br/><br/>
 
-**Backend & Data**
+**Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 
 <br/><br/>
 
-**Tooling & Delivery**
+**DevOps & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=github,git,vercel,netlify,docker,postman&theme=dark"/>
 
 <br/><br/>
 
-`"other": ["REST APIs", "JWT Authentication", "Chrome Extensions", "GSAP"]`
+**Other** — REST APIs · JWT Authentication · Chrome Extensions · GSAP
 
 </div>
 
 <br/>
 
-### `$ ls projects/`
+## Education
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Degree | Institution | Year | CGPA |
+|---|---|---|---|
+| MCA — Computer Applications | K.L.N College of Engineering, Sivaganga | 2025 | 8.3 |
+| B.Sc Computer Science | KLN Arts and Science College, Sivaganga | 2022 | 7.9 |
 
-**`childcare-cms.jsx`**
+<br/>
+
+## Projects
+
+**Childcare Business Website with Custom CMS**
 <br/>
 <img src="https://img.shields.io/badge/React.js-0B0E14?style=flat-square&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/Node/Express-0B0E14?style=flat-square&logoColor=7C9EF2"/> <img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logoColor=F2637D"/>
 
-Full business website for a childcare service, with a **custom CMS** — non-technical staff independently update images, text, and page sections, plus an events module for publishing upcoming events live.
+Developed a complete business website for a childcare service with a custom CMS. Enabled non-technical staff to independently update images, text, and page sections, and added an events module for publishing upcoming events directly to the live site.
 
-</td>
-<td width="33%" valign="top">
-
-**`resume-builder.jsx`**
+**Resume Builder with Live Editor**
 <br/>
-<img src="https://img.shields.io/badge/React.js-0B0E14?style=flat-square&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/Tailwind-0B0E14?style=flat-square&logoColor=F2B872"/>
+<img src="https://img.shields.io/badge/React.js-0B0E14?style=flat-square&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0B0E14?style=flat-square&logoColor=F2B872"/>
 
-Interactive resume builder with a **live real-time preview** — edits render instantly. Component-driven architecture makes it easy to extend with new templates and layouts.
+Built an interactive resume builder with a live, real-time preview editor — content and formatting changes update instantly as users type. Designed a component-driven architecture for editable resume sections, making the application easy to extend with new templates and layouts.
 
-</td>
-<td width="33%" valign="top">
-
-**`realtime-blog.jsx`**
+**Real-Time Blog Web Application**
 <br/>
-<img src="https://img.shields.io/badge/MERN-0B0E14?style=flat-square&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/JWT-0B0E14?style=flat-square&logoColor=F2637D"/> <img src="https://img.shields.io/badge/WebSocket-0B0E14?style=flat-square&logoColor=7C9EF2"/>
+<img src="https://img.shields.io/badge/MERN_Stack-0B0E14?style=flat-square&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/JWT-0B0E14?style=flat-square&logoColor=F2637D"/> <img src="https://img.shields.io/badge/WebSocket-0B0E14?style=flat-square&logoColor=7C9EF2"/>
 
-Full-stack blogging platform with **JWT auth** and **WebSocket live updates** — new posts and interactions appear instantly, with an interactive content-creation UI.
-
-</td>
-</tr>
-</table>
+Built a full-stack blogging platform using React, Node.js, Express, and MongoDB. Implemented JWT authentication and WebSocket-based live updates so new posts and interactions appear instantly, with an interactive content-creation UI for faster publishing.
 
 <br/>
 
-### `$ cat stats/github.svg`
+## CI/CD
+
+Hands-on experience setting up GitHub Actions workflows for automated testing, automated deployment, pre-production issue detection, and reducing manual release effort.
+
+<img src="https://img.shields.io/badge/GitHub_Actions-0B0E14?style=flat-square&logo=githubactions&logoColor=F2B872"/> <img src="https://img.shields.io/badge/Vercel-0B0E14?style=flat-square&logo=vercel&logoColor=E6E1D3"/> <img src="https://img.shields.io/badge/Netlify-0B0E14?style=flat-square&logo=netlify&logoColor=5EE6C7"/> <img src="https://img.shields.io/badge/Render-0B0E14?style=flat-square&logoColor=7C9EF2"/>
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
@@ -180,28 +135,27 @@ Full-stack blogging platform with **JWT auth** and **WebSocket live updates** �
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake"/>
-<br/><sub>Animated via the <code>Platane/snk</code> GitHub Action — generates on every push to the <code>output</code> branch.</sub>
+<br/><sub>Animated via the <code>Platane/snk</code> GitHub Action — regenerates on every push to the <code>output</code> branch.</sub>
 
 </div>
 
 <br/>
 
-### `$ cat education.yml`
+## Certifications & Workshops
 
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| MCA — Computer Applications | K.L.N College of Engineering, Sivaganga | 2025 | 8.3 |
-| B.Sc Computer Science | KLN Arts and Science College, Sivaganga | 2022 | 7.9 |
+Web Development (Udemy) · React.js Workshop · Power BI Workshop · MERN Stack Workshop
 
-**Certifications & Workshops** — Web Development (Udemy) · React.js Workshop · Power BI Workshop · MERN Stack Workshop
+## Languages
 
-**Languages** — English · Tamil · Saurashtra
+English · Tamil · Saurashtra
 
-**Soft Skills** — Communication · Team Collaboration · Problem-Solving · Adaptability
+## Soft Skills
+
+Communication · Team Collaboration · Problem-Solving · Adaptability
 
 <br/>
 
-### `$ ./contact.sh`
+## Let's Connect
 
 <div align="center">
 
