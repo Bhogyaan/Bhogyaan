@@ -1,353 +1,395 @@
-<!--
-═══════════════════════════════════════════════════════════════
-  NEURAL DEV PROFILE — v5.0
-  Fully Animated GitHub README
-  Optimized CSS Animation System
-═══════════════════════════════════════════════════════════════
--->
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ENTRY SEQUENCE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040a,25:0a1628,55:13294b,80:0a1628,100:02040a&height=280&section=header&text=N%20R%20BHOGYAAN&fontSize=52&fontColor=e8c17a&fontAlignY=36&desc=FRONTEND%20%7C%20SYSTEMS%20%7C%20MOTION&descSize=16&descColor=5eead4&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2100&pause=600&color=5eead4&center=true&vCenter=true&width=900&height=48&lines=%3E_%20interfaces%20that%20breathe;%3E_%20systems%20that%20scale;%3E_%20motion%20that%20feels%20intentional;%3E_%20always%20building%20the%20next%20version..." alt="typing"/>
+
+<br><br>
+
+<a href="https://bhogyaan.vercel.app">
+  <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-02040a?style=for-the-badge&logo=vercel&logoColor=5eead4&labelColor=02040a"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/bhogyaannr">
+  <img src="https://img.shields.io/badge/LINKEDIN-02040a?style=for-the-badge&logo=linkedin&logoColor=94a3ff&labelColor=02040a"/>
+</a>
+&nbsp;
+<a href="mailto:bhogyaannr@gmail.com">
+  <img src="https://img.shields.io/badge/SIGNAL-02040a?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=02040a"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Bhogyaan&label=SIGNAL%20STRENGTH&style=flat-square&color=5eead4&labelColor=02040a"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Bhogyaan?style=flat-square&label=NETWORK&color=e8c17a&labelColor=02040a&logo=github"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,40:e8c17a,70:94a3ff,100:5eead4&height=3" width="55%"/>
+
+</div>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        IDENTITY CORE                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     HERO SECTION
-═══════════════════════════════════════════════════════════════ -->
-<div style="position: relative; padding: 60px 20px; margin: 0; overflow: hidden; background: #0a0a1a; border-radius: 20px;">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1600&pause=500&color=e8c17a&center=true&vCenter=true&width=680&height=34&lines=IDENTITY.SYS%20%2F%2F%20ACTIVE;%3E%20FRONTEND%20SOFTWARE%20ENGINEER;%3E%20UI%20SYSTEMS%20%2B%20PERFORMANCE%20%2B%20MOTION" alt="identity"/>
 
-  <!-- Animated gradient orbs -->
-  <div style="position: absolute; width: 500px; height: 500px; background: radial-gradient(circle, rgba(139,92,246,0.3) 0%, transparent 60%); top: -200px; left: -150px; animation: orbFloat 8s ease-in-out infinite; border-radius: 50%; pointer-events: none;"></div>
-  <div style="position: absolute; width: 400px; height: 400px; background: radial-gradient(circle, rgba(59,130,246,0.25) 0%, transparent 60%); bottom: -150px; right: -100px; animation: orbFloat 8s ease-in-out infinite reverse; border-radius: 50%; pointer-events: none;"></div>
-  <div style="position: absolute; width: 300px; height: 300px; background: radial-gradient(circle, rgba(236,72,153,0.2) 0%, transparent 60%); top: 50%; left: 50%; transform: translate(-50%, -50%); animation: orbFloat 6s ease-in-out infinite 1s; border-radius: 50%; pointer-events: none;"></div>
+<br>
 
-  <!-- Main title -->
-  <h1 style="font-size: 56px; font-weight: 900; letter-spacing: 6px; margin: 0; color: #fff; position: relative; z-index: 1; text-shadow: 0 0 40px rgba(139,92,246,0.8), 0 0 80px rgba(59,130,246,0.4); animation: titleGlow 3s ease-in-out infinite;">
-    ARJUN<span style="color: #8b5cf6;">DEV</span>
-  </h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=68&text=I%20DON%27T%20JUST%20SHIP%20SCREENS%20—%20I%20CRAFT%20LIVING%20SYSTEMS&fontSize=20&fontColor=5eead4&fontAlignY=52&animation=fadeIn" width="100%"/>
 
-  <!-- Animated typing -->
-  <div style="margin: 25px 0; position: relative; z-index: 1;">
-    <code style="font-size: 18px; color: #34d399; background: rgba(0,0,0,0.5); padding: 15px 25px; border-radius: 10px; border: 1px solid rgba(139,92,246,0.4); display: inline-block; overflow: hidden; white-space: nowrap; animation: typewriter 4s steps(40) infinite, cursorBlink 0.7s step-end infinite; border-right: 2px solid #34d399;">
-      ➜ building_future.exe --with-code
-    </code>
-  </div>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=800&color=d4d4d8&center=true&vCenter=true&width=860&height=58&lines=React%20%E2%86%92%20Next.js%20%E2%86%92%20Redux%20%E2%86%92%20Motion;%5B%20DESIGN%20%5D%20%C2%B7%20%5B%20ENGINEERING%20%5D%20%C2%B7%20%5B%20PERFORMANCE%20%5D;%5BBUILD%5D%20%E2%86%92%20%5BOPTIMIZE%5D%20%E2%86%92%20%5BSHIP%5D%20%E2%86%92%20%5BREPEAT%5D" alt="philosophy"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,tailwind&theme=dark" alt="core"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     LIVE METRICS
-═══════════════════════════════════════════════════════════════ -->
-<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
-  <div style="background: rgba(139,92,246,0.1); padding: 10px 20px; border-radius: 25px; border: 1px solid rgba(139,92,246,0.3); animation: floatY 4s ease-in-out infinite;">
-    <span style="color: #8b5cf6;">⚡ 5+ Years Experience</span>
-  </div>
-  <div style="background: rgba(59,130,246,0.1); padding: 10px 20px; border-radius: 25px; border: 1px solid rgba(59,130,246,0.3); animation: floatY 4s ease-in-out infinite 0.3s;">
-    <span style="color: #3b82f6;">🚀 30+ Projects Deployed</span>
-  </div>
-  <div style="background: rgba(52,211,153,0.1); padding: 10px 20px; border-radius: 25px; border: 1px solid rgba(52,211,153,0.3); animation: floatY 4s ease-in-out infinite 0.6s;">
-    <span style="color: #34d399;">📦 50+ Open Source</span>
-  </div>
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     OPERATOR SNAPSHOT                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=62&text=OPERATOR%20PROFILE&fontSize=19&fontColor=e8c17a&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/EXPERIENCE-1%2B%20YEAR-02040a?style=for-the-badge&color=5eead4"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20SYSTEMS-02040a?style=for-the-badge&color=e8c17a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BASE-MADURAI%2C%20INDIA-02040a?style=for-the-badge&color=94a3ff"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2600&pause=900&color=d4d4d8&center=true&vCenter=true&width=410&height=110&multiline=true&lines=BUILDING%3A%20scalable%20interfaces;%0APERFORMANCE%3A%20up%20to%204%C3%97%20faster;%0AARCHITECTURE%3A%20reusable%20systems" width="46%"/>
+&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2600&pause=900&color=d4d4d8&center=true&vCenter=true&width=410&height=110&multiline=true&lines=LEADING%3A%20mentoring%204%20devs;%0ASCALE%3A%20apps%20up%20to%201000%20users;%0ASHIPPING%3A%20web%20%2B%20browser%20ext" width="46%"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     ANIMATED SEPARATOR
-═══════════════════════════════════════════════════════════════ -->
-<div style="width: 70%; height: 2px; margin: 40px auto; position: relative; overflow: visible;">
-  <div style="width: 100%; height: 100%; background: linear-gradient(90deg, transparent, #8b5cf6, #3b82f6, #ec4899, transparent); background-size: 200% 100%; animation: separatorFlow 3s linear infinite;"></div>
-  <div style="position: absolute; top: -3px; left: 0; width: 7px; height: 7px; background: #8b5cf6; border-radius: 50%; animation: dotTravel 3s linear infinite; box-shadow: 0 0 15px #8b5cf6;"></div>
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      BUILD LOG                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a1628,100:02040a&height=98&section=header&text=BUILD%20LOG%20%2F%2F%20ACTIVE&fontSize=26&fontColor=5eead4&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=700&color=e8c17a&center=true&vCenter=true&width=720&height=32&lines=SUCCESS%20LIFE%20MANTRA%20%7C%20ASSOCIATE%20SOFTWARE%20ENGINEER;%5B%20JUL%202025%20%E2%86%92%20PRESENT%20%5D" alt="role"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,nodejs,express,mongodb&theme=dark"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=48&text=BUILD%20%E2%80%A2%20OPTIMIZE%20%E2%80%A2%20LEAD%20%E2%80%A2%20SHIP&fontSize=16&fontColor=e8c17a&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=850&color=d4d4d8&center=true&vCenter=true&width=400&height=130&multiline=true&lines=CORE%20MODULES;%0A%E2%86%92%20User%20Management;%0A%E2%86%92%20Auth%20%26%20Authorization;%0A%E2%86%92%20Dashboards;%0A%E2%86%92%20Workflow%20Engines" width="46%"/>
+&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=850&color=d4d4d8&center=true&vCenter=true&width=400&height=130&multiline=true&lines=IMPACT;%0A%E2%86%92%20Up%20to%204%C3%97%20load%20gain;%0A%E2%86%92%20Mentored%204%20developers;%0A%E2%86%92%20Reusable%20UI%20systems;%0A%E2%86%92%20Production%20shipped" width="46%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=48&text=EXTENDING%20THE%20BROWSER&fontSize=16&fontColor=94a3ff&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2500&pause=800&color=d4d4d8&center=true&vCenter=true&width=820&height=58&lines=Chrome%20Extension%20%E2%86%92%20built%20from%20zero%20%E2%86%92%20store%20submission%20%E2%86%92%20approved;%0AGitHub%20Actions%20%E2%86%92%20automated%20testing%20%E2%86%92%20continuous%20deployment" alt="extension"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CODE WORKSPACE
-═══════════════════════════════════════════════════════════════ -->
-<div style="text-align: left; background: #0d1117; border-radius: 15px; border: 1px solid rgba(139,92,246,0.2); overflow: hidden; margin: 30px 0;">
+<br><br>
 
-  <!-- Window header -->
-  <div style="padding: 15px 20px; background: #161b22; display: flex; align-items: center; gap: 8px; border-bottom: 1px solid rgba(255,255,255,0.05);">
-    <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; animation: blink 1.5s infinite; display: inline-block;"></span>
-    <span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; animation: blink 1.5s infinite 0.2s; display: inline-block;"></span>
-    <span style="width: 12px; height: 12px; border-radius: 50%; background: #27c93f; animation: blink 1.5s infinite 0.4s; display: inline-block;"></span>
-    <span style="color: #8b949e; font-size: 13px; margin-left: 15px; font-family: monospace;">~/arjundev/experience.ts</span>
-  </div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SELECTED SYSTEMS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <!-- Code content -->
-  <div style="padding: 25px; font-family: 'SF Mono', 'Courier New', monospace; font-size: 14px; line-height: 1.6; position: relative; overflow: hidden;">
-    
-    <div style="animation: codeReveal 15s linear infinite;">
-      <div><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">developer</span> <span style="color: #ff7b72;">=</span> <span style="color: #ffa657;">{</span></div>
-      
-      <div style="margin-left: 20px;"><span style="color: #d2a8ff;">name:</span> <span style="color: #a5d6ff;">'Arjun Dev'</span><span style="color: #8b949e;">,</span></div>
-      
-      <div style="margin-left: 20px;"><span style="color: #d2a8ff;">expertise:</span> <span style="color: #ffa657;">[</span><span style="color: #a5d6ff;">'Full-Stack'</span><span style="color: #8b949e;">,</span> <span style="color: #a5d6ff;">'Cloud Architecture'</span><span style="color: #8b949e;">,</span> <span style="color: #a5d6ff;">'DevOps'</span><span style="color: #ffa657;">]</span><span style="color: #8b949e;">,</span></div>
-      
-      <div style="margin-left: 20px;"><span style="color: #d2a8ff;">stack:</span> <span style="color: #ffa657;">{</span></div>
-      <div style="margin-left: 40px;"><span style="color: #d2a8ff;">frontend:</span> <span style="color: #a5d6ff;">['React'</span><span style="color: #8b949e;">,</span> <span style="color: #a5d6ff;">'Next.js'</span><span style="color: #8b949e;">,</span> <span style="color: #a5d6ff;">'Vue']</span><span style="color: #8b949e;">,</span></div>
-      <div style="margin-left: 40px;"><span style="color: #d2a8ff;">backend:</span> <span style="color: #a5d6ff;">['Node'</span><span style="color: #8b949e;">,</span> <span style="color: #a5d6ff;">'Python'</span><span style="color: #8b949e;">,</span> <span style="color: #a5d6ff;">'Go']</span><span style="color: #8b949e;">,</span></div>
-      <div style="margin-left: 40px;"><span style="color: #d2a8ff;">database:</span> <span style="color: #a5d6ff;">['PostgreSQL'</span><span style="color: #8b949e;">,</span> <span style="color: #a5d6ff;">'MongoDB']</span><span style="color: #ffa657;">}</span><span style="color: #8b949e;">,</span></div>
-      
-      <div style="margin-left: 20px;"><span style="color: #d2a8ff;">currentFocus:</span> <span style="color: #a5d6ff;">'Building scalable real-time applications'</span><span style="color: #8b949e;">,</span></div>
-      
-      <div style="margin-left: 20px;"><span style="color: #d2a8ff;">available:</span> <span style="color: #7ee787;">true</span></div>
-      
-      <div><span style="color: #ffa657;">}</span><span style="color: #8b949e;">;</span></div>
-    </div>
-  </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040a,40:0f1c33,70:13294b,100:02040a&height=110&section=header&text=SELECTED%20SYSTEMS&fontSize=28&fontColor=e8c17a&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2400&pause=700&color=5eead4&center=true&vCenter=true&width=680&height=30&lines=THREE%20DIFFERENT%20PROBLEMS%20%E2%86%92%20THREE%20DIFFERENT%20SOLUTIONS"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FEATURED PROJECTS
-═══════════════════════════════════════════════════════════════ -->
-<div style="margin: 40px 0;">
-  <h2 style="color: #fff; font-size: 28px; margin-bottom: 30px; position: relative; display: inline-block;">
-    FEATURED WORK
-    <span style="position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); width: 60px; height: 3px; background: linear-gradient(90deg, #8b5cf6, #3b82f6); border-radius: 2px; animation: underlinePulse 2s ease-in-out infinite;"></span>
-  </h2>
+<br><br>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 40px;">
-    
-    <!-- Project 1 -->
-    <div style="background: #0d1117; border-radius: 15px; padding: 30px; border: 1px solid rgba(139,92,246,0.3); transition: all 0.3s ease; position: relative; overflow: hidden; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 60px rgba(139,92,246,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      
-      <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #8b5cf6, #3b82f6);"></div>
-      
-      <h3 style="color: #8b5cf6; font-size: 24px; margin: 15px 0 10px 0;">NEURAL CHAT</h3>
-      <p style="color: #8b949e; font-size: 15px; line-height: 1.6; margin: 0;">AI-powered real-time chat platform with sentiment analysis and smart replies.</p>
-      
-      <div style="margin-top: 20px; display: flex; gap: 8px; flex-wrap: wrap;">
-        <span style="font-size: 12px; color: #79c0ff; background: rgba(121,192,255,0.1); padding: 5px 12px; border-radius: 12px;">WebSocket</span>
-        <span style="font-size: 12px; color: #d2a8ff; background: rgba(210,168,255,0.1); padding: 5px 12px; border-radius: 12px;">TensorFlow.js</span>
-        <span style="font-size: 12px; color: #7ee787; background: rgba(126,231,135,0.1); padding: 5px 12px; border-radius: 12px;">React</span>
-      </div>
-    </div>
+<!-- SYSTEM 01 -->
+<div align="center">
 
-    <!-- Project 2 -->
-    <div style="background: #0d1117; border-radius: 15px; padding: 30px; border: 1px solid rgba(59,130,246,0.3); transition: all 0.3s ease; position: relative; overflow: hidden; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 60px rgba(59,130,246,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      
-      <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #3b82f6, #34d399);"></div>
-      
-      <h3 style="color: #3b82f6; font-size: 24px; margin: 15px 0 10px 0;">CLOUD SCALE</h3>
-      <p style="color: #8b949e; font-size: 15px; line-height: 1.6; margin: 0;">Auto-scaling microservices infrastructure with real-time monitoring and zero-downtime deployment.</p>
-      
-      <div style="margin-top: 20px; display: flex; gap: 8px; flex-wrap: wrap;">
-        <span style="font-size: 12px; color: #79c0ff; background: rgba(121,192,255,0.1); padding: 5px 12px; border-radius: 12px;">Kubernetes</span>
-        <span style="font-size: 12px; color: #d2a8ff; background: rgba(210,168,255,0.1); padding: 5px 12px; border-radius: 12px;">AWS</span>
-        <span style="font-size: 12px; color: #7ee787; background: rgba(126,231,135,0.1); padding: 5px 12px; border-radius: 12px;">Docker</span>
-      </div>
-    </div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=01%20%2F%20CHILDCARE%20CMS&fontSize=20&fontColor=5eead4&animation=fadeIn" width="100%"/>
 
-    <!-- Project 3 -->
-    <div style="background: #0d1117; border-radius: 15px; padding: 30px; border: 1px solid rgba(236,72,153,0.3); transition: all 0.3s ease; position: relative; overflow: hidden; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 60px rgba(236,72,153,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      
-      <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #ec4899, #8b5cf6);"></div>
-      
-      <h3 style="color: #ec4899; font-size: 24px; margin: 15px 0 10px 0;">DEV FLOW</h3>
-      <p style="color: #8b949e; font-size: 15px; line-height: 1.6; margin: 0;">Visual programming interface for building complex workflows with drag-and-drop components.</p>
-      
-      <div style="margin-top: 20px; display: flex; gap: 8px; flex-wrap: wrap;">
-        <span style="font-size: 12px; color: #79c0ff; background: rgba(121,192,255,0.1); padding: 5px 12px; border-radius: 12px;">TypeScript</span>
-        <span style="font-size: 12px; color: #d2a8ff; background: rgba(210,168,255,0.1); padding: 5px 12px; border-radius: 12px;">Redux</span>
-        <span style="font-size: 12px; color: #7ee787; background: rgba(126,231,135,0.1); padding: 5px 12px; border-radius: 12px;">Node.js</span>
-      </div>
-    </div>
-  </div>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=850&color=d4d4d8&center=true&vCenter=true&width=780&height=48&lines=BUSINESS%20SITE%20%E2%86%92%20CUSTOM%20CMS%20%E2%86%92%20LIVE%20CONTENT;%0AIMAGES%20%C2%B7%20TEXT%20%C2%B7%20SECTIONS%20%C2%B7%20EVENTS"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
+
+<br><br>
+
+A complete childcare platform with a custom CMS so non-technical staff can own the content without touching code.
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     ANIMATED SEPARATOR
-═══════════════════════════════════════════════════════════════ -->
-<div style="width: 70%; height: 2px; margin: 40px auto; position: relative; overflow: visible;">
-  <div style="width: 100%; height: 100%; background: linear-gradient(90deg, transparent, #34d399, #79c0ff, transparent); background-size: 200% 100%; animation: separatorFlow 2.5s linear infinite reverse;"></div>
-  <div style="position: absolute; top: -3px; left: 0; width: 7px; height: 7px; background: #34d399; border-radius: 50%; animation: dotTravel 2.5s linear infinite reverse; box-shadow: 0 0 15px #34d399;"></div>
+<br><br>
+
+<!-- SYSTEM 02 -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=02%20%2F%20RESUME%20BUILDER&fontSize=20&fontColor=e8c17a&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=850&color=d4d4d8&center=true&vCenter=true&width=780&height=48&lines=EDIT%20%E2%86%92%20RENDER%20%E2%86%92%20PREVIEW;%0AREAL-TIME%20CONTENT%20%C2%B7%20COMPONENT%20ARCHITECTURE%20%C2%B7%20EXTENSIBLE"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/>
+
+<br><br>
+
+Live editor where every change instantly reflects in the preview. Built for speed and extensibility.
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     SKILL MATRIX
-═══════════════════════════════════════════════════════════════ -->
-<div style="margin: 40px 0; padding: 30px; background: #0d1117; border-radius: 15px; border: 1px solid rgba(139,92,246,0.2); position: relative; overflow: hidden;">
-  
-  <h3 style="color: #fff; font-size: 22px; margin-bottom: 25px;">
-    CAPABILITY MATRIX
-  </h3>
+<br><br>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px;">
-    
-    <div style="background: rgba(139,92,246,0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); animation: gridPulse 3s infinite;">
-      <div style="font-size: 32px; margin-bottom: 10px;">⚛️</div>
-      <div style="color: #8b5cf6; font-weight: bold;">React</div>
-      <div style="color: #8b949e; font-size: 12px;">Advanced</div>
-    </div>
+<!-- SYSTEM 03 -->
+<div align="center">
 
-    <div style="background: rgba(59,130,246,0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(59,130,246,0.3); animation: gridPulse 3s infinite 0.2s;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🟢</div>
-      <div style="color: #3b82f6; font-weight: bold;">Node.js</div>
-      <div style="color: #8b949e; font-size: 12px;">Expert</div>
-    </div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=03%20%2F%20REAL-TIME%20BLOG&fontSize=20&fontColor=94a3ff&animation=fadeIn" width="100%"/>
 
-    <div style="background: rgba(236,72,153,0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(236,72,153,0.3); animation: gridPulse 3s infinite 0.4s;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🐍</div>
-      <div style="color: #ec4899; font-weight: bold;">Python</div>
-      <div style="color: #8b949e; font-size: 12px;">Advanced</div>
-    </div>
+<br>
 
-    <div style="background: rgba(52,211,153,0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(52,211,153,0.3); animation: gridPulse 3s infinite 0.6s;">
-      <div style="font-size: 32px; margin-bottom: 10px;">☁️</div>
-      <div style="color: #34d399; font-weight: bold;">AWS</div>
-      <div style="color: #8b949e; font-size: 12px;">Professional</div>
-    </div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=850&color=d4d4d8&center=true&vCenter=true&width=800&height=48&lines=CLIENT%20%E2%86%92%20API%20%E2%86%92%20SERVER%20%E2%86%92%20DATABASE;%0AWEBSOCKET%20%E2%86%92%20LIVE%20UPDATES%20%E2%86%92%20INSTANT%20FEEDBACK"/>
 
-    <div style="background: rgba(210,168,255,0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(210,168,255,0.3); animation: gridPulse 3s infinite 0.8s;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🐳</div>
-      <div style="color: #d2a8ff; font-weight: bold;">Docker</div>
-      <div style="color: #8b949e; font-size: 12px;">Expert</div>
-    </div>
+<br><br>
 
-    <div style="background: rgba(255,123,114,0.1); padding: 20px; border-radius: 12px; border: 1px solid rgba(255,123,114,0.3); animation: gridPulse 3s infinite 1s;">
-      <div style="font-size: 32px; margin-bottom: 10px;">📊</div>
-      <div style="color: #ff7b72; font-weight: bold;">PostgreSQL</div>
-      <div style="color: #8b949e; font-size: 12px;">Advanced</div>
-    </div>
-  </div>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
+
+<br><br>
+
+Full-stack blogging system with JWT auth and WebSocket-powered live updates.
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB STATS
-═══════════════════════════════════════════════════════════════ -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=3b82f6&text_color=c9d1d9" style="border-radius: 15px; margin: 10px; animation: floatY 6s ease-in-out infinite; max-width: 100%;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&stroke=8b5cf6&ring=3b82f6&fire=ec4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=8b949e" style="border-radius: 15px; margin: 10px; animation: floatY 6s ease-in-out infinite 0.5s; max-width: 100%;" />
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECHNOLOGY FIELD                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f1c33,100:02040a&height=98&section=header&text=TECHNOLOGY%20FIELD&fontSize=26&fontColor=5eead4&animation=fadeIn" width="100%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind&perline=8&theme=dark"/>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=FRONTEND%20%E2%80%94%20INTERFACES%20%E2%80%94%20STATE%20%E2%80%94%20MOTION&fontSize=13&fontColor=e8c17a&animation=fadeIn" width="100%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4&theme=dark"/>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=BACKEND%20%E2%80%94%20APIs%20%E2%80%94%20AUTH%20%E2%80%94%20DATA&fontSize=13&fontColor=94a3ff&animation=fadeIn" width="100%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,netlify&perline=7&theme=dark"/>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=TOOLS%20%E2%80%94%20AUTOMATION%20%E2%80%94%20DEPLOYMENT&fontSize=13&fontColor=5eead4&animation=fadeIn" width="100%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=600&color=d4d4d8&center=true&vCenter=true&width=840&height=36&lines=GSAP%20%C2%B7%20REST%20%C2%B7%20JWT%20%C2%B7%20Chrome%20Extensions%20%C2%B7%20CI%2FCD%20%C2%B7%20Browser%20Debugging"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CONNECT SECTION
-═══════════════════════════════════════════════════════════════ -->
-<div style="margin: 50px 0; padding: 40px 20px; position: relative; background: #0d1117; border-radius: 20px; overflow: hidden;">
-  
-  <!-- Decorative rings -->
-  <div style="position: absolute; top: 50%; left: 50%; width: 400px; height: 400px; transform: translate(-50%, -50%); border: 1px solid rgba(139,92,246,0.15); border-radius: 50%; animation: orbitSpin 15s linear infinite; pointer-events: none;"></div>
-  <div style="position: absolute; top: 50%; left: 50%; width: 300px; height: 300px; transform: translate(-50%, -50%); border: 1px solid rgba(59,130,246,0.15); border-radius: 50%; animation: orbitSpin 12s linear infinite reverse; pointer-events: none;"></div>
+<br><br>
 
-  <h3 style="color: #fff; font-size: 24px; margin-bottom: 30px; position: relative; z-index: 1;">
-    INITIATE CONTACT
-  </h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   DEPLOYMENT PIPELINE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; position: relative; z-index: 1;">
-    <a href="https://github.com/YOUR_USERNAME" style="text-decoration: none; background: #8b5cf6; padding: 15px 30px; border-radius: 30px; color: #fff; font-weight: bold; letter-spacing: 1px; transition: all 0.3s; animation: buttonGlow 3s infinite; display: inline-block;">
-      GITHUB
-    </a>
-    <a href="https://linkedin.com/in/YOUR_USERNAME" style="text-decoration: none; background: #3b82f6; padding: 15px 30px; border-radius: 30px; color: #fff; font-weight: bold; letter-spacing: 1px; transition: all 0.3s; animation: buttonGlow 3s infinite 0.5s; display: inline-block;">
-      LINKEDIN
-    </a>
-    <a href="mailto:YOUR_EMAIL" style="text-decoration: none; background: #ec4899; padding: 15px 30px; border-radius: 30px; color: #fff; font-weight: bold; letter-spacing: 1px; transition: all 0.3s; animation: buttonGlow 3s infinite 1s; display: inline-block;">
-      EMAIL
-    </a>
-  </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=FROM%20COMMIT%20TO%20PRODUCTION&fontSize=21&fontColor=e8c17a&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1700&pause=550&color=5eead4&center=true&vCenter=true&width=820&height=42&lines=CODE%20%E2%86%93%20GIT%20%E2%86%93%20GITHUB%20ACTIONS%20%E2%86%93%20BUILD%20%2B%20TEST%20%E2%86%93%20DEPLOY%20%E2%86%93%20LIVE"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify&theme=dark"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER
-═══════════════════════════════════════════════════════════════ -->
-<div style="margin-top: 60px; padding: 20px; text-align: center;">
-  <div style="width: 100%; height: 1px; background: linear-gradient(90deg, transparent, rgba(139,92,246,0.5), transparent); margin-bottom: 20px;"></div>
-  
-  <p style="color: #8b949e; font-size: 13px; margin: 0; font-family: monospace; animation: textGlow 3s ease-in-out infinite;">
-    ⚡ system_active <span style="color: #34d399;">●</span> neural_link_established <span style="color: #3b82f6;">●</span> ready_to_build
-  </p>
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     LEARNING ARCHIVE                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f1c33,100:02040a&height=90&section=header&text=LEARNING%20ARCHIVE&fontSize=24&fontColor=94a3ff&animation=fadeIn" width="100%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=800&color=d4d4d8&center=true&vCenter=true&width=820&height=78&multiline=true&lines=MCA%20%E2%80%94%20Computer%20Applications%20%C2%B7%202025%20%C2%B7%20CGPA%208.3;%0AK.L.N%20College%20of%20Engineering%2C%20Sivaganga;%0A%0AB.Sc%20%E2%80%94%20Computer%20Science%20%C2%B7%202022%20%C2%B7%20CGPA%207.9;%0AKLN%20Arts%20and%20Science%20College%2C%20Sivaganga"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CSS ANIMATION ENGINE
-═══════════════════════════════════════════════════════════════ -->
-<style>
-  @keyframes orbFloat {
-    0%, 100% { transform: translate(0, 0) scale(1); }
-    25% { transform: translate(30px, -20px) scale(1.05); }
-    50% { transform: translate(-15px, 25px) scale(0.95); }
-    75% { transform: translate(-25px, -15px) scale(1.02); }
-  }
+<br><br>
 
-  @keyframes floatY {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     KNOWLEDGE LOADED                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-  @keyframes titleGlow {
-    0%, 100% { text-shadow: 0 0 40px rgba(139,92,246,0.8), 0 0 80px rgba(59,130,246,0.4); }
-    50% { text-shadow: 0 0 60px rgba(139,92,246,1), 0 0 100px rgba(59,130,246,0.6), 0 0 120px rgba(236,72,153,0.3); }
-  }
+<div align="center">
 
-  @keyframes typewriter {
-    0%, 20% { width: 0; }
-    70%, 90% { width: 100%; }
-    100% { width: 0; }
-  }
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=58&text=KNOWLEDGE%20LOADED&fontSize=20&fontColor=5eead4&animation=fadeIn" width="100%"/>
 
-  @keyframes cursorBlink {
-    0%, 50% { border-color: #34d399; }
-    50.01%, 100% { border-color: transparent; }
-  }
+<br>
 
-  @keyframes separatorFlow {
-    0% { background-position: 200% 0; }
-    100% { background-position: -200% 0; }
-  }
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=650&color=e8c17a&center=true&vCenter=true&width=800&height=42&lines=WEB%20DEVELOPMENT%20%C2%B7%20REACT.JS%20WORKSHOP;%0AMERN%20STACK%20WORKSHOP%20%C2%B7%20POWER%20BI%20WORKSHOP"/>
 
-  @keyframes dotTravel {
-    0% { left: 0%; }
-    50% { left: calc(100% - 7px); }
-    100% { left: 0%; }
-  }
+</div>
 
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
-  }
+<br><br>
 
-  @keyframes codeReveal {
-    0%, 100% { transform: translateY(0); opacity: 1; }
-    50% { transform: translateY(-10px); opacity: 0.8; }
-  }
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB TELEMETRY                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-  @keyframes underlinePulse {
-    0%, 100% { width: 60px; }
-    50% { width: 120px; }
-  }
+<div align="center">
 
-  @keyframes gridPulse {
-    0%, 100% { box-shadow: 0 0 20px rgba(139,92,246,0.2); }
-    50% { box-shadow: 0 0 40px rgba(139,92,246,0.5); }
-  }
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040a,30:0f1c33,60:13294b,100:02040a&height=120&section=header&text=GITHUB%20TELEMETRY&fontSize=27&fontColor=5eead4&animation=fadeIn" width="100%"/>
 
-  @keyframes orbitSpin {
-    from { transform: translate(-50%, -50%) rotate(0deg); }
-    to { transform: translate(-50%, -50%) rotate(360deg); }
-  }
+<br><br>
 
-  @keyframes buttonGlow {
-    0%, 100% { box-shadow: 0 0 20px rgba(139,92,246,0.5); }
-    50% { box-shadow: 0 0 40px rgba(139,92,246,0.8), 0 0 60px rgba(59,130,246,0.4); }
-  }
+<img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&hide_border=true&bg_color=02040a&title_color=e8c17a&icon_color=5eead4&text_color=d4d4d8&ring_color=e8c17a&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&hide_border=true&bg_color=02040a&title_color=e8c17a&text_color=d4d4d8&langs_count=8" width="49%"/>
 
-  @keyframes textGlow {
-    0%, 100% { opacity: 0.7; }
-    50% { opacity: 1; text-shadow: 0 0 20px rgba(139,92,246,0.5); }
-  }
-</style>
+<br><br>
 
-<!-- ═══════════════════════════════════════════════════════════
-     MOBILE RESPONSIVE
-═══════════════════════════════════════════════════════════════ -->
-<style>
-  @media (max-width: 768px) {
-    h1 { font-size: 32px !important; letter-spacing: 3px !important; }
-    h2 { font-size: 22px !important; }
-    h3 { font-size: 20px !important; }
-    
-    div[style*="grid-template-columns"] { grid-template-columns: 1fr !important; }
-    
-    div[style*="width: 400px"], div[style*="width: 300px"] { display: none !important; }
-    
-    code { font-size: 14px !important; padding: 10px 15px !important; white-space: normal !important; }
-    
-    img { max-width: 100% !important; height: auto !important; }
-  }
-</style>
+<img src="https://streak-stats.demolab.com/?user=Bhogyaan&hide_border=true&background=02040a&ring=e8c17a&fire=f472b6&currStreakLabel=5eead4&sideLabels=94a3ff&dates=d4d4d8" width="80%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake-dark.svg" width="90%" alt="contribution snake"/>
+
+</div>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CURRENT MODE                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=62&text=CURRENT%20MODE&fontSize=22&fontColor=e8c17a&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=650&color=5eead4&center=true&vCenter=true&width=780&height=95&multiline=true&lines=FOCUS%3A%20Advanced%20Frontend%20Engineering;%0AEXPLORE%3A%20Modern%20Web%20Systems;%0AIMPROVE%3A%20Performance%20%2B%20Architecture;%0ABUILD%3A%20Experiences%20worth%20remembering"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20OPTIMIZE%20%E2%86%92%20SHIP%20%E2%86%92%20REPEAT&fontSize=15&fontColor=94a3ff&animation=fadeIn" width="100%"/>
+
+</div>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        LANGUAGES                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2100&pause=700&color=d4d4d8&center=true&vCenter=true&width=640&height=30&lines=LANGUAGES%20%3A%3A%20ENGLISH%20%C2%B7%20TAMIL%20%C2%B7%20SAURASHTRA"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2300&pause=800&color=5eead4&center=true&vCenter=true&width=700&height=30&lines=COMMUNICATION%20%C2%B7%20COLLABORATION%20%C2%B7%20PROBLEM%20SOLVING%20%C2%B7%20ADAPTABILITY"/>
+
+</div>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         EXIT SEQUENCE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040a,30:13294b,60:0f1c33,100:02040a&height=200&section=footer&text=LET%27S%20BUILD%20THE%20NEXT%20THING&fontSize=26&fontColor=e8c17a&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2300&pause=800&color=5eead4&center=true&vCenter=true&width=700&height=36&lines=Have%20an%20idea%3F;%3E%20Let%27s%20turn%20it%20into%20something%20alive."/>
+
+<br><br>
+
+<a href="https://bhogyaan.vercel.app">
+  <img src="https://img.shields.io/badge/EXPLORE%20THE%20WORK-02040a?style=for-the-badge&logo=vercel&logoColor=5eead4"/>
+</a>
+&nbsp;
+<a href="mailto:bhogyaannr@gmail.com">
+  <img src="https://img.shields.io/badge/START%20A%20SIGNAL-02040a?style=for-the-badge&logo=gmail&logoColor=f472b6"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/bhogyaannr">
+  <img src="https://img.shields.io/badge/CONNECT-02040a?style=for-the-badge&logo=linkedin&logoColor=94a3ff"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Bhogyaan&label=THANKS%20FOR%20DROPPING%20IN&style=flat-square&color=5eead4&labelColor=02040a"/>
+
+<br><br>
+
+<sub>
+N R BHOGYAAN · FRONTEND SOFTWARE ENGINEER<br>
+Built with code, curiosity & continuous motion ✦
+</sub>
 
 </div>
