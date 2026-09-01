@@ -1,153 +1,173 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ║                    FUTURISTIC HERO                         ║ -->
+<!--                         HERO                                   -->
 
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:312E81,75:7C3AED,100:EC4899&text=ARJUNDEV&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=BUILDING%20DIGITAL%20EXPERIENCES%20WITH%20CODE&descAlignY=62&descSize=16&animation=twinkling"
-    width="100%"
-    alt="ArjunDev futuristic banner"
-  />
+<a href="https://github.com/Bhogyaan">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:111827,70:312E81,100:7C3AED&text=N%20R%20BHOGYAAN&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=FRONTEND%20SOFTWARE%20ENGINEER&descColor=C4B5FD&descAlignY=61&descSize=18&animation=twinkling"
+  width="100%"
+  alt="N R Bhogyaan"
+/>
 </a>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=%3E+building_future.exe+--with-code;%3E+engineering+scalable+digital+experiences;%3E+turning+ideas+into+production+systems;%3E+always+learning.+always+building."
-    alt="Typing animation"
-  />
-</a>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=760&lines=%3E+building+high-performance+web+applications;%3E+React.js+%7C+Next.js+%7C+Redux;%3E+performance+optimization+%7C+REST+APIs;%3E+CI%2FCD+%7C+browser+extensions+%7C+MERN;%3E+turning+ideas+into+production-ready+experiences."
+alt="Frontend Software Engineer typing animation"
+/>
 
 <br/><br/>
 
-<!-- STATUS PILLS -->
+<img src="https://img.shields.io/badge/⚡_1%2B_YEAR-EXPERIENCE-8B5CF6?style=for-the-badge&labelColor=050816" alt="1+ year experience"/>
+<img src="https://img.shields.io/badge/🚀_UP_TO_4×-PERFORMANCE_GAIN-3B82F6?style=for-the-badge&labelColor=050816" alt="4x performance improvement"/>
+<img src="https://img.shields.io/badge/👥_TEAM-4_DEVELOPERS-34D399?style=for-the-badge&labelColor=050816" alt="Team of 4"/>
 
-<img src="https://img.shields.io/badge/⚡_EXPERIENCE-5%2B_YEARS-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Experience"/>
-<img src="https://img.shields.io/badge/🚀_PROJECTS-30%2B-3B82F6?style=for-the-badge&labelColor=0D1117" alt="Projects"/>
-<img src="https://img.shields.io/badge/📦_OPEN_SOURCE-50%2B-34D399?style=for-the-badge&labelColor=0D1117" alt="Open source"/>
+<br/><br/>
+
+<a href="https://bhogyaan.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhogyaannr">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Bhogyaan">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:bhogyaannr@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
 <img
 src="https://user-images.githubusercontent.com/74038190/212284115-f0f3d8d9-0a0a-4a4f-b5f5-7e7d4a5c8f0a.gif"
-width="35"
-alt="animated separator"
+width="40"
+alt="Animated separator"
 />
-
-<br/>
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         INTRO                                 -->
+<!--                       PROFILE                                  -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `01` — SYSTEM PROFILE
-
-<div align="center">
+## `01` — DEVELOPER PROFILE
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### 👨‍💻 Developer Mode
+### 👋 Frontend Software Engineer
 
-I'm a developer focused on creating **clean, scalable and user-focused digital experiences**.
+Frontend Software Engineer with **1+ year of professional experience** building scalable and high-performance web applications.
 
-My approach combines:
+My primary focus is modern frontend engineering with:
 
-* ⚛️ Modern frontend engineering
-* 🧩 Reusable component architecture
-* ⚡ Performance optimization
-* 🔌 REST API integration
-* ☁️ Cloud & deployment concepts
-* 🛠️ Continuous experimentation
+**React.js · Next.js · Redux · JavaScript · Tailwind CSS · GSAP**
 
-<br/>
+I enjoy transforming requirements into responsive interfaces, reusable component systems, optimized applications and production-ready features.
 
-> `BUILD → MEASURE → IMPROVE → REPEAT`
+My experience extends across the delivery pipeline — from **frontend architecture and REST API integration** to **browser extension development, deployment and CI/CD automation**.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### 🧠 Current Runtime
+### `runtime.config`
 
 ```text
 ┌─────────────────────────────┐
-│       DEVELOPER CORE        │
+│       BHOGYAAN.DEV          │
 ├─────────────────────────────┤
-│ Frontend    → React         │
-│ Framework   → Next.js       │
-│ Language    → JavaScript    │
-│ State       → Redux         │
-│ Backend     → Node.js       │
-│ Database    → MongoDB       │
-│ APIs        → REST          │
-│ Workflow    → Git / GitHub  │
+│ Role      → Frontend SWE    │
+│ Experience→ 1+ Year         │
+│ Primary   → React.js        │
+│ Framework → Next.js         │
+│ State     → Redux           │
+│ Styling   → Tailwind CSS    │
+│ Animation → GSAP             │
+│ API       → REST            │
+│ CI/CD     → GitHub Actions  │
 └─────────────────────────────┘
 ```
 
-<br/>
+**LOCATION**
 
-`STATUS`
+`Madurai, Tamil Nadu`
 
-🟢 **ONLINE**
+**CURRENT MODE**
 
-`FOCUS`
-
-⚡ Scalable applications
+`BUILDING • OPTIMIZING • LEARNING`
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                     ARCHITECTURE                               -->
+<!--                    ENGINEERING STACK                          -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## `02` — ENGINEERING STACK
 
 <div align="center">
 
-### ⚛️ FRONTEND
+### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,redux&theme=dark" alt="Frontend technologies"/>
-
-<br/><br/>
-
-### ⚙️ BACKEND & DATA
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgresql&theme=dark" alt="Backend technologies"/>
+<img
+src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,gsap&theme=dark"
+alt="Frontend technology stack"
+/>
 
 <br/><br/>
 
-### ☁️ DEVOPS & TOOLING
+### `BACKEND`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman&theme=dark" alt="DevOps technologies"/>
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,fastify&theme=dark"
+alt="Backend technology stack"
+/>
+
+<br/><br/>
+
+### `DATABASES`
+
+<img
+src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"
+alt="Database technologies"
+/>
+
+<br/><br/>
+
+### `DEVOPS • DEPLOYMENT • TOOLS`
+
+<img
+src="https://skillicons.dev/icons?i=githubactions,vercel,netlify,git,vscode,postman&theme=dark"
+alt="DevOps and developer tools"
+/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                     CAPABILITY GRID                           -->
+<!--                     SKILL MATRIX                              -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## `03` — CAPABILITY MATRIX
 
@@ -155,87 +175,283 @@ My approach combines:
 
 <table>
 <tr>
-<td align="center" width="25%">
+
+<td width="25%" align="center">
 
 ### ⚛️
 
-**React**
+**REACT.JS**
 
-Advanced
-
-</td>
-
-<td align="center" width="25%">
-
-### 🟢
-
-**Node.js**
-
-Advanced
+Component-driven
+Frontend Development
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🟡
+### ▲
 
-**JavaScript**
+**NEXT.JS**
 
-Advanced
+Modern Web
+Application Development
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🔷
+### 🔄
 
-**TypeScript**
+**REDUX**
 
-Working
+State Management
+& Optimization
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎨
+
+**GSAP**
+
+Interactive
+Web Animations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="25%" align="center">
+
+### 🟨
+
+**JAVASCRIPT**
+
+ES6+
+Application Logic
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎯
+
+**TAILWIND**
+
+Responsive
+UI Development
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔌
+
+**REST APIs**
+
+Frontend ↔ Backend
+Integration
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔐
+
+**JWT**
+
+Authentication
+Workflows
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       EXPERIENCE                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `04` — PROFESSIONAL EXPERIENCE
+
+<div align="center">
+
+<img
+src="https://img.shields.io/badge/2025_→_PRESENT-ASSOCIATE_SOFTWARE_ENGINEER-8B5CF6?style=for-the-badge&labelColor=050816"
+alt="Current role"
+/>
+
+</div>
+
+<br/>
+
+### Associate Software Engineer
+
+**Success Life Mantra · Madurai, Tamil Nadu**
+
+`Jul 2025 → Present`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 👥 TEAM & ENGINEERING
+
+* Mentor and guide a team of **4 interns/developers**.
+* Review code and resolve reported bugs.
+* Maintain code quality and release stability.
+* Created reusable UI components and shared frontend utilities.
+* Reduced duplicate implementation and accelerated feature delivery.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### ⚡ PERFORMANCE
+
+**Up to 4× faster page loading**
+
+Optimized Redux state management and refactored inefficient components to improve application performance for a growing user base of **up to 1,000 users**.
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🗃️
+#### 🧩 PRODUCT ENGINEERING
 
-**MongoDB**
+Built core product modules including:
 
-Working
+`USER MANAGEMENT`
 
-</td>
+`AUTHENTICATION`
 
-<td align="center">
+`AUTHORIZATION`
 
-### 🐘
+`DASHBOARDS`
 
-**PostgreSQL**
+`WORKFLOW AUTOMATION`
 
-Working
-
-</td>
-
-<td align="center">
-
-### 🐳
-
-**Docker**
-
-Working
+using React.js, Redux and RESTful APIs.
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-### ☁️
+#### 🎨 FRONTEND EXPERIENCE
 
-**AWS**
-
-Working
+Developed responsive and cross-browser-compatible interfaces using React.js with **GSAP animations**, maintaining consistent usability and performance across devices.
 
 </td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🧩 BROWSER EXTENSION
+
+Developed and published a **Chrome browser extension from scratch**, handling the complete process from development and build configuration through store submission and approval.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🚀 CI/CD & DEPLOYMENT
+
+Set up **GitHub Actions CI/CD pipelines** for automated testing and deployment.
+
+Deployed and maintained applications across:
+
+`Vercel` · `Netlify` · `Render`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        PROJECTS                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `05` — SELECTED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🧸 CHILDCARE CMS
+
+**React.js · Node.js · Express · MongoDB**
+
+A complete business website paired with a custom CMS that allows non-technical staff to independently manage website content.
+
+**Core features**
+
+* Content management
+* Asset management
+* Image & text updates
+* Page section management
+* Events management
+* Real-time publishing
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📄 RESUME BUILDER
+
+**React.js · JavaScript · Tailwind CSS**
+
+Interactive resume-building application with a live editor and real-time preview.
+
+**Core features**
+
+* Live editing
+* Instant preview
+* Editable sections
+* Component-driven architecture
+* Extendable templates
+* Flexible layouts
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📰 REAL-TIME BLOG
+
+**MERN Stack**
+
+Full-stack blogging platform designed around real-time content and interaction.
+
+**Core features**
+
+* React frontend
+* Node.js backend
+* Express APIs
+* MongoDB
+* JWT authentication
+* WebSocket updates
+* Interactive publishing UI
+
+</td>
+
 </tr>
 </table>
 
@@ -243,290 +459,337 @@ Working
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                    EXPERIENCE TERMINAL                        -->
+<!--                      PROJECT FLOW                             -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `04` — EXPERIENCE TERMINAL
+## `06` — HOW I BUILD
 
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│ ~/developer/experience                                      │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  const developer = {                                         │
-│                                                              │
-│    name: "Arjun Dev",                                        │
-│                                                              │
-│    expertise: [                                               │
-│      "Frontend Development",                                 │
-│      "React.js",                                              │
-│      "REST API Integration",                                  │
-│      "Performance Optimization",                             │
-│      "SEO"                                                    │
-│    ],                                                         │
-│                                                              │
-│    stack: {                                                   │
-│      frontend: ["React", "Next.js", "JavaScript"],            │
-│      backend: ["Node.js", "Express.js"],                      │
-│      database: ["MongoDB", "PostgreSQL"],                     │
-│      tooling: ["Git", "GitHub", "Docker"]                     │
-│    },                                                         │
-│                                                              │
-│    currentFocus:                                             │
-│      "Building scalable real-time applications",              │
-│                                                              │
-│    available: true                                            │
-│  };                                                          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+       IDEA
+        │
+        ▼
+┌─────────────────┐
+│   ARCHITECTURE  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   COMPONENTS    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   API / STATE   │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  OPTIMIZATION   │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   TEST / BUILD  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ CI/CD → DEPLOY  │
+└────────┬────────┘
+         │
+         ▼
+      PRODUCT
 ```
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       FEATURED WORK                           -->
+<!--                     DELIVERY PIPELINE                          -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `05` — FEATURED WORK
+## `07` — DELIVERY PIPELINE
 
 <div align="center">
+
+<img
+src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify&theme=dark"
+alt="Delivery pipeline"
+/>
+
+<br/><br/>
+
+`CODE`
+
+↓
+
+`GIT`
+
+↓
+
+`GITHUB`
+
+↓
+
+`GITHUB ACTIONS`
+
+↓
+
+`TEST`
+
+↓
+
+`DEPLOY`
+
+↓
+
+`VERCEL • NETLIFY • RENDER`
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       EDUCATION                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `08` — EDUCATION
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧠 NEURAL CHAT
+### 🎓 MCA
 
-AI-powered real-time communication platform concept focused on intelligent conversations, sentiment analysis and smart replies.
+**K.L.N College of Engineering**
+Sivaganga
 
-<br/>
+`2025`
 
-`WebSocket`
-`TensorFlow.js`
-`React`
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="View Neural Chat"/>
-</a>
+**CGPA — 8.3**
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ☁️ CLOUD SCALE
+### 🎓 B.Sc Computer Science
 
-Scalable infrastructure concept focused on monitoring, automated scaling and zero-downtime deployment workflows.
+**KLN Arts and Science College**
+Sivaganga
 
-<br/>
+`2022`
 
-`Kubernetes`
-`AWS`
-`Docker`
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-3B82F6?style=for-the-badge&labelColor=0D1117" alt="View Cloud Scale"/>
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔀 DEV FLOW
-
-Visual workflow platform concept for creating complex processes through reusable components and intuitive interactions.
-
-<br/>
-
-`TypeScript`
-`Redux`
-`Node.js`
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge&labelColor=0D1117" alt="View Dev Flow"/>
-</a>
+**CGPA — 7.9**
 
 </td>
 
 </tr>
 </table>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                     CERTIFICATIONS                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `09` — CERTIFICATIONS & WORKSHOPS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UDEMY-WEB_DEVELOPMENT-A435F0?style=for-the-badge&labelColor=050816" alt="Udemy Web Development"/>
+
+<img src="https://img.shields.io/badge/WORKSHOP-REACT.JS-61DAFB?style=for-the-badge&labelColor=050816" alt="React.js workshop"/>
+
+<img src="https://img.shields.io/badge/WORKSHOP-POWER_BI-F2C811?style=for-the-badge&labelColor=050816" alt="Power BI workshop"/>
+
+<img src="https://img.shields.io/badge/WORKSHOP-MERN_STACK-34A853?style=for-the-badge&labelColor=050816" alt="MERN Stack workshop"/>
+
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         GITHUB                                -->
+<!--                     ADDITIONAL                               -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `06` — GITHUB ACTIVITY
+## `10` — BEYOND THE STACK
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🌐
+
+**BROWSER EXTENSIONS**
+
+Chrome extension development from concept to store publication.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔌
+
+**API ENGINEERING**
+
+REST APIs, authentication and frontend-backend integration.
+
+</td>
+
+<td width="33%" align="center">
+
+### 📱
+
+**CROSS-DEVICE UI**
+
+Responsive and cross-browser-compatible experiences.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                      LANGUAGES                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `11` — COMMUNICATION
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github"
-    height="180"
-    alt="GitHub statistics"
-  />
+<img src="https://img.shields.io/badge/ENGLISH-FLUENT-8B5CF6?style=for-the-badge&labelColor=050816" alt="English"/>
+<img src="https://img.shields.io/badge/TAMIL-FLUENT-3B82F6?style=for-the-badge&labelColor=050816" alt="Tamil"/>
+<img src="https://img.shields.io/badge/SAURASHTRA-34D399?style=for-the-badge&labelColor=050816" alt="Saurashtra"/>
+
+<br/><br/>
+
+**Communication · Team Collaboration · Problem-Solving · Adaptability**
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       GITHUB                                  -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `12` — GITHUB SIGNAL
+
+<div align="center">
+
+<a href="https://github.com/Bhogyaan">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&hide_title=true&hide_border=true&bg_color=050816&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github"
+  height="180"
+  alt="Bhogyaan GitHub statistics"
+/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6"
-    height="180"
-    alt="GitHub streak"
-  />
+<a href="https://github.com/Bhogyaan">
+<img
+  src="https://streak-stats.demolab.com?user=Bhogyaan&theme=dark&hide_border=true&background=050816&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6"
+  height="180"
+  alt="Bhogyaan GitHub streak"
+/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=34D399&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub activity graph"
-  />
+<a href="https://github.com/Bhogyaan">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogyaan&bg_color=050816&color=8B5CF6&line=3B82F6&point=34D399&area=true&hide_border=true"
+  width="95%"
+  alt="Bhogyaan GitHub activity"
+/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                      CONTRIBUTION                             -->
+<!--                    CONTRIBUTION                              -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `07` — CONTRIBUTION SIGNAL
+## `13` — CONTRIBUTION FLOW
 
 <div align="center">
 
 <img
 src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
 width="95%"
-alt="GitHub contribution snake animation"
+alt="GitHub contribution animation"
 />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<!--                       CURRENT FOCUS                           -->
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## `08` — CURRENT FOCUS
-
-<div align="center">
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### ⚡
-
-**PERFORMANCE**
-
-Making interfaces faster and more efficient.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧩
-
-**ARCHITECTURE**
-
-Building reusable and maintainable systems.
-
-</td>
-
-<td width="25%" align="center">
-
-### ☁️
-
-**CLOUD**
-
-Understanding scalable deployment workflows.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧠
-
-**LEARNING**
-
-Exploring modern engineering patterns.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!--                         CONTACT                               -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `09` — ESTABLISH CONNECTION
+## `14` — LET'S CONNECT
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://bhogyaan.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-BHOGYAAN.VERCEL.APP-8B5CF6?style=for-the-badge&labelColor=050816" alt="Portfolio"/>
 </a>
 
- 
+<br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/bhogyaannr">
+<img src="https://img.shields.io/badge/LINKEDIN-@BHOGYAANNR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
- 
+<a href="https://github.com/Bhogyaan">
+<img src="https://img.shields.io/badge/GITHUB-@BHOGYAAN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<a href="mailto:bhogyaannr@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-BHOGYAANNR%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%5B+system_active+%5D;%5B+neural_link_established+%5D;%5B+ready_to_build+%5D"
-alt="System status"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=%5B+system_active+%5D;%5B+frontend_engineering_mode+%5D;%5B+performance_optimization+%5D;%5B+ready_to_build+%5D"
+alt="Developer status"
 />
 
 <br/><br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EC4899,50:7C3AED,100:0D1117&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:EC4899,45:7C3AED,100:050816&section=footer"
 width="100%"
-alt="Footer"
+alt="Animated footer"
 />
 
 </div>
