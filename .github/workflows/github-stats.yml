@@ -1,46 +1,78 @@
-name: Update GitHub Stats
+name: Generate GitHub Profile Assets
 
 on:
   schedule:
+    # Run once every day at 03:00 UTC
     - cron: "0 3 * * *"
+
+  # Allow manual execution from GitHub Actions
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  stats:
+  generate-profile-assets:
+    name: Generate Profile Assets
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      # ─────────────────────────────────────────────
+      # Checkout repository
+      # ─────────────────────────────────────────────
+
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Stats
+      # ─────────────────────────────────────────────
+      # Generate GitHub statistics
+      # ─────────────────────────────────────────────
+
+      - name: Generate GitHub statistics
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          path: profile/stats.svg
+          options: >-
+            username=${{ github.repository_owner }}&
+            show_icons=true&
+            hide_border=true&
+            theme=transparent
+          path: public/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Top Languages
+      # ─────────────────────────────────────────────
+      # Generate top languages
+      # ─────────────────────────────────────────────
+
+      - name: Generate top languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          path: profile/top-langs.svg
+          options: >-
+            username=${{ github.repository_owner }}&
+            layout=compact&
+            langs_count=6&
+            hide_border=true&
+            theme=transparent
+          path: public/github-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit stats
+      # ─────────────────────────────────────────────
+      # Commit generated assets
+      # ─────────────────────────────────────────────
+
+      - name: Commit generated profile assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/
+          git add public/github-stats.svg
+          git add public/github-top-langs.svg
 
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No profile asset changes."
             exit 0
           fi
 
-          git commit -m "chore: update GitHub stats"
+          git commit -m "chore: update GitHub profile assets"
           git push
