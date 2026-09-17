@@ -1,83 +1,82 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:0F766E&height=220&section=header&text=N%20R%20Bhogyaan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Software%20Engineer%20%7C%20React.js%20%7C%20Next.js%20%7C%20MERN&descAlignY=55&descSize=18" width="100%"/>
+# N R Bhogyaan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=F59E0B&center=true&vCenter=true&width=850&lines=Frontend+Software+Engineer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+Redux+%E2%9A%A1;Performance-focused+UI+Builder+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%94%A5;Building+clean+experiences+that+scale+%E2%9C%A8" alt="Animated introduction"/>
+### Frontend Software Engineer · React.js · Next.js · MERN Stack
 
-<br/>
+<p>
+  <a href="https://bhogyaan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhogyaannr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Bhogyaan">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:bhogyaannr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<a href="https://bhogyaan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/bhogyaannr/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Bhogyaan">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:bhogyaannr@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:0F766E&height=180&section=header&text=Building%20Clean%20Digital%20Experiences&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55"
+  width="100%"
+  alt="Profile banner"
+/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Bhogyaan&label=PROFILE%20VIEWS&color=F59E0B&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Bhogyaan?label=Followers&style=for-the-badge&color=0F766E" alt="Followers"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Bhogyaan&label=PROFILE%20VIEWS&color=F59E0B&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Bhogyaan?label=Followers&style=for-the-badge&color=0F766E" alt="GitHub followers" />
+</p>
 
 </div>
 
-<br/>
-
 ---
 
-<h2 align="center">✦ About Me</h2>
+<h2 align="center">👋 About Me</h2>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" alt="Coding gif"/>
+<img align="right" width="310" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" alt="Coding animation" />
 
-Hey there 👋, I'm **N R Bhogyaan** — a Frontend Software Engineer from **Madurai, Tamil Nadu, India** 🇮🇳
+Hey there! I'm **N R Bhogyaan**, a **Frontend Software Engineer** from **Madurai, Tamil Nadu, India** 🇮🇳.
 
-🔭 I build responsive, maintainable, high-performance web apps with **React.js, Next.js, Redux, and the MERN stack**
+I build responsive, maintainable, and performance-focused web applications using **React.js, Next.js, Redux, and the MERN stack**. I enjoy transforming complex requirements into clean interfaces, reusable components, and reliable product experiences.
 
-🌱 Currently sharpening skills in **performance engineering** and **animation-driven UI (GSAP, Lenis.js)**
-
-🧩 I love turning messy requirements into clean interfaces, reusable components, and reliable products
-
-👯 Open to collaborating on frontend architecture, DX tooling, and dashboard-heavy products
-
-⚡ Fun fact: I once cut an app's load time by **4x** just by taming Redux 😄
+- 🔭 Building scalable web applications and product modules
+- 🌱 Improving my skills in performance engineering and animation-driven UI
+- 🎬 Exploring GSAP and Lenis.js for immersive web experiences
+- 🧩 Focused on reusable components, clean architecture, and responsive design
+- 👯 Open to collaborating on frontend architecture, DX tooling, and dashboard-heavy products
+- ⚡ Improved an application's load time by up to **4x** through Redux and React optimization
 
 <br clear="right"/>
+
+<h3 align="center">🧑‍💻 Developer Snapshot</h3>
 
 ```js
 const bhogyaan = {
   role: "Frontend Software Engineer",
-  location: "Madurai, Tamil Nadu, India 🇮🇳",
+  location: "Madurai, Tamil Nadu, India",
   experience: "1+ year",
-
   primaryStack: [
-    "React.js ⚛️",
-    "Next.js ▲",
-    "Redux 🧠",
-    "JavaScript ✨"
+    "React.js",
+    "Next.js",
+    "Redux",
+    "JavaScript"
   ],
-
   fullStack: [
-    "Node.js 🟢",
-    "Express.js 🚂",
-    "MongoDB 🍃"
+    "Node.js",
+    "Express.js",
+    "MongoDB"
   ],
-
   focus: [
-    "Performance 🚀",
-    "Reusable UI 🧩",
-    "Responsive Design 📱",
-    "DX 💡"
+    "Performance",
+    "Reusable UI",
+    "Responsive Design",
+    "Developer Experience"
   ],
-
   currentlyBuilding: "Modern, scalable web experiences",
-
-  funFact: "Improved app load time by up to 4x ⚡"
+  funFact: "Improved app load time by up to 4x"
 };
 ```
 
@@ -89,9 +88,7 @@ const bhogyaan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind&perline=7" alt="Frontend technologies"/>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind&perline=7" alt="Frontend technologies" />
 
 `HTML5` · `CSS3` · `JavaScript` · `React.js` · `Next.js` · `Redux` · `Tailwind CSS` · `GSAP` · `Lenis.js`
 
@@ -101,9 +98,7 @@ const bhogyaan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,mysql&perline=5" alt="Backend and database technologies"/>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,mysql&perline=5" alt="Backend and database technologies" />
 
 `Node.js` · `Express.js` · `Fastify.js` · `MongoDB` · `MySQL`
 
@@ -113,9 +108,7 @@ const bhogyaan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions,aws,vercel,netlify,git,github,vscode,postman&perline=8" alt="DevOps and development tools"/>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,aws,vercel,netlify,git,github,vscode,postman&perline=8" alt="Cloud and development tools" />
 
 `GitHub Actions` · `AWS` · `Vercel` · `Render` · `Netlify` · `Git` · `VS Code` · `Postman`
 
@@ -127,114 +120,98 @@ const bhogyaan = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡_Load_Time_Improvement-Up_to_4x-F59E0B?style=for-the-badge" alt="Load time improvement"/>
-<img src="https://img.shields.io/badge/👥_Team_Mentorship-4_Developers-111827?style=for-the-badge" alt="Team mentorship"/>
-<img src="https://img.shields.io/badge/🕐_Experience-1%2B_Year-0F766E?style=for-the-badge" alt="Experience"/>
+<img src="https://img.shields.io/badge/⚡_Load_Time-Improved_up_to_4x-F59E0B?style=for-the-badge" alt="Load time improvement" />
+<img src="https://img.shields.io/badge/👥_Team_Mentorship-4_Developers-111827?style=for-the-badge" alt="Team mentorship" />
+<img src="https://img.shields.io/badge/🕐_Experience-1%2B_Year-0F766E?style=for-the-badge" alt="Experience" />
 
 </div>
 
-<br/>
-
-⚡ **Performance** — Redux state optimization and React component refactoring for up to 4x faster loads
-
-🧩 **Architecture** — Component-driven frontend structure with shared, reusable utilities
-
-🚚 **Delivery** — GitHub Actions pipelines for automated testing and deployment
-
-🔗 **Full Stack** — React, Node.js, Express.js, MongoDB, and REST API integrations
-
-🔐 **Product Engineering** — Authentication, authorization, dashboards, and workflow automation
-
-📱 **UI Engineering** — Responsive, reusable, cross-browser-compatible interfaces
+| Focus Area | What I Work On |
+|---|---|
+| ⚡ Performance | Redux state optimization and React component refactoring |
+| 🧩 Architecture | Reusable components, shared utilities, and maintainable frontend structure |
+| 🚚 Delivery | GitHub Actions workflows for automated testing and deployment |
+| 🔗 Full Stack | React, Node.js, Express.js, MongoDB, and REST API integrations |
+| 🔐 Product Engineering | Authentication, authorization, dashboards, and workflow automation |
+| 📱 UI Engineering | Responsive, reusable, and cross-browser-compatible interfaces |
 
 ---
 
 <h2 align="center">💼 Professional Experience</h2>
 
-<h3 align="center">🏢 Associate Software Engineer</h3>
+<h3>🏢 Associate Software Engineer</h3>
 
-<div align="center">
-
-**Success Life Mantra · Madurai, Tamil Nadu**
-
+**Success Life Mantra · Madurai, Tamil Nadu**  
 `July 2025 – Present`
 
-</div>
-
-- 👨‍🏫 Mentor and guide a team of 4 interns/developers through code reviews, debugging, and implementation support
-- ⚡ Improved application load time by **up to 4x** by optimizing Redux state management and refactoring React components
-- 🏗️ Built product modules covering user management, authentication, authorization, dashboards, and workflow automation
-- 🎬 Developed responsive, cross-browser-compatible interfaces using GSAP animations
-- 🧩 Developed and published a Chrome browser extension from scratch, including build and store submission workflows
-- 🔄 Configured GitHub Actions CI/CD pipelines for automated testing and deployment
-- ♻️ Created reusable UI components and shared frontend utilities to reduce duplicate code
-- 🚀 Deployed and maintained applications using Vercel, Netlify, and Render
+- 👨‍🏫 Mentor and guide a team of 4 interns/developers through code reviews, debugging, and implementation support.
+- ⚡ Improved application load time by **up to 4x** by optimizing Redux state management and refactoring React components.
+- 🏗️ Built product modules involving user management, authentication, authorization, dashboards, and workflow automation.
+- 🎬 Developed responsive, cross-browser-compatible interfaces with GSAP animations.
+- 🧩 Developed and published a Chrome browser extension, including build and store submission workflows.
+- 🔄 Configured GitHub Actions CI/CD pipelines for automated testing and deployment.
+- ♻️ Created reusable UI components and shared frontend utilities to reduce duplicate code.
+- 🚀 Deployed and maintained applications using Vercel, Netlify, and Render.
 
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<details open>
+<details>
 <summary><b>01 · 🏫 Childcare Business Website with Custom CMS</b></summary>
 
 <br/>
 
-<div align="center">
-
-**Tech Stack**
+**Technology Stack**
 
 `React.js` · `Node.js` · `Express.js` · `MongoDB`
 
-</div>
+**Key Contributions**
 
-- 🌐 Built a complete business website for a childcare service
-- 🖥️ Developed a custom CMS for non-technical staff
-- 🖼️ Added asset management for images, text, and page sections
-- 📅 Implemented an events module for creating, editing, and publishing upcoming events
+- 🌐 Built a complete business website for a childcare service.
+- 🖥️ Developed a custom CMS for non-technical staff.
+- 🖼️ Added asset management for images, text, and page sections.
+- 📅 Implemented an events module for creating, editing, and publishing upcoming events.
 
 </details>
 
 <br/>
 
-<details open>
+<details>
 <summary><b>02 · 📄 Resume Builder with Live Editor</b></summary>
 
 <br/>
 
-<div align="center">
-
-**Tech Stack**
+**Technology Stack**
 
 `React.js` · `JavaScript` · `Tailwind CSS`
 
-</div>
+**Key Contributions**
 
-- ✍️ Created an interactive resume builder with real-time preview
-- ⚡ Enabled instant updates while users edited content and formatting
-- 🧩 Designed a component-driven architecture for editable resume sections
-- 🧱 Structured the application for additional templates and layouts
+- ✍️ Created an interactive resume builder with real-time preview.
+- ⚡ Enabled instant updates while users edited content and formatting.
+- 🧩 Designed a component-driven architecture for editable resume sections.
+- 🧱 Structured the application for additional templates and layouts.
 
 </details>
 
 <br/>
 
-<details open>
+<details>
 <summary><b>03 · 📰 Real-Time Blog Web Application</b></summary>
 
 <br/>
 
-<div align="center">
-
-**Tech Stack**
+**Technology Stack**
 
 `MERN Stack` · `JWT` · `WebSockets`
 
-</div>
+**Key Contributions**
 
-- 📝 Built a full-stack platform for publishing and reading blog content
-- 🔐 Implemented JWT authentication for protected workflows
-- 🔌 Added WebSocket-based live updates without requiring page refreshes
-- 🎯 Designed an interactive content creation experience
+- 📝 Built a full-stack platform for publishing and reading blog content.
+- 🔐 Implemented JWT authentication for protected workflows.
+- 🔌 Added WebSocket-based live updates without requiring page refreshes.
+- 🎯 Designed an interactive content creation experience.
 
 </details>
 
@@ -244,14 +221,14 @@ const bhogyaan = {
 
 <div align="center">
 
-```text
-01  🎯 Keep interfaces simple
-02  🧩 Build reusable components
-03  ⚡ Optimize before scaling
-04  📱 Make responsive behavior intentional
-05  ♻️ Reduce duplicated logic
-06  🚀 Ship, measure, and improve
-```
+| Principle | Approach |
+|---|---|
+| 🎯 Simplicity | Keep interfaces clear and easy to use |
+| 🧩 Reusability | Build components that can scale across features |
+| ⚡ Performance | Measure bottlenecks and optimize intentionally |
+| 📱 Responsiveness | Design for different screen sizes from the beginning |
+| ♻️ Maintainability | Reduce duplicated logic and unnecessary complexity |
+| 🚀 Continuous Improvement | Ship, measure, learn, and improve |
 
 </div>
 
@@ -261,12 +238,10 @@ const bhogyaan = {
 
 <div align="center">
 
-| 🎓 Qualification | 🏫 Institution | 📅 Year | ⭐ CGPA |
+| Qualification | Institution | Year | CGPA |
 |---|---|:---:|:---:|
 | MCA | K.L.N. College of Engineering, Sivaganga | 2025 | 8.3 |
 | B.Sc. Computer Science | KLN Arts and Science College, Sivaganga | 2022 | 7.9 |
-
-<br/>
 
 **📜 Certifications & Workshops**
 
@@ -280,17 +255,12 @@ Web Development (Udemy) · React.js Workshop · Power BI Workshop · MERN Stack 
 
 <div align="center">
 
-💬 Communication · 🤝 Team Collaboration · 🧩 Problem-Solving · 🔄 Adaptability
+💬 Communication · 🤝 Team Collaboration · 🧩 Problem-Solving · 🔄 Adaptability  
+👨‍🏫 Mentoring & Code Review · 🚀 Independent Feature Delivery
 
 <br/>
 
-👨‍🏫 Mentoring & Code Review · 🚀 Independent Feature Delivery
-
-<br/><br/>
-
-**🗣️ Languages**
-
-English · Tamil · Saurashtra
+**🗣️ Languages:** English · Tamil · Saurashtra
 
 </div>
 
@@ -300,17 +270,17 @@ English · Tamil · Saurashtra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&hide_border=true&theme=transparent&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF&count_private=true" alt="GitHub statistics" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&hide_border=true&theme=transparent&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF&count_private=true" alt="GitHub statistics" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&hide_border=true&theme=transparent&title_color=F59E0B&text_color=9CA3AF" alt="Top languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogyaan&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&hide_border=true&theme=transparent&title_color=F59E0B&text_color=9CA3AF" alt="Top languages" height="165" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogyaan&bg_color=00000000&color=9CA3AF&line=F59E0B&point=0F766E&hide_border=true" alt="Contribution activity graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogyaan&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogyaan&bg_color=00000000&color=9CA3AF&line=F59E0B&point=0F766E&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
@@ -320,9 +290,9 @@ English · Tamil · Saurashtra
 
 <div align="center">
 
-<!-- Enable the contribution snake workflow in your profile repository to display this animation. -->
+<!-- Configure the contribution snake GitHub Actions workflow in your profile repository. -->
 
-<img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
 
@@ -332,28 +302,25 @@ English · Tamil · Saurashtra
 
 <div align="center">
 
-<a href="https://bhogyaan.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-F59E0B?style=for-the-badge" alt="Portfolio"/>
-</a>
+<p>
+  <a href="https://bhogyaan.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-F59E0B?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhogyaannr/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Bhogyaan">
+    <img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge" alt="GitHub" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/bhogyaannr/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/>
-</a>
+📍 Madurai, Tamil Nadu, India  
+✉️ [bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com)
 
-<a href="https://github.com/Bhogyaan">
-<img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge" alt="GitHub"/>
-</a>
+<br/>
 
-<br/><br/>
+### Build clean. Improve continuously. Ship with purpose. 🚀
 
-📍 Madurai, Tamil Nadu, India
-
-✉️ bhogyaannr@gmail.com
-
-<br/><br/>
-
-<h3>Build clean. Improve continuously. Ship with purpose. 🚀</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:F59E0B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:F59E0B&height=100&section=footer" width="100%" alt="Footer banner" />
 
 </div>
