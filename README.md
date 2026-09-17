@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/Bhogyaan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:312E81,100:7C3AED&text=N%20R%20BHOGYAAN&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Frontend%20Software%20Engineer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="N R Bhogyaan - Frontend Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,45:1E1B4B,100:7C3AED&text=N%20R%20BHOGYAAN&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Frontend%20Software%20Engineer%20%7C%20UI%20%26%20Performance&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="N R Bhogyaan — Frontend Software Engineer" />
 </a>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+clean+and+useful+digital+experiences;React+%C2%B7+Next.js+%C2%B7+JavaScript+%C2%B7+Tailwind;Performance-minded+frontend+engineering" alt="Animated frontend engineering introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=850&color=A78BFA&center=true&vCenter=true&width=760&lines=Turning+ideas+into+useful+interfaces;React+%C2%B7+Next.js+%C2%B7+JavaScript+%C2%B7+Tailwind;Build+cleaner.+Ship+faster.+Keep+learning." alt="Animated frontend engineering introduction" />
 
 <br /><br />
 
@@ -17,14 +17,14 @@
 <br /><br />
 
 <img src="https://img.shields.io/badge/Madurai%2C%20Tamil%20Nadu-111827?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/1%2B%20year%20experience-111827?style=flat-square&logo=clockify&logoColor=A78BFA" alt="Experience" />
-<img src="https://img.shields.io/badge/Always%20learning-111827?style=flat-square&logo=rocket&logoColor=34D399" alt="Always learning" />
+<img src="https://img.shields.io/badge/Frontend%20focused-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="Frontend focused" />
+<img src="https://img.shields.io/badge/Open%20to%20building-111827?style=flat-square&logo=rocket&logoColor=34D399" alt="Open to building" />
 
 </div>
 
 ---
 
-## About me
+## ✦ About me
 
 I'm a **Frontend Software Engineer** at **Success Life Mantra**, focused on building responsive, maintainable and performance-oriented web applications.
 
@@ -32,16 +32,44 @@ I turn product requirements into polished interfaces, reusable components and re
 
 > **Clean interfaces · thoughtful architecture · measurable performance**
 
-## What I do
+## ⚡ What I do
 
-| Area | Focus |
-| --- | --- |
-| **Frontend engineering** | Component-driven applications with React, Next.js, Redux and JavaScript. |
-| **UI and interaction** | Responsive interfaces with Tailwind CSS, GSAP and accessible design patterns. |
-| **Performance** | State optimization, component refactoring and faster user experiences. |
-| **Product delivery** | REST APIs, authentication, GitHub Actions and cloud deployment. |
+<table>
+<tr>
+<td width="50%">
 
-## Technology stack
+### Frontend engineering
+
+Component-driven applications with **React, Next.js, Redux and JavaScript**.
+
+</td>
+<td width="50%">
+
+### UI and interaction
+
+Responsive interfaces with **Tailwind CSS, GSAP** and accessible design patterns.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Performance
+
+State optimization, component refactoring and faster user experiences.
+
+</td>
+<td width="50%">
+
+### Product delivery
+
+REST APIs, authentication, GitHub Actions and cloud deployment.
+
+</td>
+</tr>
+</table>
+
+## 🧰 Technology stack
 
 <div align="center">
 
@@ -53,7 +81,7 @@ I turn product requirements into polished interfaces, reusable components and re
 
 </div>
 
-## Professional experience
+## 💼 Experience
 
 ### Associate Software Engineer · Success Life Mantra
 **Madurai, Tamil Nadu · Jul 2025 — Present**
@@ -66,24 +94,41 @@ I turn product requirements into polished interfaces, reusable components and re
 - Build and publish Chrome browser extensions from development through store approval.
 - Set up automated testing and deployment pipelines with GitHub Actions.
 
-## Selected projects
+## 🚀 Selected projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### Childcare CMS
+
 **React · Node.js · Express · MongoDB**
 
-A business website with a custom CMS that enables non-technical teams to manage pages, assets, events and content with real-time publishing.
+A custom CMS that helps non-technical teams manage pages, assets, events and content with real-time publishing.
+
+</td>
+<td width="33%" valign="top">
 
 ### Resume Builder
+
 **React · JavaScript · Tailwind CSS**
 
 An interactive resume editor with live preview, editable sections, reusable components and flexible templates.
 
+</td>
+<td width="33%" valign="top">
+
 ### Real-time Blog
+
 **MERN · JWT · WebSocket**
 
 A full-stack publishing platform focused on real-time content, authentication and reader interaction.
 
-## How I build
+</td>
+</tr>
+</table>
+
+## 🔁 How I build
 
 <div align="center">
 
@@ -92,21 +137,21 @@ A full-stack publishing platform focused on real-time content, authentication an
 </div>
 
 1. Understand the user, product and technical constraints.
-2. Design a simple architecture with reusable boundaries.
+2. Design simple architecture with reusable boundaries.
 3. Implement accessible, responsive and maintainable UI.
 4. Measure the experience and remove unnecessary complexity.
 5. Ship, observe and improve continuously.
 
-## Education
+## 🎓 Education
 
 - **Master of Computer Applications** — K.L.N College of Engineering, Sivaganga · **2025 · CGPA 8.3**
 - **B.Sc. Computer Science** — KLN Arts and Science College, Sivaganga · **2022 · CGPA 7.9**
 
-## Certifications and workshops
+## 📜 Certifications and workshops
 
 `Web Development` · `React.js` · `Power BI` · `MERN Stack`
 
-## GitHub activity
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -123,7 +168,7 @@ A full-stack publishing platform focused on real-time content, authentication an
 
 </div>
 
-## Let’s build something meaningful
+## 🤝 Let’s build something meaningful
 
 Whether it is a new product, a frontend challenge or an interesting engineering problem, I'm always open to building.
 
