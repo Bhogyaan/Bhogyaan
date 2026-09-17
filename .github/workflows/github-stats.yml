@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -17,13 +20,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # A personal token is required for the GitHub API calls used by the
+      # stats action. GITHUB_TOKEN is retained as a public-data fallback.
       - name: Generate GitHub statistics
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=transparent"
           path: public/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages
         uses: readme-tools/github-readme-stats-action@v1
@@ -31,7 +36,7 @@ jobs:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&theme=transparent"
           path: public/github-top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit generated profile assets
         run: |
@@ -46,7 +51,5 @@ jobs:
           fi
 
           git commit -m "chore: update GitHub profile assets"
-
           git pull --rebase origin main
-
           git push origin main
