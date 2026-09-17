@@ -1,186 +1,204 @@
-<div align="center">
+# Hi, I'm N R Bhogyaan 👋
 
-<a href="https://github.com/Bhogyaan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,45:1E1B4B,100:7C3AED&text=N%20R%20BHOGYAAN&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Frontend%20Software%20Engineer%20%7C%20UI%20%26%20Performance&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="N R Bhogyaan — Frontend Software Engineer" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer;React.js+%7C+Next.js+%7C+Redux;Building+scalable+and+high-performance+web+apps;Full-stack+awareness+with+MERN" alt="Typing SVG" />
+</p>
 
-<br />
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#technical-stack">Tech Stack</a> •
+  <a href="#professional-experience">Experience</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#connect-with-me">Connect</a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=850&color=A78BFA&center=true&vCenter=true&width=760&lines=Turning+ideas+into+useful+interfaces;React+%C2%B7+Next.js+%C2%B7+JavaScript+%C2%B7+Tailwind;Build+cleaner.+Ship+faster.+Keep+learning." alt="Animated frontend engineering introduction" />
-
-<br /><br />
-
-<a href="https://bhogyaan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/bhogyaannr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Madurai%2C%20Tamil%20Nadu-111827?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Frontend%20focused-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="Frontend focused" />
-<img src="https://img.shields.io/badge/Open%20to%20building-111827?style=flat-square&logo=rocket&logoColor=34D399" alt="Open to building" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=F59E0B&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## ✦ About me
+## About Me
 
-I'm a **Frontend Software Engineer** at **Success Life Mantra**, focused on building responsive, maintainable and performance-oriented web applications.
+I'm **N R Bhogyaan**, a Frontend Software Engineer based in **Madurai, Tamil Nadu, India**.
 
-I turn product requirements into polished interfaces, reusable components and reliable production features. My work spans frontend architecture, API integration, authentication, browser extensions and CI/CD delivery.
+I build responsive, maintainable, and high-performance web applications using **React.js, Next.js, Redux, and the MERN stack**. My experience covers the complete frontend delivery cycle—from reusable UI development and state management to browser extension development, CI/CD automation, and production deployment.
 
-> **Clean interfaces · thoughtful architecture · measurable performance**
+- 🚀 Improved application load time by **up to 4x** through frontend and Redux optimization.
+- 👥 Mentor and guide a team of **4 interns/developers**.
+- 🧩 Build reusable components and shared utilities to reduce duplicate development work.
+- 🔐 Work with authentication, authorization, REST APIs, and JWT-based workflows.
+- ⚙️ Experience with GitHub Actions, deployment workflows, and cloud hosting platforms.
 
-## ⚡ What I do
+---
 
-<table>
-<tr>
-<td width="50%">
+## Technical Stack
 
-### Frontend engineering
+### Frontend
 
-Component-driven applications with **React, Next.js, Redux and JavaScript**.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Lenis.js-111111?style=flat" />
+</p>
 
-</td>
-<td width="50%">
+### Backend and Databases
 
-### UI and interaction
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify.js-000000?style=flat&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
 
-Responsive interfaces with **Tailwind CSS, GSAP** and accessible design patterns.
+### DevOps, Cloud and Tools
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+</p>
 
-### Performance
+### Additional Skills
 
-State optimization, component refactoring and faster user experiences.
+- Responsive and cross-browser UI development
+- REST API integration
+- JWT authentication and authorization
+- Browser extension development
+- Component-driven architecture
+- Performance optimization
+- CI/CD workflow setup
+- Deployment and environment management
 
-</td>
-<td width="50%">
+---
 
-### Product delivery
+## Professional Experience
 
-REST APIs, authentication, GitHub Actions and cloud deployment.
+### Associate Software Engineer
 
-</td>
-</tr>
-</table>
+**Success Life Mantra — Madurai, Tamil Nadu**  
+**July 2025 – Present**
 
-## 🧰 Technology stack
+- Mentor and guide a team of 4 interns/developers through code reviews, debugging, and implementation support.
+- Improved application load time by up to 4x by optimizing Redux state management and refactoring React components.
+- Built product modules including user management, authentication, authorization, dashboards, and workflow automation.
+- Developed responsive and cross-browser-compatible interfaces with GSAP animations.
+- Developed and published a Chrome browser extension from scratch, including build and store submission workflows.
+- Set up GitHub Actions CI/CD pipelines for automated testing and deployment.
+- Created reusable UI components and shared frontend utilities to reduce duplicate code.
+- Deployed and maintained applications using Vercel, Netlify, and Render.
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,gsap,nodejs,express,mongodb,mysql,git,github,githubactions,vercel,vscode,postman&theme=dark" alt="Frontend, backend and development tools" />
+## Featured Projects
 
-<br /><br />
+### 1. Childcare Business Website with Custom CMS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2600&pause=800&color=34D399&center=true&vCenter=true&width=680&lines=DESIGN+%E2%86%92+BUILD+%E2%86%92+MEASURE+%E2%86%92+SHIP" alt="Animated development loop" />
+**Technology:** React.js, Node.js, Express.js, MongoDB
 
-</div>
+- Developed a complete business website for a childcare service.
+- Built a custom CMS that allows non-technical staff to update website content independently.
+- Added asset management for images, text, and page sections.
+- Implemented an events module for creating, editing, and publishing upcoming events.
 
-## 💼 Experience
+### 2. Resume Builder with Live Editor
 
-### Associate Software Engineer · Success Life Mantra
-**Madurai, Tamil Nadu · Jul 2025 — Present**
+**Technology:** React.js, JavaScript, Tailwind CSS
 
-- Mentor and guide a team of interns and developers.
-- Review code, resolve bugs and improve release stability.
-- Build reusable UI components, shared utilities and product modules.
-- Develop user management, authentication, authorization, dashboards and workflow automation features.
-- Optimize Redux state management and component architecture for applications serving up to 1,000 users.
-- Build and publish Chrome browser extensions from development through store approval.
-- Set up automated testing and deployment pipelines with GitHub Actions.
+- Built an interactive resume builder with real-time preview functionality.
+- Enabled users to see content and formatting changes instantly while editing.
+- Designed a component-driven architecture for editable resume sections.
+- Structured the application to support additional templates and layouts.
 
-## 🚀 Selected projects
+### 3. Real-Time Blog Web Application
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Technology:** MERN Stack, JWT, WebSockets
 
-### Childcare CMS
+- Built a full-stack blogging platform for publishing and reading content.
+- Implemented JWT authentication for protected user workflows.
+- Added WebSocket-based live updates so new posts and interactions appear without refreshing the page.
+- Designed an interactive content creation experience focused on usability.
 
-**React · Node.js · Express · MongoDB**
+---
 
-A custom CMS that helps non-technical teams manage pages, assets, events and content with real-time publishing.
+## Engineering Focus
 
-</td>
-<td width="33%" valign="top">
+```text
+Frontend Architecture   → Reusable components, maintainable structure
+Performance             → Redux optimization, component refactoring
+User Experience         → Responsive layouts, animation, accessibility awareness
+Delivery                → Git, GitHub Actions, CI/CD, cloud deployment
+Full-Stack Collaboration→ React, Node.js, Express.js, MongoDB
+```
 
-### Resume Builder
+---
 
-**React · JavaScript · Tailwind CSS**
+## Education
 
-An interactive resume editor with live preview, editable sections, reusable components and flexible templates.
+| Qualification | Institution | Year | CGPA |
+|---|---|---:|---:|
+| MCA | K.L.N. College of Engineering, Sivaganga | 2025 | 8.3 |
+| B.Sc. Computer Science | KLN Arts and Science College, Sivaganga | 2022 | 7.9 |
 
-</td>
-<td width="33%" valign="top">
+---
 
-### Real-time Blog
+## Certifications and Workshops
 
-**MERN · JWT · WebSocket**
+- Web Development — Udemy
+- React.js Workshop
+- Power BI Workshop
+- MERN Stack Workshop
 
-A full-stack publishing platform focused on real-time content, authentication and reader interaction.
+---
 
-</td>
-</tr>
-</table>
+## Strengths
 
-## 🔁 How I build
+- Communication
+- Team collaboration
+- Problem-solving
+- Adaptability
+- Code review and mentoring
+- Independent feature delivery
 
-<div align="center">
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=820&lines=UNDERSTAND+%E2%86%92+ARCHITECT+%E2%86%92+IMPLEMENT+%E2%86%92+REFINE+%E2%86%92+SHIP" alt="Animated engineering workflow" />
+## Languages
 
-</div>
+- English
+- Tamil
+- Saurashtra
 
-1. Understand the user, product and technical constraints.
-2. Design simple architecture with reusable boundaries.
-3. Implement accessible, responsive and maintainable UI.
-4. Measure the experience and remove unnecessary complexity.
-5. Ship, observe and improve continuously.
+---
 
-## 🎓 Education
+## Connect With Me
 
-- **Master of Computer Applications** — K.L.N College of Engineering, Sivaganga · **2025 · CGPA 8.3**
-- **B.Sc. Computer Science** — KLN Arts and Science College, Sivaganga · **2022 · CGPA 7.9**
+<p>
+  <a href="https://bhogyaan.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/bhogyaannr/">LinkedIn</a> •
+  <a href="https://github.com/Bhogyaan">GitHub</a>
+</p>
 
-## 📜 Certifications and workshops
+📍 Madurai, Tamil Nadu, India  
+📧 **bhogyaannr@gmail.com**
 
-`Web Development` · `React.js` · `Power BI` · `MERN Stack`
+---
 
-## 📊 GitHub activity
+## Current Direction
 
-<div align="center">
+I'm focused on building modern frontend experiences, improving application performance, strengthening system design and frontend architecture skills, and contributing to products that solve real business problems.
 
-<img src="./public/github-stats.svg" width="48%" alt="Bhogyaan GitHub statistics" />
-<img src="./public/github-top-langs.svg" width="48%" alt="Bhogyaan top languages" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogyaan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=34d399&area=true&hide_border=true" width="96%" alt="Bhogyaan GitHub activity graph" />
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="92%" alt="Animated GitHub contribution graph" />
-
-</div>
-
-## 🤝 Let’s build something meaningful
-
-Whether it is a new product, a frontend challenge or an interesting engineering problem, I'm always open to building.
-
-<div align="center">
-
-<a href="https://bhogyaan.vercel.app/"><img src="https://img.shields.io/badge/Explore%20portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
-<a href="mailto:bhogyaannr@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
-
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+%E2%80%A2+Keep+building" alt="Animated closing message" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,55:312E81,100:0F172A&section=footer&animation=fadeIn" width="100%" alt="Animated footer" />
-
-</div>
+<p align="center">
+  <i>Build clean. Improve continuously. Ship with purpose.</i>
+</p>
