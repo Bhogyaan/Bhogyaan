@@ -22,7 +22,7 @@ The workflow is configured to validate the secret before execution and to keep t
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bhogyaan&show_icons=true&hide_border=true&theme=transparent&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&hide_border=true&theme=transparent&title_color=F59E0B&text_color=9CA3AF" alt="Top languages" height="190" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogyaan&layout=compact&hide_border=true&theme=transparent&title_color=F59E0B&text_color=9CA3AF&langs_count=8" alt="Top languages" height="190" />
 
 <br/>
 
