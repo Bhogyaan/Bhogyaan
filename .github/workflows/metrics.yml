@@ -14,6 +14,15 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Validate metrics token
+        shell: bash
+        run: |
+          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
+            echo "::error::METRICS_TOKEN is not configured. Create a classic PAT (not a fine-grained PAT) and store it as a repository secret named METRICS_TOKEN."
+            exit 1
+          fi
+          echo "METRICS_TOKEN is configured. Note: lowlighter/metrics requires a classic PAT for user/profile metrics; fine-grained PATs are not supported by GitHub GraphQL for this workflow."
+
       - name: Update metrics
         uses: lowlighter/metrics@latest
         with:
