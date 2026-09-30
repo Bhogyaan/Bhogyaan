@@ -1,10 +1,8 @@
-<h2 align="center">📊 GitHub Metrics</h2>
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Metrics-Automated-0F766E?style=for-the-badge" alt="GitHub Metrics automated" />
-
+  <img src="https://img.shields.io/badge/GitHub%20Metrics-Automated-0F766E?style=for-the-badge" alt="GitHub Metrics automated" />
 </div>
+
+<h2 align="center">📊 GitHub Metrics</h2>
 
 This repository includes an automated GitHub profile metrics workflow powered by `lowlighter/metrics`. It runs on a daily schedule, supports manual execution, and refreshes the metrics when changes are pushed to the `main` branch.
 
@@ -12,8 +10,9 @@ This repository includes an automated GitHub profile metrics workflow powered by
 - Trigger: scheduled cron run + manual dispatch + push to `main`
 - Required secret: `METRICS_TOKEN`
 - Token type: classic GitHub personal access token (not fine-grained PAT)
+- Behavior: validates the token before running and commits refreshed metrics automatically
 
-The workflow is configured to validate the secret before running and to commit refreshed metrics automatically to keep the profile data current and accurate.
+The workflow is configured to validate the secret before execution and to keep the profile data current and accurate.
 
 ---
 
@@ -40,8 +39,6 @@ The workflow is configured to validate the secret before running and to commit r
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-
-<!-- Configure the contribution snake GitHub Actions workflow in your profile repository. -->
 
 <img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 
