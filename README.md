@@ -1,150 +1,201 @@
 <!-- 
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║  NR BHOGYAAN - Frontend Software Engineer                    ║
-  ║  Modern Developer Profile • React.js • Next.js • MERN Stack  ║
-  ╚═══════════════════════════════════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════╗
+  ║     N R  B H O G Y A A N                                       ║
+  ║     Frontend Software Engineer                                 ║
+  ║     Building performant, scalable digital experiences          ║
+  ╚════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-# 👨‍💻 NR BHOGYAAN
+```
+ ███╗   ██╗██████╗     ██████╗ ██╗  ██╗ ██████╗  ██████╗ ██╗   ██╗ █████╗  █████╗ ███╗   ██╗
+ ████╗  ██║██╔══██╗    ██╔══██╗██║  ██║██╔═══██╗██╔════╝ ╚██╗ ██╔╝██╔══██╗██╔══██╗████╗  ██║
+ ██╔██╗ ██║██████╔╝    ██████╔╝███████║██║   ██║██║  ███╗ ╚████╔╝ ███████║███████║██╔██╗ ██║
+ ██║╚██╗██║██╔══██╗    ██╔══██╗██╔══██║██║   ██║██║   ██║  ╚██╔╝  ██╔══██║██╔══██║██║╚██╗██║
+ ██║ ╚████║██║  ██║    ██████╔╝██║  ██║╚██████╔╝╚██████╔╝   ██║   ██║  ██║██║  ██║██║ ╚████║
+ ╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-### Frontend Software Engineer | React.js Developer | UI Engineer
+# Frontend Software Engineer
 
-**Crafting performant, scalable, and delightful digital experiences.**
-
-[Portfolio](https://YOUR_PORTFOLIO_HERE) • [LinkedIn](https://YOUR_LINKEDIN_HERE) • [Email](mailto:YOUR_EMAIL_HERE) • [Resume](https://YOUR_RESUME_HERE)
+### React.js • Next.js • MERN Stack • Performance Optimization
 
 </div>
 
 ---
 
-## 🎯 About
+<div align="center">
 
-I'm a **Frontend Software Engineer** with **1+ years** of professional experience building modern web applications and user interfaces. I specialize in creating clean, performant, and maintainable code using **React.js**, **Next.js**, and the **MERN stack**.
+### 📍 Madurai, Tamil Nadu, India
 
-**My Philosophy:** Build simple. Ship useful. Improve continuously.
+**+91 8870750574** • **[bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com)**
 
-I focus on:
-- ⚡ **Performance** – Optimizing load times, rendering, and user experience
-- 🎨 **UI/UX** – Translating design into responsive, accessible interfaces
-- 🧩 **Architecture** – Building scalable component systems and maintainable codebases
-- 🔄 **DevOps** – CI/CD workflows, automated testing, and cloud deployment
+[🌐 Portfolio](https://bhogyaan.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/bhogyaannr) • [🐙 GitHub](https://github.com/Bhogyaan) • [📄 Resume](https://YOUR_RESUME_HERE)
+
+</div>
+
+---
+
+## 🎯 Professional Summary
+
+> Frontend Software Engineer with **1.5+ years** of overall experience, including **1+ year** at **Zevotria**. Specializing in React.js, Next.js, JavaScript, Redux, and MERN stack development.
+
+**Key Achievements:**
+- 🚀 **4x load time improvement** through Redux state optimization and component refactoring
+- 👥 **Mentored 4+ developers** with code reviews and hands-on guidance
+- 🛠️ **Built core product modules** (authentication, authorization, dashboards, workflow automation)
+- 📱 **Browser extension development** from scratch with store submission management
+- 🔄 **CI/CD expertise** using GitHub Actions, AWS, and Vercel deployment
 
 ---
 
 ## 💻 Tech Stack
 
 <details open>
-<summary><strong>Frontend</strong></summary>
+<summary><strong>🎨 Frontend (Expert)</strong></summary>
 
-```
-React.js • Next.js • Redux • JavaScript • TypeScript
-HTML5 • CSS3 • Tailwind CSS • GSAP • Lenis.js
-```
-
-</details>
-
-<details open>
-<summary><strong>Backend</strong></summary>
-
-```
-Node.js • Express.js • Fastify.js
-MongoDB • MySQL • REST APIs • JWT • WebSockets
+```text
+React.js  •  Next.js  •  Redux  •  JavaScript  •  TypeScript
+HTML5  •  CSS3  •  Tailwind CSS  •  GSAP  •  Lenis.js
+Responsive Design  •  UI/UX Implementation  •  Performance Tuning
 ```
 
 </details>
 
 <details open>
-<summary><strong>Tools & DevOps</strong></summary>
+<summary><strong>⚙️ Backend & Database</strong></summary>
 
+```text
+Node.js  •  Express.js  •  Fastify.js
+MongoDB  •  MySQL  •  REST APIs  •  JWT Authentication
+WebSockets  •  API Design & Integration
 ```
-Git • GitHub • GitHub Actions • CI/CD
-AWS • Vercel • Netlify • Docker
-VS Code • Figma • Postman
+
+</details>
+
+<details open>
+<summary><strong>🔧 DevOps & Tools</strong></summary>
+
+```text
+GitHub Actions  •  AWS  •  Vercel  •  Render  •  Netlify
+Git  •  VS Code  •  Postman  •  Figma  •  WordPress
+Browser Extensions  •  CI/CD Pipelines  •  Docker
 ```
 
 </details>
 
 ---
 
-## 🚀 Experience
+## 💼 Work Experience
 
 ### Associate Software Engineer
-**Success Life Mantra** — Madurai, Tamil Nadu | *July 2025 – Present*
+**Zevotria** — Madurai, TN  
+*July 2025 – Present*
 
-- 🔥 **Performance Win:** Improved app load time by **4x** through Redux state optimization and React component refactoring
-- 👥 **Team Leadership:** Mentored 4+ developers through code reviews and hands-on guidance
-- 🏗️ **Built:** User management, authentication, dashboards, and workflow automation modules
-- 🎬 **UI Excellence:** Responsive interfaces with GSAP animations and cross-browser compatibility
-- 🧩 **Browser Extensions:** Developed and published Chrome extension with complete CI/CD workflows
-- 🔄 **DevOps:** Configured GitHub Actions for automated testing and deployment
-- ♻️ **Code Quality:** Created reusable component libraries, reducing code duplication by 40%
+<table>
+<tr>
+<td width="50%">
 
-### MERN Stack & Flutter Development Intern
-**MindVision Technology** | *Internship*
+**Leadership & Mentoring**
+- Mentor and guide team of 4 interns/developers
+- Code reviews and quality assurance
+- Resolve complex bugs and issues
+- Maintain code quality and release stability
 
-- Full-stack product development with MongoDB, Express.js, React.js, and Node.js
-- Responsive UI implementation and Flutter cross-platform development
-- Collaborated on feature delivery, debugging, and UI improvements
+</td>
+<td width="50%">
+
+**Technical Achievements**
+- ⚡ **4x load time improvement** via Redux & component optimization
+- 🏗️ Built authentication, authorization, dashboards
+- 📱 Responsive UI with GSAP animations
+- 🔄 CI/CD pipeline setup with GitHub Actions
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**Key Deliverables**
+- Built core product modules (authentication, authorization, dashboards, workflow automation) using React.js, Redux, and REST APIs
+- Developed responsive, cross-browser UI with GSAP animations for consistent performance
+- Set up automated testing and deployment using GitHub Actions
+- **Developed and published Chrome browser extension** from scratch, managing entire store submission and approval process
+- Deployed applications on AWS, Vercel, and Render with zero-downtime releases
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Key Metrics
+### MERN Stack Developer Intern
+**MindVision Technologies** — *Jan 2025 – Jun 2025*
 
-| Metric | Value |
-|--------|-------|
-| **Experience** | 1+ years |
-| **Projects** | 10+ shipped |
-| **Tech Stack** | 15+ technologies |
-| **Performance Improvement** | **4x** load time reduction |
-| **Team Mentees** | 4+ developers |
+- Built UI components and pages using React.js within MERN stack
+- Integrated frontend features with backend APIs
+- Strengthened hands-on skills in React.js, Node.js, and MongoDB
+- Collaborated on debugging and feature delivery
 
 ---
 
-## 🎨 Featured Projects
+## 🎓 Education
 
-### 1. CareerPro AI
-> AI-powered career guidance platform with personalized learning paths
+| Degree | Institution | Year | CGPA |
+|--------|-------------|------|------|
+| **MCA** (Master of Computer Applications) | K.L.N College of Engineering, Sivagangai | 2025 | **8.3/10** |
+| **B.Sc** (Computer Science) | KLN Arts and Science College, Sivagangai | 2022 | **7.9/10** |
 
-**Stack:** React.js • Node.js • Express.js • MongoDB • AI Integration
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ Childcare Business Website with Custom CMS
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+
+> Full-stack solution enabling non-technical staff to independently manage content, assets, and events in real time.
 
 **Highlights:**
-- 🤖 AI-driven skill assessments and personalized career recommendations
-- 📊 Real-time progress tracking and analytics dashboard
-- 🎯 Adaptive learning roadmaps
+- 🎨 Fully responsive business website
+- 🖥️ Custom CMS for content management
+- 🖼️ Real-time asset management system
+- 📅 Events module with scheduling
+- 📊 Analytics dashboard for insights
 
-**Links:** [Demo](https://YOUR_DEMO_HERE) | [Code](https://YOUR_CODE_HERE)
-
----
-
-### 2. eTradeHub
-> Modern e-commerce trading platform with seamless checkout experience
-
-**Stack:** Next.js • Redux • Tailwind CSS • Stripe
-
-**Highlights:**
-- 🛒 Optimized product discovery and cart management
-- 💳 Smooth Stripe payment integration
-- 📦 Real-time order tracking system
-- ⚡ **99.9% uptime** | **5000+ transactions processed**
-
-**Links:** [Demo](https://YOUR_DEMO_HERE) | [Code](https://YOUR_CODE_HERE)
+**Impact:** Reduced content management time by **70%**
 
 ---
 
-### 3. Inderact
-> Real-time collaboration platform for distributed teams
+### 2️⃣ Resume Builder with Live Preview
+**Tech Stack:** React.js • JavaScript • Tailwind CSS
 
-**Stack:** React.js • Firebase • Realtime Database
+> Interactive resume builder with real-time editing and multiple template support.
 
 **Highlights:**
-- 💬 Real-time messaging with instant notifications
-- 📄 Collaborative document editing
-- 🎥 Integrated video conferencing
-- 👥 **500+ active users** | **99.5% uptime**
+- ✍️ Live preview as users edit
+- 🧩 Component-driven architecture
+- 📋 Multiple template support
+- 💾 Auto-save functionality
+- 📥 Export to PDF
 
-**Links:** [Demo](https://YOUR_DEMO_HERE) | [Code](https://YOUR_CODE_HERE)
+**Impact:** **3x increase** in user engagement
+
+---
+
+### 3️⃣ Real-Time Blog Web Application
+**Tech Stack:** MERN Stack • JWT • WebSockets
+
+> Full-stack blogging platform with real-time updates and collaborative features.
+
+**Highlights:**
+- 📝 Create, edit, publish blog posts
+- 🔐 JWT authentication & authorization
+- 🔌 WebSocket-based live updates (no page refresh)
+- 💬 Real-time comment system with notifications
+- 👥 Active community engagement
+
+**Impact:** **500+ users** • **1000+ posts** • **99.5% uptime**
 
 ---
 
@@ -164,101 +215,135 @@ VS Code • Figma • Postman
 
 ---
 
-## 🎓 Education
+## 🏆 Core Competencies
 
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| **MCA** (Master of Computer Applications) | KLN College of Engineering | 2025 | 8.3/10 |
-| **B.Sc.** (Computer Science) | KLN Arts and Science College | 2022 | 7.9/10 |
+<table>
+<tr>
+<td width="25%">
+
+**Frontend Mastery**
+- React.js Architecture
+- Next.js & SSR
+- Redux State Management
+- Component Design Systems
+- Performance Optimization
+
+</td>
+<td width="25%">
+
+**Full-Stack Development**
+- REST API Design
+- Database Optimization
+- Authentication & Security
+- Real-time Communication
+- WebSocket Integration
+
+</td>
+<td width="25%">
+
+**DevOps & Deployment**
+- GitHub Actions CI/CD
+- AWS Cloud Services
+- Vercel Deployment
+- Docker Containerization
+- Automated Testing
+
+</td>
+<td width="25%">
+
+**Leadership & Growth**
+- Team Mentoring
+- Code Review Excellence
+- Problem Solving
+- Communication
+- Continuous Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📜 Certifications & Learning
 
-- ✅ Frontend Development & React.js Fundamentals (Udemy)
-- ✅ MERN Stack Full Development (Udemy)
-- ✅ Advanced React Patterns & Performance (Workshop)
-- ✅ Power BI Data Visualization (Microsoft)
+✅ **Web Development** — Udemy  
+✅ **React.js Advanced Patterns** — Workshop  
+✅ **MERN Stack Development** — Udemy  
+✅ **Power BI Data Visualization** — Microsoft  
+✅ **Git & GitHub Best Practices** — Workshop  
 
 ---
 
-## 🛠️ Core Competencies
+## 🌍 Languages & Soft Skills
 
-**Frontend Architecture**
-- Component design systems and reusable UI patterns
-- State management (Redux, Context API, Zustand)
-- Performance optimization and code splitting
-- Responsive design and mobile-first development
+**Languages:** English • Tamil • Saurashtra
 
-**Backend & APIs**
-- REST API design and development
-- Database design and optimization
-- Authentication & Authorization (JWT, OAuth)
-- WebSocket and real-time communication
-
-**DevOps & Tools**
-- CI/CD pipelines (GitHub Actions)
-- Cloud deployment (Vercel, Netlify, AWS)
-- Docker containerization
-- Git workflows and version control
-
-**Soft Skills**
-- Team leadership and mentoring
-- Code review and quality assurance
-- Problem-solving and debugging
-- Clear communication and documentation
+**Soft Skills:**
+- 💬 Clear Communication & Documentation
+- 🤝 Team Collaboration & Leadership
+- 🧩 Problem Solving & Debugging
+- 🔄 Adaptability & Quick Learning
+- 📈 Mentoring & Knowledge Sharing
+- ⏰ Time Management & Prioritization
 
 ---
 
-## 🌟 What I Bring
+## 🎯 What I Bring
 
-✨ **Clean Code** – Maintainable, well-documented, and tested  
-⚡ **Performance First** – Optimized load times and smooth interactions  
-🎯 **User-Focused** – Every feature designed for real user needs  
-🚀 **Shipping Mindset** – Get features out quickly and iterate  
-📚 **Continuous Learning** – Staying updated with modern tech stack  
-🤝 **Team Player** – Collaboration, mentoring, and knowledge sharing  
+✨ **Performance-First Mindset** — Every line of code is optimized  
+🚀 **Shipping Mentality** — Get features out, iterate fast  
+🎨 **User-Focused Design** — Clean, intuitive, accessible interfaces  
+📚 **Continuous Learning** — Always exploring new technologies  
+👥 **Team Player** — Mentoring, collaboration, knowledge sharing  
+🔧 **Full-Stack Capability** — Frontend to backend to DevOps  
 
 ---
 
-## 🌐 Open Source & Community
+## 🌟 Engineering Philosophy
 
-- Contributing to open-source projects focused on frontend tooling
+```
+Build simple.
+Ship useful.
+Improve continuously.
+```
+
+> I believe in creating **maintainable**, **performant**, and **user-focused** solutions. 
+> Every feature should solve a real problem with clarity and speed.
+
+---
+
+## 🔗 Open Source & Community
+
+- Contributing to open-source frontend tooling
 - Sharing knowledge through technical blogs and tutorials
-- Active member of developer communities and forums
-- Mentoring junior developers and conducting code reviews
+- Active in developer communities and forums
+- Mentoring junior developers with hands-on guidance
 
 ---
 
 ## 🎨 Beyond Code
 
-I'm passionate about:
-- **Product Design** – Understanding user needs and building meaningful solutions
-- **UI/UX** – Creating beautiful, intuitive interfaces
-- **Performance** – Making web faster and more accessible
-- **Learning** – Exploring emerging technologies and best practices
-
----
-
-## 📍 Based In
-
-**Madurai, Tamil Nadu, India** 🇮🇳
+- 🎨 UI/UX thinking and product design
+- 📊 Data-driven decision making
+- 🚀 Startup and product mindset
+- 🧠 Continuous skill development
+- 🌱 Building the developer community
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in:
-- 💼 Collaborating on innovative projects
-- 🎓 Mentoring and growing with other developers
-- 💡 Discussing modern frontend architecture
-- 🚀 Building products that matter
+I'm passionate about:
+- **💼 Collaborating** on innovative frontend projects
+- **🎓 Mentoring** developers and fostering growth
+- **💡 Discussing** modern architecture and best practices
+- **🚀 Building** products that matter
 
 <div align="center">
 
 ### Get In Touch
 
-[**Portfolio**](https://YOUR_PORTFOLIO_HERE) · [**LinkedIn**](https://YOUR_LINKEDIN_HERE) · [**GitHub**](https://github.com/Bhogyaan) · [**Email**](mailto:YOUR_EMAIL_HERE)
+[**🌐 Portfolio**](https://bhogyaan.vercel.app) • [**💼 LinkedIn**](https://linkedin.com/in/bhogyaannr) • [**🐙 GitHub**](https://github.com/Bhogyaan) • [**✉️ Email**](mailto:bhogyaannr@gmail.com)
 
 </div>
 
@@ -266,8 +351,16 @@ I'm always interested in:
 
 <div align="center">
 
+### 📞 Contact
+
+**Phone:** +91 8870750574  
+**Email:** bhogyaannr@gmail.com  
+**Location:** Madurai, Tamil Nadu, India 🇮🇳
+
+---
+
 **Designed & built by NR Bhogyaan**  
-Frontend Software Engineer | React.js • Next.js • MERN Stack
+*Frontend Software Engineer | React.js • Next.js • MERN Stack*
 
 © 2026 NR Bhogyaan
 
