@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Bhogyaan OS — N R Bhogyaan, Frontend Software Engineer</title>
+  <desc id="desc">A midnight graphite system panel introduces N R Bhogyaan, his 1.5-plus years of experience, and React, Next.js, and JavaScript expertise. A subtle animated startup indicator adds motion.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset=".58" stop-color="#11182b"/>
+      <stop offset="1" stop-color="#19132e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#50d9f4"/>
+      <stop offset=".52" stop-color="#8676ff"/>
+      <stop offset="1" stop-color="#bd8cff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#6754e8" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#6754e8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b6c4ff" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="350" rx="24" fill="url(#grid)"/>
+  <ellipse cx="995" cy="167" rx="340" ry="260" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="348" rx="23" fill="none" stroke="#a9b5ff" stroke-opacity=".18"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+    <rect x="48" y="34" width="1104" height="40" rx="10" fill="#080d19" fill-opacity=".75" stroke="#8c9aff" stroke-opacity=".2"/>
+    <circle cx="70" cy="54" r="4" fill="#ff718c"/>
+    <circle cx="85" cy="54" r="4" fill="#ffd166"/>
+    <circle cx="100" cy="54" r="4" fill="#63e6be"/>
+    <text x="124" y="59" fill="#9ba9c9" font-size="13">BHOGYAAN OS  /  IDENTITY CORE</text>
+    <text x="1058" y="59" fill="#65e4c1" font-size="12" text-anchor="end">SYSTEM READY</text>
+  </g>
+
+  <text x="72" y="117" fill="#72ddf2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="2">INITIALIZING ENGINEERING IDENTITY…</text>
+  <text x="68" y="184" fill="#f4f6ff" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="51" font-weight="800" letter-spacing="-1.6">N R BHOGYAAN</text>
+  <text x="72" y="220" fill="#c7cce0" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="22" font-weight="600">Frontend Software Engineer</text>
+  <text x="72" y="254" fill="#a9b3ce" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="16">1.5+ years building product interfaces and interactive web experiences</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="600">
+    <rect x="72" y="278" width="104" height="32" rx="16" fill="#17263a" stroke="#50d9f4" stroke-opacity=".48"/>
+    <text x="124" y="299" fill="#8cecff" text-anchor="middle">REACT.JS</text>
+    <rect x="187" y="278" width="102" height="32" rx="16" fill="#201d3b" stroke="#8676ff" stroke-opacity=".6"/>
+    <text x="238" y="299" fill="#c2b9ff" text-anchor="middle">NEXT.JS</text>
+    <rect x="300" y="278" width="124" height="32" rx="16" fill="#202033" stroke="#bd8cff" stroke-opacity=".5"/>
+    <text x="362" y="299" fill="#d5baff" text-anchor="middle">JAVASCRIPT</text>
+  </g>
+
+  <g transform="translate(786 112)">
+    <rect width="335" height="170" rx="16" fill="#0a1020" fill-opacity=".76" stroke="#9b91ff" stroke-opacity=".35"/>
+    <text x="22" y="32" fill="#aab3d2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">ENGINEERING MODULES</text>
+    <path d="M22 46H313" stroke="#aab3d2" stroke-opacity=".16"/>
+    <circle cx="28" cy="72" r="4" fill="#62e6c1"/>
+    <text x="44" y="77" fill="#e2e7fa" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">UI SYSTEMS</text>
+    <text x="300" y="77" fill="#65e4c1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" text-anchor="end">READY</text>
+    <circle cx="28" cy="105" r="4" fill="#62e6c1"/>
+    <text x="44" y="110" fill="#e2e7fa" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">3D / MOTION</text>
+    <text x="300" y="110" fill="#65e4c1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" text-anchor="end">READY</text>
+    <circle cx="28" cy="138" r="4" fill="#62e6c1"/>
+    <text x="44" y="143" fill="#e2e7fa" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">PRODUCT WORKFLOWS</text>
+    <text x="300" y="143" fill="#65e4c1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" text-anchor="end">READY</text>
+  </g>
+
+  <rect x="0" y="342" width="1200" height="8" rx="4" fill="url(#line)"/>
+  <rect x="-220" y="342" width="220" height="8" rx="4" fill="#f5f4ff" opacity=".8">
+    <animate attributeName="x" values="-220;1200" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
