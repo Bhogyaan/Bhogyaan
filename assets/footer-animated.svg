@@ -1,23 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="106" viewBox="0 0 1200 106" role="img" aria-labelledby="title desc">
+  <title id="title">Thanks for visiting</title>
+  <desc id="desc">A soft animated coral-to-lime line on a midnight violet background.</desc>
   <defs>
-    <linearGradient id="fb" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="50%" stop-color="#161B22"/>
-      <stop offset="100%" stop-color="#0D1117"/>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#171326"/>
+      <stop offset=".5" stop-color="#211735"/>
+      <stop offset="1" stop-color="#171326"/>
     </linearGradient>
-    <linearGradient id="fw" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00F5D4"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    <linearGradient id="footerAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF7A90" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#FFC36A"/>
+      <stop offset="1" stop-color="#B7F36B" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="120" fill="url(#fb)"/>
-  <path fill="none" stroke="url(#fw)" stroke-width="2" opacity="0.6"
-    d="M0,40 Q300,10 600,40 T1200,40">
-    <animate attributeName="d"
-      values="M0,40 Q300,10 600,40 T1200,40;M0,40 Q300,70 600,40 T1200,40;M0,40 Q300,10 600,40 T1200,40"
-      dur="5s" repeatCount="indefinite"/>
+  <rect width="1200" height="106" rx="18" fill="url(#footerBg)"/>
+  <path d="M0 18 Q300 2 600 18 T1200 18" fill="none" stroke="url(#footerAccent)" stroke-width="2" opacity=".8">
+    <animate attributeName="d" values="M0 18 Q300 2 600 18 T1200 18;M0 18 Q300 36 600 18 T1200 18;M0 18 Q300 2 600 18 T1200 18" dur="6s" repeatCount="indefinite"/>
   </path>
-  <text x="600" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="15" fill="#8B949E">Thanks for visiting — let&#39;s build something great</text>
-  <text x="600" y="98" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#58A6FF">N R Bhogyaan · Frontend Software Engineer · Madurai, India</text>
+  <text x="600" y="62" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#FFF9F2">Thanks for visiting — let’s make something delightful.</text>
+  <text x="600" y="85" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="2" fill="#CFC4E4">N R BHOGYAAN · FRONTEND ENGINEER · MADURAI, INDIA</text>
 </svg>

@@ -1,116 +1,87 @@
 <div align="center">
 
-<a href="https://github.com/Bhogyaan">
-  <img src="assets/hero-animated.svg" alt="N R Bhogyaan — Frontend Software Engineer" width="100%" />
-</a>
+<img src="assets/hero-animated.svg" alt="N R Bhogyaan — Frontend Engineer" width="100%" />
 
-### Building thoughtful interfaces, smooth interactions, and fast web experiences.
+### I make the web feel as good as it works.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5D4?style=for-the-badge&logo=vercel&logoColor=white)](https://bhogyaan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhogyaannr)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhogyaannr@gmail.com)
+**Frontend Engineer · React · TypeScript · Motion · 3D**
 
-📍 Madurai, Tamil Nadu, India · 🌱 Currently building with React, Next.js & TypeScript
+[**Portfolio ↗**](https://bhogyaan.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/bhogyaannr) &nbsp;·&nbsp; [Email](mailto:bhogyaannr@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Bhogyaan)
+
+📍 Madurai, India
 
 </div>
 
 ---
 
-## 👋 About me
+## A little about me
 
-I'm **N R Bhogyaan**, a frontend software engineer focused on creating responsive, accessible, and polished web experiences. I enjoy turning complex product needs into intuitive interfaces—with thoughtful motion, reusable components, and performance in mind.
+I’m **N R Bhogyaan**, a frontend software engineer with **1.5+ years of experience** turning product ideas into responsive, polished web experiences. I care about the details users feel: fast interfaces, clear interactions, and motion with purpose.
 
-- 💼 Associate Software Engineer at **Zevotria**
-- ⚡ Improved page-load performance by up to **4×** through state-management and component optimizations
-- 🤝 Guide and review work with a team of **4** interns and developers
-- 🎨 Interested in interaction design, GSAP animations, and 3D on the web
-- 📬 Reach me at **[bhogyaannr@gmail.com](mailto:bhogyaannr@gmail.com)**
-
-## ✨ Frontend toolkit
+**Currently:** Associate Software Engineer at Zevotria · building React products · guiding a team of four
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111?style=flat-square&logo=threedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-171526?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-171526?style=flat-square&logo=typescript&logoColor=8B9CFF)
+![React](https://img.shields.io/badge/React-171526?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-171526?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-171526?style=flat-square&logo=redux&logoColor=B99AFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-171526?style=flat-square&logo=tailwindcss&logoColor=54D6D0)
+![GSAP](https://img.shields.io/badge/GSAP-171526?style=flat-square&logo=greensock&logoColor=B7F36B)
+![Three.js](https://img.shields.io/badge/Three.js-171526?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
 
 </div>
 
 <details>
-<summary><strong>More tools I work with</strong></summary>
+<summary><strong>More in my toolkit</strong></summary>
 
-
-**Frontend & UI:** React 19, React Router, HTML5, modern CSS, Lucide Icons  
-**Creative web:** Three.js, React Three Fiber, Canvas, GSAP, Lenis.js  
-**Media APIs:** WebCodecs, Web Audio, Mediabunny, FFmpeg.wasm, Web Workers  
-**Backend:** Node.js, Express.js, REST APIs, JWT, MongoDB, MySQL  
-**Tooling & delivery:** Vite, Git, GitHub Actions, AWS, Vercel, Render, Netlify  
-**Other:** PDF.js, WordPress, technical SEO, browser extensions, manual and UI testing
+**Web & UI** · HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Redux Toolkit · Tailwind CSS · GSAP · Three.js  
+**Creative browser tech** · WebCodecs · Web Audio · Mediabunny · FFmpeg.wasm · Canvas · Web Workers  
+**Backend & delivery** · Node.js · Express · REST APIs · JWT · MongoDB · MySQL · GitHub Actions · AWS · Vercel · Netlify · Render  
+**Also** · Postman · WordPress · CMS · Admin panels · Technical SEO · UI testing
 
 </details>
 
-## 🚀 Selected work
+## Things I’ve built
 
-### 🎬 Browser-Based Video Editor
-**React · WebCodecs · Mediabunny · Canvas · Web Audio**
+| Project | The interesting bit | Built with |
+|:--|:--|:--|
+| **Browser video editor** | Timeline editing, effects, audio controls, and local exports from 480p to 4K—with no media uploads. | React · WebCodecs · Mediabunny · Canvas |
+| **3D previs & staging** | Camera-rig simulation, focal-length/FOV calculations, vector keyframing, character playback, and transform gizmos. | Three.js · React Three Fiber |
+| **E-commerce & rental platform** | Shopping and booking flows with admin tools for products, listings, orders, and bookings. | React · Redux · Tailwind |
+| **Childcare website + CMS** | A custom content, asset, and events manager made for non-technical staff. | React · Node.js · Express · MongoDB |
 
-A browser-based editor with timeline editing, trimming, splitting, audio controls, and visual effects. Supports configurable exports from 480p to 4K and processes media locally in the browser—no media upload required.
+## Experience
 
-### 🧊 3D Previs & Staging Engine
-**Three.js · React Three Fiber**
+**Associate Software Engineer · Zevotria** <sub>Madurai · Jul 2025–Present</sub>  
+Build React/Redux product features, responsive GSAP interfaces, shared components, and a Chrome extension. Improved page load time by up to **4×**, guide a team of four, and support CI/CD and deployments.
 
-An interactive 3D staging tool with camera-rig simulations, focal-length/FOV calculations, vector keyframing, rigged-character playback, and transform gizmos.
+**MERN Stack Developer Intern · MindVision Technologies** <sub>Jan 2025–Jun 2025</sub>  
+Built React pages and UI components and connected frontend features to backend APIs.
 
-### 🛍️ E-commerce & Rental Platforms
-**React · Redux · Tailwind CSS**
-
-Customer-facing browsing and booking experiences paired with admin dashboards and CMS tools for managing products, listings, orders, and content.
-
-### 🧩 Other projects
-
-- **Childcare website + custom CMS** — content, asset, and event management for non-technical staff.
-- **Resume builder** — live editor with real-time preview and reusable templates.
-- **Real-time blog** — MERN application with JWT authentication and WebSocket updates.
-- **Chrome extension** — built from scratch and taken through store submission and approval.
-
-## 💼 Experience
-
-**Associate Software Engineer · Zevotria** — *Jul 2025–Present*  
-Build React and Redux product modules, responsive interfaces, shared components, and GSAP-powered interactions. Help guide a team of four, improve application performance, and support CI/CD and production deployments.
-
-**MERN Stack Developer Intern · MindVision Technologies** — *Jan 2025–Jun 2025*  
-Built React UI components and pages, and helped connect frontend features to backend APIs.
-
-## 📊 GitHub at a glance
+## GitHub activity
 
 <div align="center">
 
-<img src="public/github-stats.svg" alt="GitHub contribution and coding statistics" width="49%" />
-<img src="public/github-top-langs.svg" alt="Most-used programming languages" width="49%" />
-
-![Profile views](https://komarev.com/ghpvc/?username=Bhogyaan&label=PROFILE%20VIEWS&color=00F5D4&style=flat-square)
+<img src="public/github-stats.svg" alt="GitHub stats" width="49%" /> <img src="public/github-top-langs.svg" alt="Top languages" width="49%" />
 
 </div>
 
-## 🎓 Education
+<details>
+<summary><strong>Education & extras</strong></summary>
 
-- **MCA**, K.L.N. College of Engineering — 2025 · CGPA **8.3**
-- **B.Sc. Computer Science**, KLN Arts and Science College — 2022 · CGPA **7.9**
+- **MCA**, K.L.N. College of Engineering — 2025 · CGPA 8.3
+- **B.Sc. Computer Science**, KLN Arts and Science College — 2022 · CGPA 7.9
+- **Certification:** Web Development (Udemy); workshops in React.js, Power BI, and MERN Stack
+- **Languages:** English · Tamil
 
----
+</details>
 
 <div align="center">
 
-### Thanks for stopping by — let's build something great ✨
+[Portfolio](https://bhogyaan.vercel.app) &nbsp;·&nbsp; [Let’s connect](mailto:bhogyaannr@gmail.com)
 
-<a href="https://bhogyaan.vercel.app">Portfolio</a> · <a href="https://linkedin.com/in/bhogyaannr">LinkedIn</a> · <a href="mailto:bhogyaannr@gmail.com">Email me</a>
-
-<img src="assets/footer-animated.svg" alt="Thanks for visiting — let's build something great" width="100%" />
+<img src="assets/footer-animated.svg" alt="Thanks for visiting" width="100%" />
 
 </div>
