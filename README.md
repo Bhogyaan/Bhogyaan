@@ -6,7 +6,7 @@
 
 **Frontend Engineer · React · TypeScript · Motion · 3D**
 
-[**Portfolio ↗**](https://bhogyaan.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/bhogyaannr) &nbsp;·&nbsp; [Email](mailto:bhogyaannr@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Bhogyaan)
+[**Portfolio ↗**](https://bhogyaan.vercel.app) · [LinkedIn](https://linkedin.com/in/bhogyaannr) · [Email](mailto:bhogyaannr@gmail.com) · [GitHub](https://github.com/Bhogyaan)
 
 📍 Madurai, India
 
@@ -45,26 +45,43 @@ I’m **N R Bhogyaan**, a frontend software engineer with **1.5+ years of experi
 
 ## Things I’ve built
 
-| Project | The interesting bit | Built with |
-|:--|:--|:--|
-| **Browser video editor** | Timeline editing, effects, audio controls, and local exports from 480p to 4K—with no media uploads. | React · WebCodecs · Mediabunny · Canvas |
-| **3D previs & staging** | Camera-rig simulation, focal-length/FOV calculations, vector keyframing, character playback, and transform gizmos. | Three.js · React Three Fiber |
-| **E-commerce & rental platform** | Shopping and booking flows with admin tools for products, listings, orders, and bookings. | React · Redux · Tailwind |
-| **Childcare website + CMS** | A custom content, asset, and events manager made for non-technical staff. | React · Node.js · Express · MongoDB |
+### 🎬 Browser video editor
+Timeline editing, effects, and audio controls, with configurable local exports from **480p to 4K**—no media uploads.
+
+<sub>React · WebCodecs · Mediabunny · Canvas · Web Audio</sub>
+
+### 🧊 3D previs & staging
+Interactive camera-rig simulation, focal-length/FOV calculations, vector keyframing, character playback, and transform gizmos.
+
+<sub>Three.js · React Three Fiber</sub>
+
+### 🛍️ E-commerce & rental platform
+Shopping and booking flows with admin tools for products, listings, orders, and bookings.
+
+<sub>React · Redux · Tailwind CSS</sub>
+
+### 🧩 Childcare website + CMS
+A custom content, asset, and events manager designed for non-technical staff.
+
+<sub>React · Node.js · Express · MongoDB</sub>
 
 ## Experience
 
-**Associate Software Engineer · Zevotria** <sub>Madurai · Jul 2025–Present</sub>  
-Build React/Redux product features, responsive GSAP interfaces, shared components, and a Chrome extension. Improved page load time by up to **4×**, guide a team of four, and support CI/CD and deployments.
+**Associate Software Engineer · Zevotria**  
+<sub>Madurai · Jul 2025–Present</sub>  
+Build React/Redux product features, responsive GSAP interfaces, shared components, and a Chrome extension. Improved page-load time by up to **4×**, guide a team of four, and support CI/CD and deployments.
 
-**MERN Stack Developer Intern · MindVision Technologies** <sub>Jan 2025–Jun 2025</sub>  
+**MERN Stack Developer Intern · MindVision Technologies**  
+<sub>Jan 2025–Jun 2025</sub>  
 Built React pages and UI components and connected frontend features to backend APIs.
 
 ## GitHub activity
 
 <div align="center">
 
-<img src="public/github-stats.svg" alt="GitHub stats" width="49%" /> <img src="public/github-top-langs.svg" alt="Top languages" width="49%" />
+<img src="public/github-stats.svg" alt="GitHub stats" width="100%" />
+
+<img src="public/github-top-langs.svg" alt="Top programming languages" width="100%" />
 
 </div>
 
@@ -80,7 +97,7 @@ Built React pages and UI components and connected frontend features to backend A
 
 <div align="center">
 
-[Portfolio](https://bhogyaan.vercel.app) &nbsp;·&nbsp; [Let’s connect](mailto:bhogyaannr@gmail.com)
+[Portfolio](https://bhogyaan.vercel.app) · [Let’s connect](mailto:bhogyaannr@gmail.com)
 
 <img src="assets/footer-animated.svg" alt="Thanks for visiting" width="100%" />
 
