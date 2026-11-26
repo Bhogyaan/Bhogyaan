@@ -100,7 +100,10 @@ Built React pages and reusable UI components, connecting frontend features to ba
   <img src="https://streak-stats.demolab.com?user=Bhogyaan&hide_border=true&background=ffffff&ring=6B4EFF&fire=E85878&currStreakLabel=6B4EFF&sideLabels=43405A&currStreakNum=242033&sideNums=242033&dates=77738A" alt="Bhogyaan's GitHub contribution streak" height="165">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/pacman-contribution-graph.svg" alt="Pac-Man eating my GitHub contribution graph" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
+</picture>
 
 </div>
 
