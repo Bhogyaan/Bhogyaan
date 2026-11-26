@@ -75,13 +75,31 @@ Build React/Redux product features, responsive GSAP interfaces, shared component
 <sub>Jan 2025–Jun 2025</sub>  
 Built React pages and UI components and connected frontend features to backend APIs.
 
-## GitHub activity
+## GitHub metrics
 
 <div align="center">
 
-<img src="public/github-stats.svg" alt="GitHub stats" width="100%" />
+<img src="public/github-stats.svg" alt="GitHub profile statistics" width="100%" />
 
-<img src="public/github-top-langs.svg" alt="Top programming languages" width="100%" />
+<img src="public/github-top-langs.svg" alt="Most-used programming languages" width="100%" />
+
+<img src="github-metrics.svg" alt="GitHub activity, community, repository, language, achievement, and habit metrics" width="100%" />
+
+</div>
+
+## Contribution Pac-Man
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bhogyaan/Bhogyaan/output/pacman-contribution-graph.svg" alt="Pac-Man eating my GitHub contribution graph" width="100%" />
+
+</div>
+
+## Profile visits
+
+<div align="center">
+
+<a href="https://github.com/Bhogyaan"><img src="https://komarev.com/ghpvc/?username=Bhogyaan&label=PROFILE%20VISITS&color=FF7A90&style=for-the-badge" alt="Profile visit counter" /></a>
 
 </div>
 
