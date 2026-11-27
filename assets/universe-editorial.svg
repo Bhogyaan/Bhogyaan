@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">The Frontend Universe — N R Bhogyaan</title>
+  <desc id="desc">An editorial star map for frontend engineer N R Bhogyaan, with React, Next.js, JavaScript, product UI and motion orbiting a luminous interface.</desc>
+  <defs>
+    <linearGradient id="night" x2="1" y2="1"><stop stop-color="#090d17"/><stop offset=".58" stop-color="#12172a"/><stop offset="1" stop-color="#20152b"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#5ce2d2"/><stop offset=".5" stop-color="#8295ff"/><stop offset="1" stop-color="#d89cf4"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#8d79ff" stop-opacity=".24"/><stop offset="1" stop-color="#8d79ff" stop-opacity="0"/></radialGradient>
+    <pattern id="mesh" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#d7dfff" stroke-opacity=".035"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="470" rx="24" fill="url(#night)"/><rect width="1200" height="470" rx="24" fill="url(#mesh)"/>
+  <rect x="1" y="1" width="1198" height="468" rx="23" fill="none" stroke="#b9c3ff" stroke-opacity=".2"/>
+  <ellipse cx="885" cy="238" rx="390" ry="290" fill="url(#halo)"/>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+    <text x="60" y="55" fill="#8ce4df" font-size="11" letter-spacing="2.4">FIELD GUIDE  /  THE FRONTEND UNIVERSE</text>
+    <text x="1140" y="55" text-anchor="end" fill="#919bb6" font-size="10" letter-spacing="1.5">MADURAI, INDIA · 09°55′N</text>
+    <path d="M60 75H1140" stroke="#aeb8db" stroke-opacity=".18"/>
+  </g>
+  <g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif">
+    <text x="66" y="145" fill="#d3a7ff" font-size="13" font-weight="650" letter-spacing="3">FRONTEND SOFTWARE ENGINEER</text>
+    <text x="60" y="218" fill="#f5f4fb" font-size="53" font-weight="800" letter-spacing="-2">N R BHOGYAAN</text>
+    <text x="66" y="260" fill="#c9cce0" font-size="18">I make complicated product flows feel considered.</text>
+    <text x="66" y="294" fill="#9da8c2" font-size="14">React · Next.js · JavaScript · Product UI · 1.5+ years</text>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" letter-spacing="1">
+    <rect x="66" y="333" width="98" height="29" rx="14" fill="#102a31" stroke="#5ce2d2" stroke-opacity=".55"/><text x="115" y="352" text-anchor="middle" fill="#a5eee5">BUILD</text>
+    <rect x="174" y="333" width="112" height="29" rx="14" fill="#1c203b" stroke="#8295ff" stroke-opacity=".55"/><text x="230" y="352" text-anchor="middle" fill="#c5ceff">CONNECT</text>
+    <rect x="296" y="333" width="105" height="29" rx="14" fill="#291d37" stroke="#d89cf4" stroke-opacity=".55"/><text x="348" y="352" text-anchor="middle" fill="#e6c6fb">REFINE</text>
+  </g>
+  <text x="66" y="416" fill="#8d98b4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">ASSOCIATE SOFTWARE ENGINEER · ZEVOTRIA</text>
+  <g fill="none" stroke="url(#line)">
+    <ellipse cx="891" cy="238" rx="229" ry="86" transform="rotate(-22 891 238)" stroke-opacity=".42"/>
+    <ellipse cx="891" cy="238" rx="179" ry="126" transform="rotate(38 891 238)" stroke-opacity=".32"/>
+    <ellipse cx="891" cy="238" rx="136" ry="166" transform="rotate(-61 891 238)" stroke-opacity=".25"/>
+  </g>
+  <g fill="#d5d9ff"><circle cx="705" cy="137" r="1.5"/><circle cx="1088" cy="131" r="1.6"/><circle cx="1104" cy="331" r="1.4"/><circle cx="738" cy="369" r="1.7"/><circle cx="984" cy="91" r="1.2"/><circle cx="1018" cy="408" r="1.5"/></g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">
+    <g><circle cx="711" cy="210" r="23" fill="#142a34" stroke="#5ce2d2" stroke-opacity=".8"/><text x="711" y="214" fill="#a5eee5">JS</text></g>
+    <g><circle cx="1040" cy="157" r="25" fill="#1d2039" stroke="#8295ff" stroke-opacity=".8"/><text x="1040" y="161" fill="#c5ceff">UI</text></g>
+    <g><circle cx="1057" cy="317" r="22" fill="#291d37" stroke="#d89cf4" stroke-opacity=".8"/><text x="1057" y="321" fill="#e6c6fb">3D</text></g>
+    <g><circle cx="742" cy="316" r="22" fill="#142d2d" stroke="#71dcbc" stroke-opacity=".8"/><text x="742" y="320" fill="#b2f3dd">API</text></g>
+    <g><circle cx="891" cy="238" r="61" fill="#17182d" stroke="#b8a8ff" stroke-opacity=".8" stroke-width="1.5"/><circle cx="891" cy="238" r="48" fill="url(#halo)"/><text x="891" y="235" fill="#f3efff" font-size="23">NRB</text><text x="891" y="254" fill="#c4bddf" font-size="7" letter-spacing="1.5">PRODUCT UI</text></g>
+  </g>
+  <circle cx="891" cy="238" r="4" fill="#bcf8eb" filter="url(#glow)"><animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/></circle>
+  <path d="M0 462H1200" stroke="url(#line)" stroke-width="5"/>
+</svg>

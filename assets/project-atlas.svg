@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Four product worlds</title>
+  <desc id="desc">Four original illustrated scenes represent Kellygang.ai, CareerPro AI, ETradeHub and OYIL Luxe, described as professional product work without implying sole ownership.</desc>
+  <defs>
+    <linearGradient id="back" x2="1" y2="1"><stop stop-color="#0a101e"/><stop offset="1" stop-color="#17172a"/></linearGradient>
+    <linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#61dfcf"/><stop offset="1" stop-color="#70b6e6"/></linearGradient>
+    <linearGradient id="violet" x2="1" y2="1"><stop stop-color="#9c8cff"/><stop offset="1" stop-color="#d49af1"/></linearGradient>
+    <linearGradient id="amber" x2="1" y2="1"><stop stop-color="#f3c477"/><stop offset="1" stop-color="#d995c5"/></linearGradient>
+    <linearGradient id="blue" x2="1" y2="1"><stop stop-color="#79baff"/><stop offset="1" stop-color="#8b8bff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="url(#back)"/><rect x="1" y="1" width="1198" height="398" rx="19" fill="none" stroke="#aeb9ff" stroke-opacity=".2"/>
+  <text x="38" y="36" fill="#9ee7df" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" letter-spacing="2">03 / PRODUCT ATLAS · FOUR DISTINCT WORLDS</text>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" fill="#91a0b9"><text x="1160" y="36" text-anchor="end">PRODUCT FOCUS, NOT OWNERSHIP CLAIMS</text></g>
+  <g>
+    <rect x="28" y="58" width="276" height="310" rx="16" fill="#101c2a" stroke="#61dfcf" stroke-opacity=".35"/>
+    <rect x="322" y="58" width="276" height="310" rx="16" fill="#17172b" stroke="#a991ff" stroke-opacity=".35"/>
+    <rect x="616" y="58" width="276" height="310" rx="16" fill="#121c2a" stroke="#79baff" stroke-opacity=".35"/>
+    <rect x="910" y="58" width="262" height="310" rx="16" fill="#211b27" stroke="#edbd78" stroke-opacity=".35"/>
+  </g>
+  <g fill="none" stroke-width="1.4">
+    <circle cx="166" cy="160" r="53" stroke="url(#cyan)" stroke-opacity=".6"/><circle cx="166" cy="160" r="36" stroke="url(#cyan)" stroke-opacity=".32"/><path d="M145 162c12-24 31-24 43 0-12 21-31 21-43 0Z" stroke="#9eeedf"/><path d="M166 139v43M145 162h43" stroke="#9eeedf" stroke-opacity=".65"/>
+    <circle cx="460" cy="160" r="53" stroke="url(#violet)" stroke-opacity=".6"/><path d="M435 182v-43h47v43M443 150h31M443 160h22M443 170h28" stroke="#d8caff"/><path d="M443 189h34" stroke="#d8caff" stroke-opacity=".6"/>
+    <circle cx="754" cy="160" r="53" stroke="url(#blue)" stroke-opacity=".6"/><path d="M727 145h54v32h-54zM735 153h15v9h-15zM759 153h15M759 162h15M735 168h39" stroke="#c2dcff"/><path d="M727 182h54" stroke="#c2dcff" stroke-opacity=".55"/>
+    <circle cx="1041" cy="160" r="53" stroke="url(#amber)" stroke-opacity=".65"/><path d="M1018 139h46l-5 41h-36zM1027 149h28M1026 157h30M1031 168h18" stroke="#f5d6a5"/><path d="M1027 183h30" stroke="#f5d6a5" stroke-opacity=".6"/>
+  </g>
+  <g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" text-anchor="middle"><g fill="#f2f1fa" font-size="16" font-weight="700"><text x="166" y="249">Kellygang.ai</text><text x="460" y="249">CareerPro AI</text><text x="754" y="249">ETradeHub</text><text x="1041" y="249">OYIL Luxe</text></g><g fill="#aeb7cd" font-size="11"><text x="166" y="273">Creative · wedding studio</text><text x="166" y="291">React Native · Expo</text><text x="460" y="273">Career development</text><text x="460" y="291">Resume · interview workflows</text><text x="754" y="273">B2B marketplace</text><text x="754" y="291">Frontend product</text><text x="1041" y="273">Premium commerce</text><text x="1041" y="291">OYIL ecosystem</text></g></g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" text-anchor="middle" font-size="8" letter-spacing=".7"><text x="166" y="339" fill="#83dccc">01 / CREATIVE STUDIO</text><text x="460" y="339" fill="#b9a7f4">02 / CAREER TOOLS</text><text x="754" y="339" fill="#8fbaff">03 / B2B COMMERCE</text><text x="1041" y="339" fill="#edc387">04 / FASHION COMMERCE</text></g>
+</svg>
