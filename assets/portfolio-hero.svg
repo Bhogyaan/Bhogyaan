@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">N R Bhogyaan — Frontend Engineer</title>
+  <desc id="desc">A custom dark portfolio scene combining a browser window and terminal, introducing a product-focused frontend engineer working with React, Next.js, JavaScript and thoughtful interfaces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d17"/><stop offset=".58" stop-color="#12172a"/><stop offset="1" stop-color="#20152b"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62e1d1"/><stop offset=".54" stop-color="#8494ff"/><stop offset="1" stop-color="#d49af0"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7e75ef" stop-opacity=".25"/><stop offset="1" stop-color="#7e75ef" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#d7dfff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/><rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#b9c3ff" stroke-opacity=".19"/>
+  <ellipse cx="900" cy="210" rx="355" ry="260" fill="url(#glow)"/>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+    <text x="52" y="48" fill="#8ce4df" font-size="10" letter-spacing="2.3">BHOGYAAN / FRONTEND ENGINEERING</text>
+    <text x="1148" y="48" text-anchor="end" fill="#8f9ab6" font-size="10" letter-spacing="1.5">MADURAI, INDIA</text>
+  </g>
+  <g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif">
+    <text x="56" y="126" fill="#c9a6f4" font-size="12" font-weight="700" letter-spacing="2.5">I TURN PIXELS INTO PRODUCTS.</text>
+    <text x="52" y="188" fill="#f5f4fb" font-size="45" font-weight="800" letter-spacing="-1.6">Frontend Engineer</text>
+    <text x="56" y="225" fill="#c4c9dd" font-size="17">Product-minded interfaces, built to work everywhere.</text>
+    <text x="56" y="260" fill="#9ba7c2" font-size="13">React · Next.js · JavaScript · UI systems · browser experiences</text>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10">
+    <rect x="56" y="300" width="112" height="29" rx="14" fill="#122a31" stroke="#62e1d1" stroke-opacity=".5"/><text x="112" y="319" text-anchor="middle" fill="#a8eee5">DESIGN</text>
+    <rect x="178" y="300" width="112" height="29" rx="14" fill="#1c2039" stroke="#8494ff" stroke-opacity=".5"/><text x="234" y="319" text-anchor="middle" fill="#ccd0ff">ENGINEER</text>
+    <rect x="300" y="300" width="112" height="29" rx="14" fill="#291d37" stroke="#d49af0" stroke-opacity=".5"/><text x="356" y="319" text-anchor="middle" fill="#e6c6fb">REFINE</text>
+    <text x="56" y="385" fill="#8d98b4" font-size="10" letter-spacing="1">ASSOCIATE SOFTWARE ENGINEER · ZEVOTRIA · 1.5+ YEARS</text>
+  </g>
+  <g>
+    <rect x="650" y="86" width="490" height="270" rx="15" fill="#090f1a" stroke="#b1b8ed" stroke-opacity=".35"/>
+    <path d="M650 101a15 15 0 0115-15h460a15 15 0 0115 15v25H650z" fill="#171c2d"/>
+    <circle cx="672" cy="105" r="4" fill="#ff718c"/><circle cx="687" cy="105" r="4" fill="#ffd166"/><circle cx="702" cy="105" r="4" fill="#62e1d1"/>
+    <rect x="754" y="96" width="252" height="18" rx="9" fill="#0c1220"/><text x="880" y="109" text-anchor="middle" fill="#8f9bb5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8">bhogyaan / product-ui</text>
+    <rect x="671" y="146" width="448" height="182" rx="8" fill="#0e1523" stroke="#8594ff" stroke-opacity=".16"/>
+    <text x="694" y="171" fill="#7f8ba7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9">01  APPLICATION / OVERVIEW</text>
+    <rect x="694" y="189" width="175" height="115" rx="8" fill="#151f31" stroke="#65dbd0" stroke-opacity=".26"/>
+    <text x="709" y="213" fill="#9ce8df" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8">PRODUCT UI</text>
+    <path d="M709 235h137M709 246h110M709 257h121" stroke="#657693" stroke-opacity=".64" stroke-width="3" stroke-linecap="round"/>
+    <rect x="709" y="276" width="68" height="14" rx="7" fill="#324775"/><text x="743" y="286" text-anchor="middle" fill="#d5dcff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">BUILD FLOW</text>
+    <rect x="888" y="189" width="208" height="115" rx="8" fill="#17172b" stroke="#c091f0" stroke-opacity=".28"/>
+    <text x="905" y="213" fill="#d0b1f1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8">STATE → API → INTERFACE</text>
+    <circle cx="926" cy="256" r="13" fill="#192b36" stroke="#62e1d1" stroke-opacity=".75"/><circle cx="992" cy="256" r="13" fill="#232440" stroke="#8494ff" stroke-opacity=".75"/><circle cx="1057" cy="256" r="13" fill="#2a2037" stroke="#d49af0" stroke-opacity=".75"/>
+    <path d="M939 256h40M1005 256h39" stroke="url(#accent)" stroke-width="1.5"/><text x="926" y="259" text-anchor="middle" fill="#d9f6f1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">UI</text><text x="992" y="259" text-anchor="middle" fill="#d9dcff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">API</text><text x="1057" y="259" text-anchor="middle" fill="#f1d8ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">UX</text>
+    <rect x="671" y="338" width="448" height="1" fill="#aeb8db" fill-opacity=".16"/>
+  </g>
+  <path d="M0 422H1200" stroke="url(#accent)" stroke-width="5"/>
+</svg>

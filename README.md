@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/universe-editorial.svg" alt="The Frontend Universe — N R Bhogyaan, frontend software engineer. Product interfaces, React, Next.js and JavaScript traced as a luminous editorial star map." width="100%">
+<img src="assets/portfolio-hero.svg" alt="N R Bhogyaan — Frontend Engineer. A custom browser-and-terminal illustration introduces a product-focused frontend engineer building thoughtful web interfaces." width="100%">
 
 **Frontend Software Engineer · React.js · Next.js · JavaScript**  
 **1.5+ years building for the web** · Madurai, India
@@ -9,97 +9,90 @@
 
 </div>
 
-I like the part where a polished interface meets a complicated product problem. I build responsive React experiences, connect them to real application workflows, and care about the details between “it renders” and “it feels right.”
+## About
 
-Currently an **Associate Software Engineer at Zevotria**, working across product UI, 3D previs, commerce, career tools, and browser-based media. Based in Madurai; usually somewhere between a component boundary and a browser devtools tab.
+I turn pixels into products—and product requirements into interfaces that make sense. At **Zevotria**, I build frontend experiences across commerce, career tools, 3D previs, and browser-based media. I care about the whole path: a reusable component, the state behind it, the API it talks to, and how it behaves on an actual phone.
 
-> Small joke from the bug tracker: “It works on my machine” is a useful first observation—not a deployment strategy.
+Making interfaces behave since day one. The occasional CSS negotiation is part of the process.
 
----
-
-## `01 — FIELD NOTES FROM THE FRONTEND`
+## What I build
 
 <div align="center">
 
-<img src="assets/tech-aquarium.svg" alt="An original technology aquarium: React, Next.js, JavaScript, Redux, GSAP, Three.js, REST APIs and delivery tools as a calm, illuminated ecosystem." width="100%">
+<img src="assets/capability-map.svg" alt="Frontend engineering capability map: responsive product UI, application systems, motion and media, and reliable delivery." width="100%">
 
 </div>
 
-A working toolkit, not a badge collection. The technologies below reflect my profile and the products I work on.
+**Product experiences** — Responsive websites and applications, SaaS workflows, dashboards, reusable components, and browser extensions.  
+**Frontend engineering** — React, Next.js, JavaScript, Redux Toolkit, REST API integration, and application state.  
+**Interaction** — GSAP, Framer Motion, Lenis, custom SVG, Three.js, and React Three Fiber.  
+**Ship with care** — Performance, SEO, cross-device UI, Git workflows, CI/CD, GitHub Actions, and deployment with Vercel, Netlify, or AWS.
 
-| Product interface | Application systems | Motion & media | Shipping & quality |
-| --- | --- | --- | --- |
-| React · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind · Vite | Redux Toolkit · REST APIs · state management · Node.js · Express · MongoDB · MySQL | GSAP · Framer Motion · Lenis · Three.js · React Three Fiber · WebCodecs · Mediabunny · Canvas · Web Audio | Git · branching & merging · GitHub Actions · CI/CD · Vercel · Netlify · AWS · performance · SEO · responsive / cross-device UI · browser extensions |
-
-## `02 — WHAT I BUILD`
+## Tech ecosystem
 
 <div align="center">
 
-<img src="assets/capability-map.svg" alt="A visual map of frontend engineering capabilities, from responsive product interfaces through architecture, integrations and delivery." width="100%">
+<img src="assets/tech-aquarium.svg" alt="A custom, softly animated technology ecosystem with React, Next.js, JavaScript, Redux, GSAP, Three.js, REST APIs and delivery tools." width="100%">
 
 </div>
 
-**Product UI** — Responsive interfaces, reusable components, custom SVGs, and careful interaction design.  
-**Frontend systems** — React and Next.js application structure, state management, REST integration, and SaaS workflows.  
-**Motion & real-time experiences** — GSAP, Framer Motion, Lenis, Three.js, and browser media APIs.  
-**Reliable delivery** — Performance and SEO considerations, cross-device testing, Git workflows, and CI/CD deployment paths.
+`Frontend` React · Next.js · JavaScript (ES6+) · TypeScript · HTML · CSS · Tailwind CSS · Vite  
+`State & APIs` Redux Toolkit · REST APIs · Axios · application state  
+`Motion & media` GSAP · Framer Motion · Lenis · Three.js · React Three Fiber · WebCodecs · Mediabunny · FFmpeg.wasm · Canvas · Web Audio  
+`Full stack & delivery` Node.js · Express · MongoDB · MySQL · Git · GitHub Actions · CI/CD · Vercel · Netlify · AWS
 
-## `03 — FOUR PRODUCT WORLDS`
-
-These are products associated with my professional work at **Zevotria**. The descriptions are about each product’s focus, not a claim of sole ownership. Implementation and availability can vary by module; I’m not linking demos or repositories that aren’t public here.
+## Selected product work
 
 <div align="center">
 
-<img src="assets/project-atlas.svg" alt="An illustrated atlas of four product worlds: Kellygang.ai creative wedding platform, CareerPro AI career development, ETradeHub B2B marketplace, and OYIL Luxe commerce." width="100%">
+<img src="assets/project-atlas.svg" alt="Four original product illustrations for Kellygang.ai, CareerPro AI, ETradeHub and OYIL Luxe." width="100%">
 
 </div>
 
-| Product | Product focus | Technology context |
+These are products associated with my work at **Zevotria**. Product context below describes the platforms—not sole ownership of every feature. Public project links aren’t available in this profile, so I’ve kept the links to my portfolio and contact details rather than guessing URLs.
+
+| Product | What it is | Frontend context |
 | --- | --- | --- |
-| **Kellygang.ai** | AI-powered creative platform and wedding studio. The existing profile describes a React Native / Expo app, with VOWS Studio as a creative experience within it. | React Native · Expo · modular UI |
-| **CareerPro AI** | Career development platform with resume editing, preview and export workflows, plus mock-interview experiences with response capture and speech transcription. | React · JavaScript · application state · API integration |
-| **ETradeHub** | B2B marketplace product. | Frontend product engineering |
-| **OYIL Luxe** | Premium shopping within the OYIL commerce ecosystem, alongside OYIL Attires and OYIL Admin CMS. The existing profile describes product, inventory, customer, order and rental management across the ecosystem. | React · Vite · JavaScript · APIs |
+| **Kellygang.ai** | AI-powered creative platform and wedding studio; the existing profile describes a React Native / Expo app, with VOWS Studio as a creative experience within it. | React Native · Expo · modular UI |
+| **CareerPro AI** | Career development platform with resume editing, preview and export, plus mock-interview workflows with response capture and speech transcription. | React · JavaScript · state · API integration |
+| **ETradeHub** | B2B marketplace. | Frontend product engineering |
+| **OYIL Luxe** | Premium shopping in the OYIL commerce ecosystem, alongside OYIL Attires and OYIL Admin CMS. The ecosystem includes product, inventory, customer, order, and rental management. | React · Vite · JavaScript · APIs |
 
-**Beyond the four:** interactive **3D Previs & Staging** (`React`, `Three.js`, `React Three Fiber`) and a **browser-based video editor** (`WebCodecs`, `Mediabunny`, `Canvas`, `Web Audio`). Export features and supported formats depend on implementation.
+**Also in the mix:** 3D previs and staging with Three.js / React Three Fiber, and a browser-based video-editing experience using WebCodecs and browser media APIs.
 
-## `04 — THE ENGINEERING TIMELINE`
+## Engineering journey
 
 <div align="center">
 
-<img src="assets/engineering-timeline.svg" alt="Professional journey timeline: Computer Science undergraduate study, MERN Stack Developer internship at MindVision Technologies, MCA, and Associate Software Engineer at Zevotria." width="100%">
+<img src="assets/journey-map.svg" alt="Two-lane career timeline showing computer science and MCA education alongside professional experience at MindVision Technologies and Zevotria." width="100%">
 
 </div>
 
 **Associate Software Engineer · Zevotria** — *July 2025–Present · Madurai*  
 Building frontend product experiences with React and related tools; collaborating on product development and supporting other engineers.
 
-**MERN Stack Developer Intern · MindVision Technologies** — *January 2025–June 2025 · Madurai*  
+**MERN Stack Developer Intern · MindVision Technologies** — *January–June 2025 · Madurai*  
 Built React pages and reusable UI components, connecting frontend features to backend APIs.
 
-**Education** — MCA, K.L.N. College of Engineering *(2023–2025)* · B.Sc. Computer Science, KLN Arts and Science College *(2019–2022)*
+**Education** — MCA, K.L.N. College of Engineering *(2023–2025)* · B.Sc. Computer Science, KLN Arts and Science College *(2019–2022)*. The MCA and internship dates overlap.
 
-## `05 — GITHUB, WITHOUT THE GUESSWORK`
+## GitHub activity
 
-These cards are generated from account data by the existing profile workflows. They’re the live account view—not a hand-picked contribution count or a promise about what GitHub will render on every refresh.
+The contribution calendar is GitHub’s own, shown on my profile above this README. These account-data cards are refreshed by the existing repository workflows—no hand-entered counts or invented streaks.
 
 <div align="center">
 
-<img src="public/github-stats.svg" alt="GitHub profile statistics generated by this repository's GitHub Actions workflow" width="49%">
-<img src="public/github-top-langs.svg" alt="Top languages in public repositories, generated by this repository's GitHub Actions workflow" width="49%">
+<img src="public/github-stats.svg" alt="GitHub profile statistics generated by the repository's GitHub Actions workflow" width="49%">
+<img src="public/github-top-langs.svg" alt="Most-used languages in public repositories, generated by the repository's GitHub Actions workflow" width="49%">
 
 </div>
 
-For a quieter map of my engineering interests, the [contribution constellation](assets/contribution-universe.svg) is conceptual—not activity data. Existing scheduled workflows maintain the account-data cards above.
+## Connect
 
-## `06 — OPEN CHANNEL`
+Interested in frontend product engineering, interactive interfaces, or 3D and browser-media experiences? [Explore my portfolio](https://bhogyaan.vercel.app), [connect on LinkedIn](https://linkedin.com/in/bhogyaannr), or [email me](mailto:bhogyaannr@gmail.com).
 
 <div align="center">
 
-<img src="assets/contact-signal.svg" alt="Contact N R Bhogyaan: portfolio, LinkedIn, email, or GitHub. A quiet signal from Madurai, India." width="100%">
-
-[Portfolio](https://bhogyaan.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/bhogyaannr) &nbsp;·&nbsp; [Email](mailto:bhogyaannr@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Bhogyaan)
-
-<sub>Built with curiosity, components, and a healthy respect for the cascade.</sub>
+<sub>Less div chaos. More design systems. Still, the divs have their moments.</sub>
 
 </div>
