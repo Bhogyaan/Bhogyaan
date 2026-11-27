@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bhogyaan-os.svg" alt="Bhogyaan OS: N R Bhogyaan, Frontend Software Engineer — React, Next.js, JavaScript, 1.5+ years experience" width="100%">
+<img src="assets/frontend-universe.svg" alt="The Frontend Universe — N R Bhogyaan, frontend software engineer. React, Next.js, JavaScript and product engineering orbit a luminous developer identity." width="100%">
 
 **Frontend Software Engineer · React.js · Next.js · JavaScript**  
 **1.5+ years of hands-on experience** · Madurai, India
@@ -9,83 +9,82 @@
 
 </div>
 
-> I build product-focused web interfaces: reusable React systems, complex application workflows, responsive experiences, and interactive 3D and media tools.
+> Building interfaces that look simple. The engineering behind them isn't.
 
-## `01 / IDENTITY CORE`
+## `01 / THE DEVELOPER, IN ORBIT`
 
-I’m **N R Bhogyaan**, a frontend engineer at **Zevotria**. My work sits at the intersection of product UI and engineering: turning detailed workflows into maintainable interfaces, connecting them to APIs and application state, and making interactive experiences feel responsive and clear.
+I’m **N R Bhogyaan**, a frontend engineer at **Zevotria**. I build product-focused web interfaces: reusable React systems, complex application workflows, responsive experiences, and interactive 3D and media tools. My work connects thoughtful UI with maintainable engineering—from API-backed application flows to browser-based creative tools.
 
-My recent work includes 3D previs and staging, commerce and administration tools, career workflows, and browser-based video editing. The projects below are **company work developed at Zevotria**, not independently owned products. Descriptions focus on product scope and frontend areas; no company source code or private demonstrations are linked here.
+Based in **Madurai, India**. Currently building with React and related tools, collaborating on product development, and helping other engineers ship. My recent work spans 3D previs and staging, commerce and administration tools, career workflows, and browser-based video editing.
 
-## `02 / TECHNOLOGY ENGINE`
+> “It works on my machine. Now let’s make it work everywhere.”
 
-**Frontend**  
-React · Next.js · JavaScript (ES6+) · TypeScript · HTML · CSS · Tailwind CSS · Redux Toolkit · Vite
+## `02 / THE ENGINEERING CONSTELLATION`
 
-**Interaction & 3D**  
-GSAP · Three.js · React Three Fiber · interactive scene and camera workflows
+<img src="assets/engineering-constellation.svg" alt="Frontend engineering capabilities: product UI, application architecture, motion and interaction, API and state workflows, and reliable delivery." width="100%">
 
-**Media & APIs**  
-WebCodecs · Mediabunny · FFmpeg.wasm · REST APIs · Axios
+**Product UI** · Responsive, cross-device interfaces · Reusable component systems · Custom SVG illustrations · Accessible, interaction-led experiences
 
-**Application & delivery**  
-Node.js · Express · MongoDB · MySQL · Git · GitHub · GitHub Actions · CI/CD · Vercel
+**Application engineering** · React.js · Next.js · JavaScript (ES6+) · TypeScript · Redux / Redux Toolkit · REST API integration · State management · SaaS frontend architecture
 
-> Skills are intentionally limited to technologies reflected in my existing profile and the engineering work described here. I don’t list a technology just because it’s common in the stack.
+**Motion & immersive UI** · GSAP · Framer Motion · Lenis · Three.js · React Three Fiber · Interactive 3D scenes and camera workflows
 
-## `03 / SELECTED PROFESSIONAL ENGINEERING WORK — ZEVOTRIA`
+**Media & browser capabilities** · WebCodecs · Mediabunny · FFmpeg.wasm · Canvas · Web Audio · Browser extension development
 
-These are **Zevotria-associated products**. Product capabilities are described separately from individual ownership; implementation status can vary by module. Public code and demos are omitted where they are not authorized.
+**Build & delivery** · Node.js · Express · MongoDB · MySQL · Git workflows · Branching and merging · GitHub Actions · CI/CD · Vercel · Netlify · AWS
 
-### 3D Previs & Staging · Flagship
+**Quality & reach** · Performance optimization · SEO · Responsive layouts · Cross-browser and cross-device engineering
 
-An interactive 3D workflow for visualizing and arranging scenes. Frontend engineering scope includes scene interaction, asset placement and transforms, camera controls, animation/keyframe workflows, and real-time visualization.
+> I list tools reflected in my profile and work—not a technology just because it’s popular this week.
 
-`React` · `Three.js` · `React Three Fiber` · `JavaScript`
+## `03 / SELECTED PRODUCT WORLDS`
 
-### OYIL · Multi-storefront commerce ecosystem
+The products below are associated with my professional work at **Zevotria**. Product descriptions identify the products and their focus; they are not claims of sole ownership. Implementation and availability can vary by module. Public code and demos are omitted where they are not available to link.
 
-A connected company ecosystem: **OYIL Attires** for fashion rental and booking, **OYIL Luxe** for premium shopping, and **OYIL Admin CMS** for managing products, inventory, customers, orders, rentals, shipping, returns, and billing workflows. My work is within the frontend product experience, across storefront and operational workflows.
+| Product | Product focus | Engineering orbit |
+| --- | --- | --- |
+| **Kellygang.ai** | AI-powered creative platform, including a wedding studio experience. The existing profile describes a React Native / Expo app and VOWS Studio as a creative studio within it. | `React Native` · `Expo` · `modular UI` |
+| **CareerPro AI** | Career development platform with resume editing, preview and export workflows, plus mock-interview experiences with response capture and speech transcription. | `React` · `JavaScript` · `application state` · `API integration` |
+| **ETradeHub** | B2B marketplace product. | `Frontend product engineering` |
+| **OYIL Luxe** | Premium shopping within the OYIL commerce ecosystem, alongside OYIL Attires and OYIL Admin CMS. The existing profile describes product, inventory, customer, order and rental management across that ecosystem. | `React` · `Vite` · `JavaScript` · `APIs` |
 
-`React` · `Vite` · `JavaScript` · `APIs`
+### Other engineering work
 
-### CareerPro AI · Career platform
+**3D Previs & Staging** — Interactive scene visualization and arrangement, including asset placement and transforms, camera controls, and animation/keyframe workflows. `React` · `Three.js` · `React Three Fiber` · `JavaScript`
 
-Frontend workflows for resume editing, preview and export, alongside mock-interview experiences with response capture and speech transcription. AI-assisted feedback is presented as a platform capability, not as my ownership of its underlying models or services.
+**Browser-based video editor** — Interactive editing workflows and client-side media processing. Export controls and supported formats depend on the current implementation. `React` · `WebCodecs` · `Mediabunny` · `Canvas` · `Web Audio`
 
-`React` · `JavaScript` · `application state` · `API integration`
-
-### Browser-based video editor · Media engineering
-
-A browser video-editing and export experience. The engineering challenge spans interactive editing workflows and client-side media processing; export controls and supported formats depend on the current implementation.
-
-`React` · `WebCodecs` · `Mediabunny` · `Canvas` · `Web Audio`
-
-### Kellygang.ai · Creative mobile application
-
-A React Native and Expo application with a modular creative experience, navigation, and reusable UI. **VOWS Studio** is presented as a creative studio within this parent application; prototype and development-stage modules should not be read as completed features.
-
-`React Native` · `Expo`
-
-### VOWS · Creative wedding studio within Kellygang.ai
-
-A modular concept for organizing wedding production workflows, including project planning, couple and venue concepts, decor, invitations, storyboards, photography, cinematic video, and editing. Module availability varies; 3D staging and visualization are included only where implemented.
-
-`React Native` · `Expo` · `modular UI` · `3D workflows where implemented`
-
-## `04 / PROFESSIONAL EXPERIENCE`
+## `04 / EXPERIENCE`
 
 **Associate Software Engineer · Zevotria**  
 *July 2025–Present · Madurai*
 
-Building frontend product experiences with React and related tools. The role includes collaborative product development and supporting other engineers. A previous profile draft mentioned a 4× page-load improvement and mentoring four interns; I’ve left those specific claims out until their scope and evidence can be confirmed.
+Building frontend product experiences with React and related tools. The role includes collaborative product development and supporting other engineers.
 
 **MERN Stack Developer Intern · MindVision Technologies**  
 *January 2025–June 2025 · Madurai*
 
-Built React pages and reusable UI components, connecting frontend features to backend APIs. This internship is listed separately from professional employment.
+Built React pages and reusable UI components, connecting frontend features to backend APIs.
 
-## `05 / ENGINEERING INVESTIGATION UNIT`
+## `05 / CONTRIBUTION UNIVERSE`
+
+A map of the tools and systems I work with—not a claim about contribution volume. The profile cards below are generated from GitHub account data by the existing repository workflows.
+
+<div align="center">
+
+<img src="assets/contribution-universe.svg" alt="A conceptual map connecting frontend, 3D and motion, media, APIs, and delivery engineering around product engineering." width="100%">
+
+<img src="public/github-stats.svg" alt="GitHub profile statistics generated by the repository workflow" width="49%">
+<img src="public/github-top-langs.svg" alt="Most-used languages in public repositories, generated by the repository workflow" width="49%">
+
+</div>
+
+## `06 / EDUCATION`
+
+- **MCA**, K.L.N. College of Engineering · 2023–2025
+- **B.Sc. Computer Science**, KLN Arts and Science College · 2019–2022
+
+## `07 / DEBUG CONSOLE`
 
 ```text
 BUG DETECTED
@@ -94,34 +93,14 @@ LOCATION: somewhere between the state and the UI
 STATUS: reproducing before changing production
 ```
 
-The fun part is finding the actual cause—not adding another speculative fix.
+The fun part is finding the actual cause—not adding another speculative fix. CSS isn’t broken; it just has a personality.
 
-## `06 / CONTRIBUTION UNIVERSE`
+## `08 / LET’S BUILD SOMETHING`
 
-A small map of the tools and systems I work with—not a claim about contribution volume. GitHub activity and language cards below are generated from account data by the existing profile workflows.
-
-<div align="center">
-
-<img src="assets/contribution-universe.svg" alt="An original map connecting frontend, 3D, media, APIs, and delivery engineering" width="100%">
-
-<img src="public/github-stats.svg" alt="GitHub profile statistics" width="49%">
-<img src="public/github-top-langs.svg" alt="Most-used languages in public repositories" width="49%">
-
-</div>
-
-## `07 / EDUCATION`
-
-- **MCA**, K.L.N. College of Engineering · 2023–2025
-- **B.Sc. Computer Science**, KLN Arts and Science College · 2019–2022
-
-CGPAs are omitted for now: the existing profile and supplied details disagree, and I don’t have a current resume attached here to resolve them.
-
-## `08 / CONNECTION PORTAL`
-
-Interested in frontend product engineering, interactive web applications, or 3D and media experiences? [Explore my portfolio](https://bhogyaan.vercel.app), [connect on LinkedIn](https://linkedin.com/in/bhogyaannr), or [email me](mailto:bhogyaannr@gmail.com).
+Interested in frontend product engineering, interactive web applications, or 3D and media experiences? [Explore my portfolio](https://bhogyaan.vercel.app), [connect on LinkedIn](https://linkedin.com/in/bhogyaannr), or [send me an email](mailto:bhogyaannr@gmail.com).
 
 <div align="center">
 
-<sub>BHOGYAAN OS · Professional engineer. Unprofessional bugs.</sub>
+<sub>THE FRONTEND UNIVERSE · Professional engineer. Unprofessional bugs.</sub>
 
 </div>

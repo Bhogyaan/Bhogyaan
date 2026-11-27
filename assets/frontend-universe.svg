@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">The Frontend Universe — N R Bhogyaan</title>
+  <desc id="desc">A dark, luminous developer universe. The React, Next.js, JavaScript, and product engineering systems orbit N R Bhogyaan, a frontend software engineer in Madurai, India.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset=".56" stop-color="#101528"/><stop offset="1" stop-color="#17122b"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#61e5e8"/><stop offset=".52" stop-color="#8d83ff"/><stop offset="1" stop-color="#d49aff"/></linearGradient>
+    <radialGradient id="core"><stop stop-color="#b5a7ff" stop-opacity=".42"/><stop offset=".48" stop-color="#7368e8" stop-opacity=".17"/><stop offset="1" stop-color="#6c61dc" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b6c4ff" stroke-opacity=".045"/></pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#b6bcff" stroke-opacity=".18"/>
+  <ellipse cx="875" cy="216" rx="355" ry="270" fill="url(#core)"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+    <rect x="48" y="36" width="1104" height="38" rx="10" fill="#080d19" fill-opacity=".8" stroke="#9b9eff" stroke-opacity=".2"/>
+    <circle cx="70" cy="55" r="4" fill="#ff718c"/><circle cx="85" cy="55" r="4" fill="#ffd166"/><circle cx="100" cy="55" r="4" fill="#63e6be"/>
+    <text x="122" y="60" fill="#aeb8d4" font-size="12" letter-spacing="1">THE FRONTEND UNIVERSE  /  BHOGYAAN</text>
+    <text x="1124" y="60" text-anchor="end" fill="#71e5cb" font-size="11">SYSTEM ONLINE</text>
+  </g>
+
+  <g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif">
+    <text x="72" y="139" fill="#76e4ec" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="2">FRONTEND ENGINEER · PRODUCT BUILDER</text>
+    <text x="68" y="207" fill="#f4f5ff" font-size="48" font-weight="800" letter-spacing="-1.6">N R BHOGYAAN</text>
+    <text x="72" y="242" fill="#cbd0e5" font-size="19" font-weight="600">Interfaces with a little more universe.</text>
+    <text x="72" y="274" fill="#aab4cf" font-size="14">React · Next.js · JavaScript · interactive product engineering</text>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="600" letter-spacing=".4">
+    <rect x="72" y="303" width="105" height="30" rx="15" fill="#15273a" stroke="#5bd9e8" stroke-opacity=".48"/><text x="124" y="322" text-anchor="middle" fill="#9cecf1">REACT.JS</text>
+    <rect x="187" y="303" width="101" height="30" rx="15" fill="#201d3b" stroke="#9184ff" stroke-opacity=".56"/><text x="237" y="322" text-anchor="middle" fill="#c5bbff">NEXT.JS</text>
+    <rect x="300" y="303" width="122" height="30" rx="15" fill="#262039" stroke="#c091f5" stroke-opacity=".48"/><text x="361" y="322" text-anchor="middle" fill="#e0c3ff">JAVASCRIPT</text>
+  </g>
+  <text x="72" y="378" fill="#8994b2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">MADURAI, INDIA  ·  1.5+ YEARS BUILDING FOR THE WEB</text>
+
+  <g fill="none" stroke="url(#edge)">
+    <ellipse cx="866" cy="220" rx="220" ry="76" transform="rotate(-28 866 220)" stroke-opacity=".34"/>
+    <ellipse cx="866" cy="220" rx="174" ry="113" transform="rotate(34 866 220)" stroke-opacity=".27"/>
+    <ellipse cx="866" cy="220" rx="128" ry="146" transform="rotate(-61 866 220)" stroke-opacity=".22"/>
+  </g>
+  <g fill="#d5cbff" opacity=".8"><circle cx="692" cy="116" r="1.5"/><circle cx="1081" cy="138" r="1.5"/><circle cx="1057" cy="323" r="1.7"/><circle cx="723" cy="345" r="1.4"/><circle cx="936" cy="92" r="1.3"/><circle cx="1110" cy="248" r="1.2"/></g>
+
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">
+    <g><circle cx="702" cy="171" r="20" fill="#13283a" stroke="#5bd9e8" stroke-opacity=".75"/><text x="702" y="175" fill="#9cecf1">JS</text></g>
+    <g><circle cx="1033" cy="153" r="23" fill="#211e3c" stroke="#9b8cff" stroke-opacity=".72"/><text x="1033" y="157" fill="#c9beff">UI</text></g>
+    <g><circle cx="1044" cy="287" r="20" fill="#29203b" stroke="#c793f4" stroke-opacity=".7"/><text x="1044" y="291" fill="#e2c2ff">3D</text></g>
+    <g><circle cx="733" cy="305" r="21" fill="#142a31" stroke="#69ddbd" stroke-opacity=".7"/><text x="733" y="309" fill="#a6f1d8">API</text></g>
+  </g>
+  <g filter="url(#softGlow)">
+    <circle cx="866" cy="220" r="60" fill="#17182d" stroke="#b8a8ff" stroke-opacity=".72" stroke-width="1.5"/>
+    <circle cx="866" cy="220" r="50" fill="url(#core)"/>
+    <text x="866" y="215" text-anchor="middle" fill="#f5f2ff" font-family="ui-sans-serif,system-ui,sans-serif" font-size="23" font-weight="800">NRB</text>
+    <text x="866" y="236" text-anchor="middle" fill="#b9b8dc" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8" letter-spacing="1.4">PRODUCT UI</text>
+  </g>
+  <circle cx="866" cy="220" r="4" fill="#94edec"><animate attributeName="opacity" values=".45;1;.45" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="680" cy="254" r="3" fill="#9cecf1"><animate attributeName="r" values="2.5;4;2.5" dur="4.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1010" cy="331" r="3" fill="#d6b4ff"><animate attributeName="opacity" values=".35;.9;.35" dur="5.1s" repeatCount="indefinite"/></circle>
+  <rect x="0" y="422" width="1200" height="8" rx="4" fill="url(#edge)"/>
+</svg>
