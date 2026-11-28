@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">N R Bhogyaan — Frontend Engineer</title>
-  <desc id="desc">A custom dark portfolio scene combining a browser window and terminal, introducing a product-focused frontend engineer working with React, Next.js, JavaScript and thoughtful interfaces.</desc>
+  <desc id="desc">A custom dark, animated 3D-inspired interface scene with an isometric product dashboard, orbiting technology nodes, and a softly pulsing data visualization. Frontend engineer in Madurai building with React, Next.js, JavaScript, Three.js and browser media.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d17"/><stop offset=".58" stop-color="#12172a"/><stop offset="1" stop-color="#20152b"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62e1d1"/><stop offset=".54" stop-color="#8494ff"/><stop offset="1" stop-color="#d49af0"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#7e75ef" stop-opacity=".25"/><stop offset="1" stop-color="#7e75ef" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset=".55" stop-color="#11182a"/><stop offset="1" stop-color="#20152d"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62e1d1"/><stop offset=".52" stop-color="#8295ff"/><stop offset="1" stop-color="#d49af0"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16253a"/><stop offset="1" stop-color="#131629"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8375f2" stop-opacity=".25"/><stop offset="1" stop-color="#8375f2" stop-opacity="0"/></radialGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#d7dfff" stroke-opacity=".035"/></pattern>
+    <filter id="shadow" x="-.3" y="-.3" width="1.7" height="1.8"><feGaussianBlur stdDeviation="12"/></filter>
   </defs>
-  <rect width="1200" height="430" rx="24" fill="url(#bg)"/><rect width="1200" height="430" rx="24" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#b9c3ff" stroke-opacity=".19"/>
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#b9c3ff" stroke-opacity=".2"/>
   <ellipse cx="900" cy="210" rx="355" ry="260" fill="url(#glow)"/>
   <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
     <text x="52" y="48" fill="#8ce4df" font-size="10" letter-spacing="2.3">BHOGYAAN / FRONTEND ENGINEERING</text>
@@ -18,7 +21,7 @@
     <text x="56" y="126" fill="#c9a6f4" font-size="12" font-weight="700" letter-spacing="2.5">I TURN PIXELS INTO PRODUCTS.</text>
     <text x="52" y="188" fill="#f5f4fb" font-size="45" font-weight="800" letter-spacing="-1.6">Frontend Engineer</text>
     <text x="56" y="225" fill="#c4c9dd" font-size="17">Product-minded interfaces, built to work everywhere.</text>
-    <text x="56" y="260" fill="#9ba7c2" font-size="13">React · Next.js · JavaScript · UI systems · browser experiences</text>
+    <text x="56" y="260" fill="#9ba7c2" font-size="13">React · Next.js · JavaScript · Three.js · browser experiences</text>
   </g>
   <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10">
     <rect x="56" y="300" width="112" height="29" rx="14" fill="#122a31" stroke="#62e1d1" stroke-opacity=".5"/><text x="112" y="319" text-anchor="middle" fill="#a8eee5">DESIGN</text>
@@ -26,22 +29,51 @@
     <rect x="300" y="300" width="112" height="29" rx="14" fill="#291d37" stroke="#d49af0" stroke-opacity=".5"/><text x="356" y="319" text-anchor="middle" fill="#e6c6fb">REFINE</text>
     <text x="56" y="385" fill="#8d98b4" font-size="10" letter-spacing="1">ASSOCIATE SOFTWARE ENGINEER · ZEVOTRIA · 1.5+ YEARS</text>
   </g>
+  <!-- Isometric product canvas -->
+  <ellipse cx="885" cy="354" rx="250" ry="24" fill="#050914" opacity=".55" filter="url(#shadow)"/>
   <g>
-    <rect x="650" y="86" width="490" height="270" rx="15" fill="#090f1a" stroke="#b1b8ed" stroke-opacity=".35"/>
-    <path d="M650 101a15 15 0 0115-15h460a15 15 0 0115 15v25H650z" fill="#171c2d"/>
-    <circle cx="672" cy="105" r="4" fill="#ff718c"/><circle cx="687" cy="105" r="4" fill="#ffd166"/><circle cx="702" cy="105" r="4" fill="#62e1d1"/>
-    <rect x="754" y="96" width="252" height="18" rx="9" fill="#0c1220"/><text x="880" y="109" text-anchor="middle" fill="#8f9bb5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8">bhogyaan / product-ui</text>
-    <rect x="671" y="146" width="448" height="182" rx="8" fill="#0e1523" stroke="#8594ff" stroke-opacity=".16"/>
-    <text x="694" y="171" fill="#7f8ba7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9">01  APPLICATION / OVERVIEW</text>
-    <rect x="694" y="189" width="175" height="115" rx="8" fill="#151f31" stroke="#65dbd0" stroke-opacity=".26"/>
-    <text x="709" y="213" fill="#9ce8df" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8">PRODUCT UI</text>
-    <path d="M709 235h137M709 246h110M709 257h121" stroke="#657693" stroke-opacity=".64" stroke-width="3" stroke-linecap="round"/>
-    <rect x="709" y="276" width="68" height="14" rx="7" fill="#324775"/><text x="743" y="286" text-anchor="middle" fill="#d5dcff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">BUILD FLOW</text>
-    <rect x="888" y="189" width="208" height="115" rx="8" fill="#17172b" stroke="#c091f0" stroke-opacity=".28"/>
-    <text x="905" y="213" fill="#d0b1f1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8">STATE → API → INTERFACE</text>
-    <circle cx="926" cy="256" r="13" fill="#192b36" stroke="#62e1d1" stroke-opacity=".75"/><circle cx="992" cy="256" r="13" fill="#232440" stroke="#8494ff" stroke-opacity=".75"/><circle cx="1057" cy="256" r="13" fill="#2a2037" stroke="#d49af0" stroke-opacity=".75"/>
-    <path d="M939 256h40M1005 256h39" stroke="url(#accent)" stroke-width="1.5"/><text x="926" y="259" text-anchor="middle" fill="#d9f6f1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">UI</text><text x="992" y="259" text-anchor="middle" fill="#d9dcff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">API</text><text x="1057" y="259" text-anchor="middle" fill="#f1d8ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="7">UX</text>
-    <rect x="671" y="338" width="448" height="1" fill="#aeb8db" fill-opacity=".16"/>
+    <path d="M684 298 894 180 1110 300 898 419Z" fill="#0a1020" stroke="#6e83d6" stroke-opacity=".42"/>
+    <path d="M684 298 898 419v-20L684 278z" fill="#10172a" stroke="#6e83d6" stroke-opacity=".32"/>
+    <path d="M898 419 1110 300v-20L898 399z" fill="#17152a" stroke="#9b82e8" stroke-opacity=".38"/>
+    <path d="m713 296 181-101 185 103-181 102z" fill="url(#screen)" stroke="#7c91ef" stroke-opacity=".6"/>
+    <path d="m733 296 160-89 164 91-160 90z" fill="#0d1423" stroke="#65dbd0" stroke-opacity=".2"/>
+    <path d="m733 296 160 92v-90l-160-91z" fill="#111c2c" opacity=".8"/>
+    <path d="m893 388 164-90v-90l-164 88z" fill="#13172a" opacity=".9"/>
+    <path d="M752 296 893 217l143 80-143 80z" fill="none" stroke="#8594ff" stroke-opacity=".16"/>
+    <g fill="none" stroke="#8ddbe0" stroke-opacity=".15" stroke-width="1">
+      <path d="m779 280 142 81M807 264l143 81M836 248l143 81M865 232l143 81"/>
+      <path d="m779 280 142-79M807 296l142-79M836 312l142-79M865 328l142-79"/>
+    </g>
+    <!-- Floating interface window -->
+    <g>
+      <path d="m758 249 115-65 118 66-116 65z" fill="#0b1220" stroke="#7c91ef" stroke-opacity=".62"/>
+      <path d="m758 249 117 67v-15l-117-67z" fill="#172238" stroke="#7c91ef" stroke-opacity=".32"/>
+      <path d="m875 316 116-66v-15l-116 66z" fill="#211b35" stroke="#a38bea" stroke-opacity=".35"/>
+      <path d="m773 248 101-57 100 56-100 57z" fill="#121b2c"/>
+      <path d="m790 245 81-46 79 45-82 46z" fill="#17243a" stroke="#62e1d1" stroke-opacity=".28"/>
+      <path d="m804 242 30-17 42 24-31 17z" fill="#264156" stroke="#62e1d1" stroke-opacity=".65"/>
+      <path d="m845 218 46-26 46 26-46 26z" fill="#242742" stroke="#a991ff" stroke-opacity=".55"/>
+      <path d="m857 218 34-19 33 19-34 19z" fill="#303254"/>
+      <path d="m835 273 35-20M848 280l42-24M867 285l31-18" stroke="#9ca9c8" stroke-opacity=".48" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <!-- Live signal chart -->
+    <g>
+      <path d="m945 294 83-47 50 28-83 48z" fill="#101829" stroke="#d49af0" stroke-opacity=".45"/>
+      <path d="m958 294 15-8 12 3 14-18 12 4 17-17 17 10 16-9" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <animate attributeName="stroke-opacity" values=".55;1;.55" dur="3.4s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="1028" cy="258" r="3" fill="#d49af0"><animate attributeName="r" values="2.5;4;2.5" dur="2.2s" repeatCount="indefinite"/></circle>
+    </g>
   </g>
+  <!-- Orbiting technology nodes: a small motion accent, no scripts or external assets. -->
+  <g fill="none" stroke="#8b9cff" stroke-opacity=".28">
+    <ellipse cx="884" cy="223" rx="229" ry="77" transform="rotate(-25 884 223)"/>
+    <ellipse cx="884" cy="223" rx="190" ry="61" transform="rotate(24 884 223)" stroke="#62e1d1" stroke-opacity=".2"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700" text-anchor="middle">
+    <g><circle cx="696" cy="158" r="19" fill="#112832" stroke="#62e1d1"/><text x="696" y="161" fill="#b6f2e7">JS</text><animateTransform attributeName="transform" type="rotate" from="0 884 223" to="360 884 223" dur="34s" repeatCount="indefinite"/></g>
+    <g><circle cx="1044" cy="146" r="19" fill="#1d1e38" stroke="#a991ff"/><text x="1044" y="149" fill="#d8caff">3D</text><animateTransform attributeName="transform" type="rotate" from="0 884 223" to="-360 884 223" dur="42s" repeatCount="indefinite"/></g>
+  </g>
+  <g fill="#7de2d2" opacity=".8"><circle cx="1075" cy="211" r="2"><animate attributeName="cy" values="211;204;211" dur="4s" repeatCount="indefinite"/></circle><circle cx="718" cy="337" r="1.7"><animate attributeName="cy" values="337;331;337" dur="5s" repeatCount="indefinite"/></circle></g>
   <path d="M0 422H1200" stroke="url(#accent)" stroke-width="5"/>
 </svg>
